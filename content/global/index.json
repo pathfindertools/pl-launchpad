@@ -15,10 +15,10 @@
     "black": "#000000"
   },
   "fonts": {
-    "font1": "Inter:wght@400;700",
-    "font2": "Archivo:wght@400;700",
+    "font1": "Suisse Intl",
+    "font2": "IBM Plex Mono:wght@400;700",
     "font3": "Rufina:wght@400;700",
-    "font4": "IBM Plex Mono:wght@400;700"
+    "font4": "Courier"
   },
   "sizeLeading": {
     "textXs": "12/20",
