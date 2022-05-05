@@ -65,6 +65,14 @@
       {
         "label": "About",
         "link": "/about/"
+      },
+      {
+        "label": "The Residency",
+        "link": "/residency/"
+      },
+      {
+        "label": "The PLN Network",
+        "link": "/pln/"
       }
     ],
     "navAlignment": "text-right",
