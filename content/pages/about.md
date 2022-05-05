@@ -11,7 +11,7 @@ blocks:
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     label: ''
-    headline: Residency
+    headline: About
     subhead: ''
     body: ''
     _template: banner
