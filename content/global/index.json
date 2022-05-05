@@ -55,9 +55,9 @@
   "logo": {
     "logoType": "Microgen",
     "logoTypeStyle": "text-white undefined text-base undefined font-bold",
-    "image": "http://res.cloudinary.com/protocolai/image/upload/v1646088242/cryptonet/protocol-logo_ewn4sv.png",
-    "imageWidth": "48",
-    "imageHeight": "48",
+    "image": "https://res.cloudinary.com/protocolai/image/upload/v1651780646/pl-launchpad/PL-LaunchPad-logo-Hex-dark-green-p-500_ph7mkk.png",
+    "imageWidth": "64",
+    "imageHeight": "64",
     "imageMargin": "24"
   },
   "nav": {
