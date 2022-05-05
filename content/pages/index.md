@@ -27,8 +27,10 @@ blocks:
       labelStyles: 'text-black font-1 text-sm mb-0 '
       headlineStyles: 'text-black font-1 text-5xl mb-0 '
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-black font-1 text-base mb-0 '
+      textStyles: 'text-white font-1 text-lg mb-0 '
       contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-accent1
     label: ''
     headline: ''
     subhead: ''
