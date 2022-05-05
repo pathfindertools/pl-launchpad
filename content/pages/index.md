@@ -7,7 +7,9 @@ blocks:
       padding: pt-48 pb-64 pr-10 pl-10
       width: narrow
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: text-white font-1 text-5xl mb-0 font-bold
+      headlineStyles: >-
+        text-white font-1 text-5xl mb-0 font-bold sm:text-white sm:font-1
+        sm:text-3xl sm:mb-0 sm:font-bold
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
