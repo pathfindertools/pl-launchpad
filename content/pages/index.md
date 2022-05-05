@@ -58,6 +58,28 @@ blocks:
       applying their skills to open-source Web3 initiatives that will be
       deployed worldwide & ultimately reshape our world.
     _template: banner
+  - style:
+      alignment: 'flex-row text-left items-center '
+      featureContent: 'w-1/2 min-h-0 '
+      padding: pt-20 pb-20 pr-10 pl-20
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-20 pb-20 pr-0 pl-10
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: 'text-black font-2 text-5xl mb-0 '
+      subheadStyles: 'text-black font-2 text-3xl mb-0 '
+      textStyles: 'text-accent1 font-2 text-xl mb-0 '
+      contentOrder: labelHeadingsContent
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1651780106/pl-launchpad/Sticky-Stock-Photo-1-p-1600_yxp5ts.jpg
+    label: ''
+    headline: ONBOARD
+    subhead: ''
+    body: >
+      Learn our stack and gain exposure to the entire Protocol Labs Network.
+      With over 30+ teams and 300+ web3 projects you'll spend the first 6 weeks
+      immersed on our web3 ecosystem.
+    _template: feature
 meta:
   pageTitle: PL Launchpad
   pageDescription: PL Launchpad
