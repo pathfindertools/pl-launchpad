@@ -52,9 +52,6 @@ blocks:
       ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-      ##
-
-
       ## Launchpad is designed for people who are passionate about joining the
       Web3 community, learning about the PL Network tools and protocols, and
       applying their skills to open-source Web3 initiatives that will be
