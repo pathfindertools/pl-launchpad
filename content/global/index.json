@@ -25,7 +25,7 @@
     "textSm": "14/24",
     "textMd": "16/28",
     "textLg": "18/34",
-    "textXl": "24/32",
+    "textXl": "23/36",
     "text2xl": "34/42",
     "text3xl": "28/40",
     "text4xl": "32/44",
@@ -63,8 +63,8 @@
   "nav": {
     "navItems": [
       {
-        "label": "Nav Item",
-        "link": "/"
+        "label": "About",
+        "link": "/about/"
       }
     ],
     "navAlignment": "text-right",
