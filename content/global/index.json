@@ -4,10 +4,10 @@
   "favicon": "https://res.cloudinary.com/protocolai/image/upload/v1649882296/filecoin-favicon_rn3bfm.png",
   "colors": {
     "primary": "#0156C2",
-    "accent1": "#0E4465",
+    "accent1": "#013172",
     "accent2": "#1BBF6E",
-    "accent3": "#2DD0DB",
-    "accent4": "#00D0DB",
+    "accent3": "#E58A5D",
+    "accent4": "#CE675F",
     "white": "#FFFFFF",
     "grayLight": "#E8E8EF",
     "gray": "#B0B0BF",
