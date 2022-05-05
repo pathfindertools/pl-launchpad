@@ -81,6 +81,6 @@ blocks:
     _template: feature
 meta:
   pageTitle: PL Launchpad
-  pageDescription: PL Launchpad
+  pageDescription: Landing Page
 ---
 
