@@ -12,7 +12,7 @@ blocks:
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     label: ''
-    headline: PLN Feature
+    headline: PLN Network
     subhead: ''
     body: ''
     _template: feature
