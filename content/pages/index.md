@@ -28,20 +28,17 @@ blocks:
       width: narrow
       labelStyles: 'text-black font-1 text-sm mb-0 '
       headlineStyles: 'text-black font-1 text-5xl mb-0 '
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      subheadStyles: 'text-white font-1 text-xl mb-6 '
       textStyles: 'text-white font-1 text-lg mb-0 '
       contentOrder: labelHeadingsContent
     background:
       fillStyles: bg-accent1
     label: ''
     headline: ''
-    subhead: ''
-    body: >
+    subhead: >-
       The Launchpad Program is a hiring & onboarding program designed for
       accelerating technical growth in the Web3 space.
-
-
-
+    body: >
       Launchpad aims to hire exceptional talent from diverse engineering and
       tech operations backgrounds into a six-week, full-time onboarding program
       designed to train, develop, and team-match talent with Web3 opportunities
