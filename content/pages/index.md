@@ -16,6 +16,9 @@ blocks:
     background:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1651779197/pl-launchpad/Karla-under-4-LPW_qldyrv.jpg
+      position: object-center
+      ornaments:
+        - alignment: bottom-left
     label: ''
     headline: BLAST OFF INTO WEB3 WITH LAUNCHPAD
     subhead: ''
