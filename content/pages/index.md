@@ -159,6 +159,23 @@ blocks:
       of exposure to our engineering teams you'll have time to match with a team
       that is solving problems that excite you.
     _template: feature
+  - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pr-10 pb-20 pl-10
+      width: normal
+      labelStyles: text-black font-1 text-sm mb-0
+      headlineStyles: text-black font-1 text-5xl mb-0
+      subheadStyles: text-black font-1 text-3xl mb-0
+      textStyles: text-black font-1 text-md mb-0
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: Join Us
+    subhead: ''
+    body: >
+      [Apply to be part of the Launchpad Resdiency here.
+      ](https://boards.greenhouse.io/protocollabs/jobs/4366933004)
+    _template: banner
 meta:
   pageTitle: PL Launchpad
   pageDescription: Landing Page
