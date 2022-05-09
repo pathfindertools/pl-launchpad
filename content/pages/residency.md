@@ -49,10 +49,19 @@ blocks:
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     label: ''
-    headline: This is the main headline
-    subhead: Here is a subhead
-    body: |
-      This is a rich text component you can add hyperlinks, etc.
+    headline: ''
+    subhead: ''
+    body: >
+      We believe the best engineering happens when people work on problems that
+      excite them. That is why we created the Launchpad Residency.&#x20;
+
+
+
+
+      You will have a 6-week onboarding program where you'll get exposure to our
+      engineering teams and technical stack. During the program you will work
+      with engineering managers, mentors, and leadership to find a team in our
+      ecosystem that is the best fit for you and your skillset.&#x20;
     _template: feature
 ---
 
