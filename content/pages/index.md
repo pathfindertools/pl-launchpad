@@ -105,11 +105,15 @@ blocks:
       subheadStyles: text-black font-1 text-3xl mb-0
       textStyles: text-black font-1 text-md mb-0
       contentOrder: labelHeadingsContent
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1652061174/Engage_Launchpad_Photo_ajgttc.jpg
     label: ''
-    headline: This is the main headline
-    subhead: Here is a subhead
-    body: |
-      This is a rich text component you can add hyperlinks, etc.
+    headline: Engage
+    subhead: ''
+    body: >
+      Build community with fellow launchpad residents and attend sessions with
+      technical leads who work on everything from IPFS to Piñata Cloud.&#x20;
     _template: feature
 meta:
   pageTitle: PL Launchpad
