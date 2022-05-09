@@ -27,10 +27,13 @@ blocks:
       textStyles: text-black font-1 text-md mb-0
       contentOrder: labelHeadingsContent
     label: ''
-    headline: This is the main headline
-    subhead: Here is a subhead
-    body: |
-      This is a rich text component you can add hyperlinks, etc.
+    headline: >-
+      Join the Protocol Labs Network through our launchpad engineering residency
+      program.ne
+    subhead: >-
+      The Launchpad Residency is designed to onboard exceptional engineers into
+      the web3 space.
+    body: ''
     _template: banner
 ---
 
