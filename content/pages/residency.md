@@ -12,9 +12,25 @@ blocks:
       textStyles: text-black font-1 text-md mb-0
       contentOrder: labelHeadingsContent
     label: ''
-    headline: Residency
+    headline: ''
     subhead: ''
     body: ''
     _template: feature
+  - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pr-10 pb-20 pl-10
+      width: normal
+      labelStyles: text-black font-1 text-sm mb-0
+      headlineStyles: text-black font-1 text-5xl mb-0
+      subheadStyles: text-black font-1 text-3xl mb-0
+      textStyles: text-black font-1 text-md mb-0
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: This is the main headline
+    subhead: Here is a subhead
+    body: |
+      This is a rich text component you can add hyperlinks, etc.
+    _template: banner
 ---
 
