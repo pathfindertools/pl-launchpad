@@ -115,6 +115,45 @@ blocks:
       Build community with fellow launchpad residents and attend sessions with
       technical leads who work on everything from IPFS to Piñata Cloud.&#x20;
     _template: feature
+  - style:
+      alignment: flex-row-reverse text-left items-center
+      featureContent: w-1/2 min-h-0
+      padding: pt-20 pb-20 pr-10 pl-20
+      featureImage: object-center object-scale-down
+      imagePadding: pt-20 pb-20 pr-20 pl-10
+      labelStyles: text-black font-1 text-sm mb-0
+      headlineStyles: text-black font-1 text-5xl mb-0
+      subheadStyles: text-black font-1 text-3xl mb-0
+      textStyles: text-black font-1 text-md mb-0
+      contentOrder: labelHeadingsContent
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1652061299/Build_Launchpad_Photo_iilipe.jpg
+    label: ''
+    headline: Build
+    subhead: ''
+    body: >
+      Have impact creating the next generation of the internet from the start by
+      diving deep into our protocol suite and creating a web3 project in your
+      first 6 weeks of onboarding.
+    _template: feature
+  - style:
+      alignment: flex-row-reverse text-left items-center
+      featureContent: w-1/2 min-h-0
+      padding: pt-20 pb-20 pr-10 pl-20
+      featureImage: object-center object-scale-down
+      imagePadding: pt-20 pb-20 pr-20 pl-10
+      labelStyles: text-black font-1 text-sm mb-0
+      headlineStyles: text-black font-1 text-5xl mb-0
+      subheadStyles: text-black font-1 text-3xl mb-0
+      textStyles: text-black font-1 text-md mb-0
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: This is the main headline
+    subhead: Here is a subhead
+    body: |
+      This is a rich text component you can add hyperlinks, etc.
+    _template: feature
 meta:
   pageTitle: PL Launchpad
   pageDescription: Landing Page
