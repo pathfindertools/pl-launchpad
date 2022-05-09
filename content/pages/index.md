@@ -6,7 +6,7 @@ blocks:
       minHeight: min-h-0
       padding: pt-48 pb-64 pr-10 pl-10
       width: narrow
-      labelStyles: 'text-black font-1 text-sm mb-0 '
+      labelStyles: 'text-black font-2 text-sm mb-0 '
       headlineStyles: >-
         text-white font-1 text-5xl mb-0 font-bold sm:text-white sm:font-1
         sm:text-3xl sm:mb-0 sm:font-bold
