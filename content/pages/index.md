@@ -70,7 +70,7 @@ blocks:
     subhead: ''
     body: >
       Feel you could be a fit for more than one of our engineering roles? Apply
-      into the Launchpad onboarding program.&#x20;
+      into the Launchpad onboarding program.
     _template: feature
   - style:
       alignment: 'flex-row text-left items-center '
