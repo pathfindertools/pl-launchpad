@@ -1,22 +1,6 @@
 ---
 blocks:
   - style:
-      alignment: flex-row-reverse text-left items-center
-      featureContent: w-1/2 min-h-0
-      padding: pt-20 pb-20 pr-10 pl-20
-      featureImage: object-center object-scale-down
-      imagePadding: pt-20 pb-20 pr-20 pl-10
-      labelStyles: text-black font-1 text-sm mb-0
-      headlineStyles: text-black font-1 text-5xl mb-0
-      subheadStyles: text-black font-1 text-3xl mb-0
-      textStyles: text-black font-1 text-md mb-0
-      contentOrder: labelHeadingsContent
-    label: ''
-    headline: ''
-    subhead: ''
-    body: ''
-    _template: feature
-  - style:
       textAlignment: text-left
       minHeight: min-h-0
       padding: pt-20 pb-20 pr-10 pl-10
@@ -79,6 +63,43 @@ blocks:
     headline: Joining the Protocol Labs Network
     subhead: Here is a subhead
     body: "&#x20;After completing the interview process, you will start your career in the Protocol Labs Network by joining the Launchpad Residency Program.\_ During your first 6 weeks, you will learn the mechanics of our protocol suite like IPFS, Filecoin, IPLD, and libp2p through hands-on labs, technical mentorship, expert Q\\&As, and training. At the same time, launchpad residents get to explore a variety of potential roles and teams within the PL Network to find the match for their interests, talents, and goals. We run the Residency Program year-round and accept applications on a rolling basis.\_\n"
+    _template: feature
+  - style:
+      alignment: flex-row-reverse text-left items-center
+      featureContent: w-1/2 min-h-0
+      padding: pt-20 pb-20 pr-10 pl-20
+      featureImage: object-center object-scale-down
+      imagePadding: pt-20 pb-20 pr-20 pl-10
+      labelStyles: text-black font-1 text-sm mb-0
+      headlineStyles: text-black font-1 text-5xl mb-0
+      subheadStyles: text-black font-1 text-3xl mb-0
+      textStyles: text-black font-1 text-md mb-0
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: ''
+    subhead: ''
+    body: ''
+    _template: feature
+  - style:
+      alignment: flex-row-reverse text-left items-center
+      featureContent: w-1/2 min-h-0
+      padding: pt-20 pb-20 pr-10 pl-20
+      featureImage: object-center object-scale-down
+      imagePadding: pt-20 pb-20 pr-20 pl-10
+      labelStyles: text-black font-1 text-sm mb-0
+      headlineStyles: text-black font-1 text-5xl mb-0
+      subheadStyles: text-black font-1 text-3xl mb-0
+      textStyles: text-black font-1 text-md mb-0
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: The Launchpad Onboarding Program
+    subhead: Here is a subhead
+    body: >
+      The Launchpad Program is our 6-week onboarding program that most people
+      joining our ecosystem go through. You’ll get to connect and build
+      fellowship with minds from across the web3 universe. Starting your first
+      week you will make an impact by creating a personal project, and be
+      exposed to mentorship from senior engineers.
     _template: feature
 ---
 
