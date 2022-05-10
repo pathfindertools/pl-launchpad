@@ -112,6 +112,21 @@ blocks:
       textStyles: text-black font-1 text-md mb-0
       contentOrder: labelHeadingsContent
     label: ''
+    headline: Former Residents
+    subhead: "Our teams are made up of people captivated by solving deep technical challenges. We’re open source and remote. We have engineers working across every time zone.\_The Residency program is designed for engineers that could be a fit in several roles across the Protocol Labs Network. "
+    body: "We know great engineers can come from a variety of backgrounds.\_Before joining the Launchpad Residency our alumni have been tech leads in web2, startup owners, product managers at FAANG companies, Ethereum Hackathon winners, and top open source contributors.\_&#x20;\n"
+    _template: banner
+  - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pr-10 pb-20 pl-10
+      width: normal
+      labelStyles: text-black font-1 text-sm mb-0
+      headlineStyles: text-black font-1 text-5xl mb-0
+      subheadStyles: text-black font-1 text-3xl mb-0
+      textStyles: text-black font-1 text-md mb-0
+      contentOrder: labelHeadingsContent
+    label: ''
     headline: Colo Week
     subhead: Remote forever doesn't mean we can't get together
     body: >
