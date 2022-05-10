@@ -91,6 +91,9 @@ blocks:
       subheadStyles: text-black font-1 text-3xl mb-0
       textStyles: text-black font-1 text-md mb-0
       contentOrder: labelHeadingsContent
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1652060980/Protocol118_wtlg0d.jpg
     label: ''
     headline: The Launchpad Onboarding Program
     subhead: ''
