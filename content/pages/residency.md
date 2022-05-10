@@ -91,9 +91,6 @@ blocks:
       subheadStyles: text-black font-1 text-3xl mb-0
       textStyles: text-black font-1 text-md mb-0
       contentOrder: labelHeadingsContent
-    image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1652060980/Protocol118_wtlg0d.jpg
     label: ''
     headline: The Launchpad Onboarding Program
     subhead: ''
@@ -105,20 +102,10 @@ blocks:
       exposed to mentorship from senior engineers.
     _template: feature
   - style:
-      textAlignment: text-left
       minHeight: min-h-0
+      fullWidth: true
       padding: pt-20 pr-10 pb-20 pl-10
-      width: normal
-      labelStyles: text-black font-1 text-sm mb-0
-      headlineStyles: text-black font-1 text-5xl mb-0
-      subheadStyles: text-black font-1 text-3xl mb-0
-      textStyles: text-black font-1 text-md mb-0
-      contentOrder: labelHeadingsContent
-    label: ''
-    headline: what about this
-    subhead: Here is a subhead
-    body: |
-      This is a rich text component you can add hyperlinks, etc.
-    _template: banner
+    markup: 'https://youtube.com/watch?v=hqpqheF6lv8'
+    _template: embed
 ---
 
