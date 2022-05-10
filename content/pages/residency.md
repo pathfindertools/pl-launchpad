@@ -117,6 +117,29 @@ blocks:
     body: "We know great engineers can come from a variety of backgrounds.\_Before joining the Launchpad Residency our alumni have been tech leads in web2, startup owners, product managers at FAANG companies, Ethereum Hackathon winners, and top open source contributors.\_&#x20;\n"
     _template: banner
   - style:
+      alignment: flex-row-reverse text-left items-center
+      featureContent: w-1/2 min-h-0
+      padding: pt-20 pb-20 pr-10 pl-20
+      featureImage: object-center object-scale-down
+      imagePadding: pt-20 pb-20 pr-20 pl-10
+      labelStyles: text-black font-1 text-sm mb-0
+      headlineStyles: text-black font-1 text-5xl mb-0
+      subheadStyles: text-black font-1 text-3xl mb-0
+      textStyles: text-black font-1 text-md mb-0
+      contentOrder: labelHeadingsContent
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1652197366/Curriculum_Image_no8uyn.jpg
+    label: ''
+    headline: The Launchpad Curriculum
+    subhead: >-
+      As an open-source network, you can find the entire curriculum here. During
+      the launchpad residency, you’ll dive deep into curated content about the
+      PL Network, IPFS, libp2p, IPLD, Filecoin, and the variety of tools & SDKs
+      that are used across the web3 universe.
+    body: ''
+    _template: feature
+  - style:
       textAlignment: text-left
       minHeight: min-h-0
       padding: pt-20 pr-10 pb-20 pl-10
