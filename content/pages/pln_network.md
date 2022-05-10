@@ -36,5 +36,20 @@ blocks:
     subhead: ''
     body: ''
     _template: banner
+  - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pr-10 pb-20 pl-10
+      width: normal
+      labelStyles: text-black font-1 text-sm mb-0
+      headlineStyles: text-black font-1 text-5xl mb-0
+      subheadStyles: text-black font-1 text-3xl mb-0
+      textStyles: text-black font-1 text-md mb-0
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: 'We push humanity forward through computing breakthroughs. '
+    subhead: ''
+    body: ''
+    _template: banner
 ---
 
