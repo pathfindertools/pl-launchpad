@@ -203,5 +203,36 @@ blocks:
     subhead: ''
     body: "We believe people do best when they’re working on projects they're excited about. With 30+ teams within Protocol Labs and 300+ companies in the Protocol Labs Network (PLN) now is a great time for people coming both inside and outside the web3 space to ramp up their knowledge and contribute to these cutting-edge technologies directly.\n\nFrom core distributed systems engineers to network researchers, to developer advocates, to technical writers, to startup operators, there are many exciting roles and opportunities across PLN teams and companies. Many of our engineers coming into the PLN have the skillset to fill many of these roles and it can be hard to pick just one to interview for. The Launchpad residency allows for you to explore different teams, solve complex problems from the first day you are hired, and team-match after being exposed to our entire ecosystem.\n\n\nOur teams are made up of people captivated by solving deep technical challenges. We’re open source and remote. We have engineers working across every time zone.\n‍\nThe Residency program is designed for engineers that could be a fit in several roles across the Protocol Labs Network. We know great engineers can come from a variety of backgrounds.\_Before joining the Launchpad Residency our alumni have been tech leads in web2, startup owners, product managers at FAANG companies, Ethereum Hackathon winners, and top open source contributors. \_\n"
     _template: feature
+  - style:
+      alignment: flex-row-reverse text-left items-center
+      featureContent: w-1/2 min-h-0
+      padding: pt-20 pb-20 pr-10 pl-20
+      featureImage: object-center object-scale-down
+      imagePadding: pt-20 pb-20 pr-20 pl-10
+      labelStyles: text-black font-1 text-sm mb-0
+      headlineStyles: text-black font-1 text-5xl mb-0
+      subheadStyles: text-black font-1 text-3xl mb-0
+      textStyles: text-black font-1 text-md mb-0
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: 'You might be a good fit if:'
+    subhead: Here is a subhead
+    body: >
+      *   You have extensive engineering experience in web2 or have been
+      invested in the web3 community for a while.
+
+      *   You could see yourself as a technical fit across more than one of our
+      open engineering roles
+
+      *   You have worked in roles that have had a high impact, whether at a
+      large company or a startup
+
+      *   You have worked with go, rust or blockchain.
+
+      *   You have experience with Smart contracts, EVM, WASM
+
+      *   You have a passion for open source code, solving complex problems, and
+      the web3 space.
+    _template: feature
 ---
 
