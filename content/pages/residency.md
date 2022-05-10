@@ -102,6 +102,29 @@ blocks:
       exposed to mentorship from senior engineers.
     _template: feature
   - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pr-10 pb-20 pl-10
+      width: normal
+      labelStyles: text-black font-1 text-sm mb-0
+      headlineStyles: text-black font-1 text-5xl mb-0
+      subheadStyles: text-black font-1 text-3xl mb-0
+      textStyles: text-black font-1 text-md mb-0
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: Colo Week
+    subhead: Remote forever doesn't mean we can't get together
+    body: >
+      Every resident gets the chance to attend an in-person week-long colocation
+      week. It’s a chance to meet members of the PL Network in real life. You
+      will attend in person sessions and live demos from experts in the web3
+      community. At the same time you’ll get to build a strong network with
+      other residents in the program. Oh, we also go to awesome places like
+      Amsterdam, Iceland and Austin. Most of the time colo week is held in
+      conjunction with other web3 community events like Devconnect or Consensus
+      Festival.
+    _template: banner
+  - style:
       minHeight: min-h-0
       fullWidth: true
       padding: pt-20 pr-10 pb-20 pl-10
