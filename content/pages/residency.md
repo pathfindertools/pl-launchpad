@@ -93,7 +93,7 @@ blocks:
       contentOrder: labelHeadingsContent
     label: ''
     headline: The Launchpad Onboarding Program
-    subhead: Here is a subhead
+    subhead: ''
     body: >
       The Launchpad Program is our 6-week onboarding program that most people
       joining our ecosystem go through. You’ll get to connect and build
