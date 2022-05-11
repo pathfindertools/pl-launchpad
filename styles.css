@@ -1,26 +1,26 @@
 @font-face {
-  font-family: 'Suisse Intl';
+  font-family: 'Aileron';
   font-style: normal;
   font-weight: 400;
-  src: url('/fonts/SuisseIntl-Regular-WebM.woff') format('woff');
+  src: url('/fonts/Aileron-Regular.woff') format('woff');
 }
 @font-face {
-  font-family: 'Suisse Intl';
-  font-style: italic;
-  font-weight: 400;
-  src: url('/fonts/SuisseIntl-RegularItalic-WebM.woff') format('woff');
-}
-@font-face {
-  font-family: 'Suisse Intl';
+  font-family: 'Aileron';
   font-style: normal;
   font-weight: 700;
-  src: url('/fonts/SuisseIntl-Bold-WebM.woff') format('woff');
+  src: url('/fonts/Aileron-Bold.woff') format('woff');
 }
 @font-face {
-  font-family: 'Suisse Intl';
-  font-style: italic;
-  font-weight: 700;
-  src: url('/fonts/SuisseIntl-BoldItalic-WebM.woff') format('woff');
+  font-family: 'Aileron Heavy';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/Aileron-Black.woff') format('woff');
+}
+@font-face {
+  font-family: 'Aileron Light';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/Aileron-Light.woff') format('woff');
 }
 
 .markdown p:not(:last-child) {
