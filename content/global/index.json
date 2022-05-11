@@ -4,7 +4,7 @@
   "favicon": "https://res.cloudinary.com/protocolai/image/upload/v1649882296/filecoin-favicon_rn3bfm.png",
   "colors": {
     "primary": "#0156C2",
-    "accent1": "#013172",
+    "accent1": "#241E7E",
     "accent2": "#1BBF6E",
     "accent3": "#E58A5D",
     "accent4": "#CE675F",
@@ -15,17 +15,17 @@
     "black": "#000000"
   },
   "fonts": {
-    "font1": "Suisse Intl",
-    "font2": "IBM Plex Mono:wght@400;700",
-    "font3": "Rufina:wght@400;700",
+    "font1": "Aileron",
+    "font2": "Source Serif Pro:wght@400;700",
+    "font3": "Source Code Pro:wght@400;700",
     "font4": "Courier"
   },
   "sizeLeading": {
     "textXs": "12/20",
     "textSm": "14/24",
     "textMd": "16/28",
-    "textLg": "18/34",
-    "textXl": "23/36",
+    "textLg": "18/35",
+    "textXl": "23/43",
     "text2xl": "34/42",
     "text3xl": "28/40",
     "text4xl": "32/44",
@@ -50,7 +50,7 @@
     "minorRounded": "rounded-none"
   },
   "links": {
-    "color": "primary"
+    "color": "white"
   },
   "logo": {
     "logoType": "Microgen",

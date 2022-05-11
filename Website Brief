@@ -1,0 +1,67 @@
+Website MVP:
+
+Have a website explaining what launchpad is:
+
+-Overview of the program
+-Include a timeline of the program and curriculum overview
+-Overview PLN network and web3
+-Current projects people in the network are working on
+
+Target Audience:
+-Mid level/senior software engineers coming from web2 who are looking to transition into web3
+-Current builders in the web3 space
+-Startup operators
+-Technically anyone and everyone
+
+
+
+Cadet Experience:
+
+  -Previous projects cadets are working on
+  -Where previous cadets have come from/user personas
+  -What the program is not
+  -Difference between matched vs unmatched cadets
+  
+Other:
+
+-Website must be able to be modified easily since Launchpad will change as we iterate on it.
+-Must be hosted on web3
+
+Nice to haves:
+-A section for current folks in the PLN network interested in launchpad and hiring managers
+-Application integration through greenhouse(I am checking with Jeremy K on talent to make sure this is possible)
+-Colo week page
+-Add in melody sheep video
+
+Stretch Goals
+-Research section(specifically focused on funding the commons)
+-Outer-core section
+-Map of the PLN network and research with tech stacks
+-Pre-reqs for the program/pre-work
+-Alumni page
+
+Design Mood
+-Inviting
+-Exciting but not infantilizing.
+-Space themed
+
+Existing research, products/projects, or other preliminary work (PL and external)
+Blog Post
+Launchpad Engineer Job Description
+Launchpad Startup Operator [https://boards.greenhouse.io/protocollabs/jobs/4370216004]
+
+Inspiration and analogous work
+-[(https://protocol-labs.gitbook.io/launchpad-curriculum/)]
+-
+
+Additional details
+Stack Proposal:
+-Microgen
+-Tinacloud
+-Fleek
+
+Limitations on Stack:
+-I have basic vanilla js experience and am still ramping up to web3/the PLN network so I both very open to trying new things/learning but still need this website to be easily changeable.
+
+When I need it
+P1

@@ -4,7 +4,7 @@ import { Header } from "./header";
 import { Blocks } from "../components/blocks";
 
 const systemFonts = ['Arial','Courier','Geneva','Georgia', 'Helvetica','Impact','Lucida Console','Lucida Grande','Monaco','Palatino','Tahoma','Times New Roman','Verdana']
-const customFonts = ['Suisse Intl']
+const customFonts = ['Aileron', 'Aileron Light', 'Aileron Heavy']
 
 const googleFontsLink = (fonts) => {
   const fontList = [fonts.font1, fonts.font2, fonts.font3, fonts.font4].filter(item => item !== undefined || '')

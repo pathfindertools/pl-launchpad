@@ -1,9 +1,15 @@
-# Microgen
+# Launchpad Website
+
+This repository contains code and content for the Launchpad Residency + Program Website a a hiring and onboarding program for the Protocol Labs Network. 
+
+Contributions are more than welcome!
+
+
 
 MicroGen is a starter template for quickly creating sites that can be customized and styled through a visual CMS.
 
-Staging  
-https://microgen.vercel.app
+Staging
+https://pl-launchpad.vercel.app/admin#/collections/pages
 
 CMS Login  
 https://microgen.vercel.app/admin/
