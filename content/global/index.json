@@ -26,13 +26,13 @@
     "textMd": "16/28",
     "textLg": "18/35",
     "textXl": "23/43",
-    "text2xl": "34/42",
-    "text3xl": "28/40",
-    "text4xl": "32/44",
-    "text5xl": "39/48",
-    "text6xl": "48/48",
-    "text7xl": "72/84",
-    "text8xl": "96/120"
+    "text2xl": "28/40",
+    "text3xl": "45/50",
+    "text4xl": "55/55",
+    "text5xl": "65/65",
+    "text6xl": "75/75",
+    "text7xl": "90/90",
+    "text8xl": "120/120"
   },
   "buttons": {
     "primaryFill": "bg-primary",
