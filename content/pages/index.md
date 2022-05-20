@@ -53,7 +53,7 @@ blocks:
     _template: banner
   - style:
       alignment: 'flex-row-reverse text-left items-center '
-      featureContent: 'w-1/2 min-h-0 '
+      featureContent: w-1/3 min-h-0 to-edge
       padding: pt-20 pb-20 pr-10 pl-20
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-20 pb-20 pr-20 pl-10
