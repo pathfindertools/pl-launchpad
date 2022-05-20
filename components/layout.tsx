@@ -4,7 +4,7 @@ import { Header } from "./header";
 import { Blocks } from "../components/blocks";
 
 const systemFonts = ['Arial','Courier','Geneva','Georgia', 'Helvetica','Impact','Lucida Console','Lucida Grande','Monaco','Palatino','Tahoma','Times New Roman','Verdana']
-const customFonts = ['Aileron', 'Aileron Light', 'Aileron Heavy']
+const customFonts = ['Suisse Intl']
 
 const googleFontsLink = (fonts) => {
   const fontList = [fonts.font1, fonts.font2, fonts.font3, fonts.font4].filter(item => item !== undefined || '')
@@ -61,6 +61,8 @@ export const Layout = ({
           dangerouslySetInnerHTML={{
             __html: `
             :root {
+              --site-width: ${globalData?.desktopWidth}px;
+              --edge-width: calc((100% - var(--site-width)) / 2);
               --primary-color: ${globalData?.colors?.primary};
               --accent1-color: ${globalData?.colors?.accent1};
               --accent2-color: ${globalData?.colors?.accent2};
