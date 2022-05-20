@@ -51,6 +51,23 @@ blocks:
       initiatives that will be deployed worldwide & ultimately reshape our
       world.
     _template: banner
+  - tailwind:
+      section: pt-40
+      wrap: ''
+      imageWrap: ''
+      image: ''
+      contentWrap: ''
+      content: ''
+      label: ''
+      headline: ''
+      subhead: ''
+      text: ''
+      buttons: ''
+    label: ''
+    headline: ''
+    subhead: ''
+    body: ''
+    _template: tailwindFeature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
@@ -116,10 +133,10 @@ blocks:
       technical leads who work on everything from IPFS to Piñata Cloud.&#x20;
     _template: feature
   - style:
-      alignment: 'flex-row text-left items-center '
+      alignment: 'flex-row text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
       padding: pt-20 pb-20 pr-20 pl-20
-      featureImage: object-center object-cover to-edge
+      featureImage: 'object-center object-cover '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-base mb-0 '
       headlineStyles: 'text-accent1 font-1 text-base mb-5 '
@@ -159,6 +176,23 @@ blocks:
       of exposure to our engineering teams you'll have time to match with a team
       that is solving problems that excite you.
     _template: feature
+  - tailwind:
+      section: pt-40
+      wrap: ''
+      imageWrap: ''
+      image: ''
+      contentWrap: ''
+      content: ''
+      label: ''
+      headline: ''
+      subhead: ''
+      text: ''
+      buttons: ''
+    label: ''
+    headline: ''
+    subhead: ''
+    body: ''
+    _template: tailwindFeature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-4/5 min-h-0 '
@@ -220,7 +254,7 @@ blocks:
       contentOrder: labelHeadingsContent
     cardStyle:
       fillStyles: bg-gray-light
-      padding: pt-20 pb-20 pr-20 pl-10
+      padding: pt-20 pb-20 pr-20 pl-20
       type: solid
       borderStyles: border-gray undefined-0
       labelStyles: 'text-black font-1 text-sm mb-0 '
