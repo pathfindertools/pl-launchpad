@@ -95,15 +95,15 @@ blocks:
       immersed on our web3 ecosystem.
     _template: feature
   - style:
-      alignment: flex-row-reverse text-left items-center
-      featureContent: w-1/2 min-h-0
+      alignment: 'flex-row-reverse text-left items-center '
+      featureContent: 'w-1/2 min-h-0 '
       padding: pt-20 pb-20 pr-10 pl-20
-      featureImage: object-center object-scale-down
-      imagePadding: pt-20 pb-20 pr-20 pl-10
-      labelStyles: text-black font-1 text-sm mb-0
-      headlineStyles: text-black font-1 text-5xl mb-0
-      subheadStyles: text-black font-1 text-3xl mb-0
-      textStyles: text-black font-1 text-md mb-0
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-20 pb-20 pr-0 pl-10
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: 'text-black font-1 text-5xl mb-0 '
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     image:
       src: >-
@@ -116,15 +116,15 @@ blocks:
       technical leads who work on everything from IPFS to Piñata Cloud.&#x20;
     _template: feature
   - style:
-      alignment: flex-row-reverse text-left items-center
-      featureContent: w-1/2 min-h-0
+      alignment: 'flex-row text-left items-center '
+      featureContent: 'w-1/2 min-h-0 '
       padding: pt-20 pb-20 pr-10 pl-20
-      featureImage: object-center object-scale-down
+      featureImage: 'object-center object-scale-down '
       imagePadding: pt-20 pb-20 pr-20 pl-10
-      labelStyles: text-black font-1 text-sm mb-0
-      headlineStyles: text-black font-1 text-5xl mb-0
-      subheadStyles: text-black font-1 text-3xl mb-0
-      textStyles: text-black font-1 text-md mb-0
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: 'text-black font-1 text-5xl mb-0 '
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     image:
       src: >-
