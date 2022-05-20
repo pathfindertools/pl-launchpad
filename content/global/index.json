@@ -62,20 +62,6 @@
     "imageMargin": "24"
   },
   "nav": {
-    "navItems": [
-      {
-        "label": "About",
-        "link": "/about/"
-      },
-      {
-        "label": "The Residency",
-        "link": "/residency/"
-      },
-      {
-        "label": "The PLN Network",
-        "link": "/pln/"
-      }
-    ],
     "navAlignment": "text-right",
     "navTypeStyle": "text-white font-2 text-base mb-0 font-bold",
     "navBackgroundColor": "from-primary to-accent2 bg-gradient-to-br",
