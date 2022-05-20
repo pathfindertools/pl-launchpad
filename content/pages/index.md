@@ -5,7 +5,7 @@ blocks:
       textAlignment: text-center
       minHeight: min-h-0
       padding: pt-14 pb-28 pr-10 pl-10
-      width: narrow
+      width: normal
       labelStyles: 'text-black font-2 text-sm mb-0 '
       headlineStyles: >-
         text-white font-2 text-5xl mb-0 font-bold sm:text-white sm:font-2
