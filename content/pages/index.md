@@ -420,20 +420,20 @@ blocks:
       textAlignment: text-left
       minHeight: min-h-0
       padding: pt-20 pb-20 pr-20 pl-20
-      contentWidth: w-8/12
+      contentWidth: w-9/12
       columns: '3'
       labelStyles: 'text-white font-2 text-sm mb-0 '
       headlineStyles: 'text-white font-2 text-4xl mb-0 '
       subheadStyles: 'text-white font-1 text-3xl mb-0 '
-      textStyles: 'text-white font-1 text-lg mb-10 '
+      textStyles: 'text-white font-1 text-lg mb-20 '
       contentOrder: labelHeadingsContent
     cardStyle:
       fillStyles: bg-gray
       padding: pt-4 pb-4 pr-0 pl-0
       type: solid
-      imageStyles: ' undefined undefined undefined'
+      imageStyles: ' undefined undefined mb-2.5'
       labelStyles: 'text-white undefined text-sm mb-0 '
-      headlineStyles: 'text-white font-2 text-2xl mb-0 '
+      headlineStyles: 'text-white font-2 text-2xl mb-2.5 '
       subheadStyles: 'text-white undefined text-lg mb-0 '
       textStyles: 'text-gray-light undefined text-base mb-0 '
       buttonType: primary
