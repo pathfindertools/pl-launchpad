@@ -419,13 +419,13 @@ blocks:
   - style:
       textAlignment: text-left
       minHeight: min-h-0
-      padding: pt-20 pr-20 pb-20 pl-20
-      contentWidth: w-full
+      padding: pt-20 pb-20 pr-20 pl-20
+      contentWidth: w-8/12
       columns: '3'
-      labelStyles: text-black font-1 text-sm mb-0
-      headlineStyles: text-black font-1 text-5xl mb-0
-      subheadStyles: text-black font-1 text-3xl mb-0
-      textStyles: text-black font-1 text-md mb-0
+      labelStyles: 'text-black font-2 text-sm mb-0 '
+      headlineStyles: 'text-accent1 font-2 text-3xl mb-0 '
+      subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
+      textStyles: 'text-accent1 font-1 text-base mb-0 '
       contentOrder: labelHeadingsContent
     cardStyle:
       fillStyles: bg-gray
@@ -436,23 +436,32 @@ blocks:
       textStyles: text-black text-sm mb-0
       buttonType: solid
     label: ''
-    headline: This is a headline
-    subhead: Here is a subhead
-    body: |
-      This is a rich text component you can add hyperlinks, etc.
+    headline: Launchpad Projects
+    subhead: ''
+    body: >
+      A key aspect of the Launchpad Residency is empowering new labbers to make
+      an impact from day 1. During the Launchpad program every resident
+      completes a personal project.
     items:
-      - headline: Here's Another Card
+      - headline: Debug
         subhead: ''
-        text: |
-          This is a rich text component you can add hyperlinks, etc.
-      - headline: Here's Another Card
+        text: >
+          Being open source is at the center of our ecosystem. With fresh eyes
+          and previous high technical impact, we love to see residents debug as
+          their project.
+      - headline: Build
         subhead: ''
-        text: |
-          This is a rich text component you can add hyperlinks, etc.
-      - headline: Here's Another Card
+        text: >
+          This website is a Launchpad project! So is a new tool created to
+          measure Distributed Hash Tables. We encourage our residents to pick a
+          project that they are excited about.
+      - headline: Collaborate
         subhead: ''
-        text: |
-          This is a rich text component you can add hyperlinks, etc.
+        text: >
+          One of the best parts of the Launchpad Residency is the collaboration
+          across the PLN and the web3 community. Previous projects have had
+          members from many different teams and backgrounds working together to
+          improve our Network.
     _template: photoCards
   - style:
       textAlignment: text-left
