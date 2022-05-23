@@ -417,6 +417,75 @@ blocks:
     body: "We believe people do best when they’re working on projects they're excited about. With 30+ teams within Protocol Labs and 300+ companies in the Protocol Labs Network (PLN) now is a great time for people coming both inside and outside the web3 space to ramp up their knowledge and contribute to these cutting-edge technologies directly.\n\nFrom core distributed systems engineers to network researchers, to developer advocates, to technical writers, to startup operators, there are many exciting roles and opportunities across PLN teams and companies. Many of our engineers coming into the PLN have the skillset to fill many of these roles and it can be hard to pick just one to interview for. The Launchpad residency allows for you to explore different teams, solve complex problems from the first day you are hired, and team-match after being exposed to our entire ecosystem.\n\nOur teams are made up of people captivated by solving deep technical challenges. We’re open source and remote. We have engineers working across every time zone.\n‍\nThe Residency program is designed for engineers that could be a fit in several roles across the Protocol Labs Network. We know great engineers can come from a variety of backgrounds.\_Before joining the Launchpad Residency our alumni have been tech leads in web2, startup owners, product managers at FAANG companies, Ethereum Hackathon winners, and top open source contributors. \_\n"
     _template: feature
   - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pb-20 pr-20 pl-20
+      contentWidth: w-full
+      columns: '2'
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: 'text-black font-1 text-5xl mb-0 '
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-black font-1 undefined mb-0 '
+      contentOrder: labelHeadingsContent
+    cardStyle:
+      fillStyles: bg-gray
+      padding: pt-4 pb-4 pr-0 pl-0
+      type: solid
+      imageStyles: h-60 object-scale-down object-left undefined
+      labelStyles: 'text-black undefined text-sm mb-0 '
+      headlineStyles: 'text-accent1 undefined text-2xl mb-0 '
+      subheadStyles: 'text-accent1 undefined text-lg mb-5 '
+      textStyles: 'text-accent1 undefined text-base mb-0 '
+      buttonType: primary
+    label: ''
+    headline: Launchpad Former Residents
+    subhead: ''
+    body: ''
+    items:
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653321493/pl-launchpad/resident-jenks_rwdxqy.jpg
+        headline: Jenks
+        subhead: Developer Advocate Filecoin Foundation
+        text: >
+          Never have I been so well trained in my professional career. The
+          program was so well designed and I walked out with 10x more
+          confidence, knowledge & sense of purpose to go into my role in the
+          network.
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653321488/pl-launchpad/resident-diego_fwnpzc.jpg
+        headline: Diego
+        subhead: Software Engineer Saturn Team
+        text: >
+          Launchpad program provided a structured and right-to-the-point
+          curriculum that allowed me to learn and process the topics with ease.
+          The colo week was just amazing and really motivating. I loved meeting
+          all of the others and having conversations around all the cool stuff
+          we do and will build. I have nothing but appreciation and gratitude
+          with everyone involved in making Launchpad possible. I am certain it
+          will only get better for future cohorts.
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653321496/pl-launchpad/resident-patrick_yvaeom.jpg
+        headline: Patrick
+        subhead: Technical Program Manager Retrival Markets
+        text: >
+          Within the first week, we met the lead maintainers for each of the
+          reference implementations for IPFS, IPLD, and libp2p - so we had an
+          expert to talk to for each knowledge area we were onboarding on. It
+          was also great to build camaraderie with other cohort members across
+          the whole PL Network - so now I have contacts on many different teams
+          I can reach out to and learn what’s going on. Having this support
+          system helped make diving into new areas much less daunting!
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653321485/pl-launchpad/resident-ally_jmwsdh.jpg
+        headline: Ally
+        subhead: Developer Advocate Filecoin Foundation
+        text: "Launchpad was an invaluable way to gain knowledge on the Protocol Labs (PL) ecosystem and obtain insight into the entire PL network of projects, tools and builders, all while expanding your own web3 network; gaining longstanding collaboration colleagues and friends.\_\n\nThe program offers a crucial path to getting up to speed on the essential building blocks of the network, including IPFS, IPLD, libp2p and Filecoin, through a well-structured content flow, study groups and Q\\&A sessions, and further provided insights into other critical projects being built by teams both within PL and its partners through workshops or presentations with the teams and by meeting people across the organisation.\_\n\nIt was also invaluable for surfacing opportunities to contribute to current tooling and projects, pinpointing both project and operational needs in the ecosystem and finding opportunities for both cross collaboration and, essentially, innovation ideas to start building upon.\n\nI'd recommend this program to anyone who is looking to gain a deeper understanding of the PL network and its partners or who wants to meaningfully contribute to the future of an open web through the PL ecosystem.\"&#x20;\n\n\n"
+    _template: photoCards
+  - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-0 '
       padding: pt-20 pb-20 pr-20 pl-20
