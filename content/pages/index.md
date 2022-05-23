@@ -458,7 +458,7 @@ blocks:
           their project.
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653323796/pl-launchpad/build_srwmmg.jpg
+            https://res.cloudinary.com/protocolai/image/upload/v1653324189/pl-launchpad/build_sw74uf.jpg
         headline: Build
         subhead: ''
         text: >
