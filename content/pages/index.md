@@ -422,19 +422,23 @@ blocks:
       padding: pt-20 pb-20 pr-20 pl-20
       contentWidth: w-8/12
       columns: '3'
-      labelStyles: 'text-black font-2 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-3xl mb-0 '
-      subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-1 text-base mb-0 '
+      labelStyles: 'text-white font-2 text-sm mb-0 '
+      headlineStyles: 'text-white font-2 text-3xl mb-0 '
+      subheadStyles: 'text-white font-1 text-3xl mb-0 '
+      textStyles: 'text-white font-1 text-base mb-0 '
       contentOrder: labelHeadingsContent
     cardStyle:
       fillStyles: bg-gray
-      padding: pt-4 pr-4 pb-4 pl-4
-      labelStyles: text-black text-sm mb-0
-      headlineStyles: text-black text-2xl mb-0
-      subheadStyles: text-black text-lg mb-0
-      textStyles: text-black text-sm mb-0
-      buttonType: solid
+      padding: pt-4 pb-4 pr-0 pl-0
+      type: solid
+      imageStyles: ' undefined undefined undefined'
+      labelStyles: 'text-white undefined text-sm mb-0 '
+      headlineStyles: 'text-white font-2 text-2xl mb-0 '
+      subheadStyles: 'text-white undefined text-lg mb-0 '
+      textStyles: 'text-gray-light undefined text-base mb-0 '
+      buttonType: primary
+    background:
+      fillStyles: from-accent2 to-primary bg-gradient-to-br
     label: ''
     headline: Launchpad Projects
     subhead: ''
