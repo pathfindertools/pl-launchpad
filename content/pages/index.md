@@ -446,7 +446,7 @@ blocks:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653321488/pl-launchpad/resident-diego_fwnpzc.jpg
         headline: Diego
-        subhead: Software Engineer Saturn Team
+        subhead: 'Software Engineer, Saturn Team'
         text: >
           Launchpad program provided a structured and right-to-the-point
           curriculum that allowed me to learn and process the topics with ease.
