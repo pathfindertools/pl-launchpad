@@ -423,7 +423,7 @@ blocks:
       contentWidth: w-full
       columns: '2'
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-black font-2 text-4xl mb-10 '
+      headlineStyles: 'text-black font-2 text-4xl mb-14 '
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
@@ -442,6 +442,15 @@ blocks:
     subhead: ''
     body: ''
     items:
+      - headline: Hugo
+        subhead: Software Engineer
+        text: >
+          I enjoy making meaningful contributions that can make a difference. In
+          the case of rust-libp2p, I believe introducing more linter checks to
+          CI will pay off tenfold in the future, both in overall code quality
+          and in preventing possible issues at runtime. Or, at the very least,
+          it can reduce code review effort. In the case of actors tests - citing
+          Michael C. Feathers, "Code without tests is bad code"
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653321488/pl-launchpad/resident-diego_fwnpzc.jpg
