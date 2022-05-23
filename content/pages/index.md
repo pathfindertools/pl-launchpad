@@ -423,7 +423,7 @@ blocks:
       contentWidth: w-full
       columns: '2'
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-black font-1 text-5xl mb-0 '
+      headlineStyles: 'text-black font-2 text-4xl mb-10 '
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
@@ -433,8 +433,8 @@ blocks:
       type: solid
       imageStyles: h-60 object-scale-down object-left undefined
       labelStyles: 'text-black undefined text-sm mb-0 '
-      headlineStyles: 'text-accent1 undefined text-2xl mb-0 '
-      subheadStyles: 'text-accent1 undefined text-lg mb-5 '
+      headlineStyles: 'text-accent1 font-2 text-2xl mb-0 '
+      subheadStyles: 'text-accent1 font-2 text-lg mb-5 '
       textStyles: 'text-accent1 undefined text-base mb-0 '
       buttonType: primary
     label: ''
@@ -442,16 +442,6 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653321493/pl-launchpad/resident-jenks_rwdxqy.jpg
-        headline: Jenks
-        subhead: Developer Advocate Filecoin Foundation
-        text: >
-          Never have I been so well trained in my professional career. The
-          program was so well designed and I walked out with 10x more
-          confidence, knowledge & sense of purpose to go into my role in the
-          network.
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653321488/pl-launchpad/resident-diego_fwnpzc.jpg
@@ -478,6 +468,16 @@ blocks:
           the whole PL Network - so now I have contacts on many different teams
           I can reach out to and learn what’s going on. Having this support
           system helped make diving into new areas much less daunting!
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653321493/pl-launchpad/resident-jenks_rwdxqy.jpg
+        headline: Jenks
+        subhead: 'Developer Advocate, Filecoin Foundation'
+        text: >
+          Never have I been so well trained in my professional career. The
+          program was so well designed and I walked out with 10x more
+          confidence, knowledge & sense of purpose to go into my role in the
+          network.
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653321485/pl-launchpad/resident-ally_jmwsdh.jpg
