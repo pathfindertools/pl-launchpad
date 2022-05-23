@@ -459,7 +459,7 @@ blocks:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653321496/pl-launchpad/resident-patrick_yvaeom.jpg
         headline: Patrick
-        subhead: Technical Program Manager Retrival Markets
+        subhead: 'Technical Program Manager, Retrival Markets'
         text: >
           Within the first week, we met the lead maintainers for each of the
           reference implementations for IPFS, IPLD, and libp2p - so we had an
