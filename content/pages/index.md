@@ -442,15 +442,6 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - headline: Hugo
-        subhead: Software Engineer
-        text: >
-          I enjoy making meaningful contributions that can make a difference. In
-          the case of rust-libp2p, I believe introducing more linter checks to
-          CI will pay off tenfold in the future, both in overall code quality
-          and in preventing possible issues at runtime. Or, at the very least,
-          it can reduce code review effort. In the case of actors tests - citing
-          Michael C. Feathers, "Code without tests is bad code"
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653321488/pl-launchpad/resident-diego_fwnpzc.jpg
@@ -493,6 +484,33 @@ blocks:
         headline: Ally
         subhead: 'Developer Advocate, Filecoin Foundation'
         text: "Launchpad was an invaluable way to gain knowledge on the Protocol Labs (PL) ecosystem and obtain insight into the entire PL network of projects, tools and builders, all while expanding your own web3 network; gaining longstanding collaboration colleagues and friends.\_\n\nThe program offers a crucial path to getting up to speed on the essential building blocks of the network, including IPFS, IPLD, libp2p and Filecoin, through a well-structured content flow, study groups and Q\\&A sessions, and further provided insights into other critical projects being built by teams both within PL and its partners through workshops or presentations with the teams and by meeting people across the organisation.\_\n\nIt was also invaluable for surfacing opportunities to contribute to current tooling and projects, pinpointing both project and operational needs in the ecosystem and finding opportunities for both cross collaboration and, essentially, innovation ideas to start building upon.\n\nI'd recommend this program to anyone who is looking to gain a deeper understanding of the PL network and its partners or who wants to meaningfully contribute to the future of an open web through the PL ecosystem.\"&#x20;\n\n\n"
+      - headline: Hugo
+        subhead: Software Engineer
+        text: >
+          I enjoy making meaningful contributions that can make a difference. In
+          the case of rust-libp2p, I believe introducing more linter checks to
+          CI will pay off tenfold in the future, both in overall code quality
+          and in preventing possible issues at runtime. Or, at the very least,
+          it can reduce code review effort. In the case of actors tests - citing
+          Michael C. Feathers, "Code without tests is bad code"
+      - headline: Joao
+        subhead: 'Technical Program Manager, Data Programs'
+        text: >
+          Launchpad was an incredibly educational and fun onboarding experience
+          that I would recommend to everyone joining the Protocol Labs network.
+          The content was thoughtfully curated and I felt like I gained the
+          fundamental knowledge necessary to make contributions to our technical
+          stack and strategy. Crucially, it was also a way for me to connect the
+          dots: from how everything works together in practice to who I should
+          go to for answers. I also really enjoyed the emphasis placed on
+          getting to know my cohort. It was a great way to meet a lot of my
+          peers from a wide variety of different teams and form some strong
+          relationships with colleagues. This was enabled by an amazing week
+          spent co-located in Amsterdam where I got to meet my colleagues in
+          real life in addition to meeting company leadership. Overall, I
+          couldn’t have asked for a better onboarding experience. This was more
+          engaging and educational than any other experience I’ve had in my web2
+          career.
     _template: photoCards
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
