@@ -484,7 +484,10 @@ blocks:
         headline: Ally
         subhead: 'Developer Advocate, Filecoin Foundation'
         text: "Launchpad was an invaluable way to gain knowledge on the Protocol Labs (PL) ecosystem and obtain insight into the entire PL network of projects, tools and builders, all while expanding your own web3 network; gaining longstanding collaboration colleagues and friends.\_\n\nThe program offers a crucial path to getting up to speed on the essential building blocks of the network, including IPFS, IPLD, libp2p and Filecoin, through a well-structured content flow, study groups and Q\\&A sessions, and further provided insights into other critical projects being built by teams both within PL and its partners through workshops or presentations with the teams and by meeting people across the organisation.\_\n\nIt was also invaluable for surfacing opportunities to contribute to current tooling and projects, pinpointing both project and operational needs in the ecosystem and finding opportunities for both cross collaboration and, essentially, innovation ideas to start building upon.\n\nI'd recommend this program to anyone who is looking to gain a deeper understanding of the PL network and its partners or who wants to meaningfully contribute to the future of an open web through the PL ecosystem.\"&#x20;\n\n\n"
-      - headline: Hugo
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653322479/pl-launchpad/resident-hugo_owk9nu.jpg
+        headline: Hugo
         subhead: Software Engineer
         text: >
           I enjoy making meaningful contributions that can make a difference. In
