@@ -423,9 +423,9 @@ blocks:
       contentWidth: w-8/12
       columns: '3'
       labelStyles: 'text-white font-2 text-sm mb-0 '
-      headlineStyles: 'text-white font-2 text-3xl mb-0 '
+      headlineStyles: 'text-white font-2 text-4xl mb-0 '
       subheadStyles: 'text-white font-1 text-3xl mb-0 '
-      textStyles: 'text-white font-1 text-base mb-0 '
+      textStyles: 'text-white font-1 text-lg mb-10 '
       contentOrder: labelHeadingsContent
     cardStyle:
       fillStyles: bg-gray
@@ -447,19 +447,28 @@ blocks:
       an impact from day 1. During the Launchpad program every resident
       completes a personal project.
     items:
-      - headline: Debug
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653323802/pl-launchpad/debug_ru5ul1.jpg
+        headline: Debug
         subhead: ''
         text: >
           Being open source is at the center of our ecosystem. With fresh eyes
           and previous high technical impact, we love to see residents debug as
           their project.
-      - headline: Build
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653323796/pl-launchpad/build_srwmmg.jpg
+        headline: Build
         subhead: ''
         text: >
           This website is a Launchpad project! So is a new tool created to
           measure Distributed Hash Tables. We encourage our residents to pick a
           project that they are excited about.
-      - headline: Collaborate
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
+        headline: Collaborate
         subhead: ''
         text: >
           One of the best parts of the Launchpad Residency is the collaboration
