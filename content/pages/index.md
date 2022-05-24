@@ -130,7 +130,7 @@ blocks:
     subhead: ''
     body: >
       Build community with fellow launchpad residents and attend sessions with
-      technical leads who work on everything from IPFS to Piñata Cloud.&#x20;
+      technical leads who work on everything from IPFS to Piñata Cloud
     _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
@@ -150,9 +150,7 @@ blocks:
     headline: Build
     subhead: ''
     body: >
-      Have impact creating the next generation of the internet from the start by
-      diving deep into our protocol suite and creating a web3 project in your
-      first 6 weeks of onboarding.
+      Helo create the next generation of the internet with a deep dive into our protocol suite and a web3 project in the onboarding program
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
@@ -611,4 +609,3 @@ meta:
   pageTitle: PL Launchpad
   pageDescription: Landing Page
 ---
-
