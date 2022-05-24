@@ -86,8 +86,7 @@ blocks:
     headline: Apply
     subhead: ''
     body: >
-      Feel you could be a fit for more than one of our engineering roles? Apply
-      into the Launchpad onboarding program.
+      Apply to launchpad to become a part of the Protocol Labs Network as an engineer or technical leader
     _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
@@ -611,4 +610,3 @@ meta:
   pageTitle: PL Launchpad
   pageDescription: Landing Page
 ---
-
