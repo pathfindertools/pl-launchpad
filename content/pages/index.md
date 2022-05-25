@@ -75,7 +75,7 @@ blocks:
       featureImage: 'object-center object-cover '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-base mb-0 '
-      headlineStyles: 'text-accent1 font-1 text-base mb-5 '
+      headlineStyles: 'text-accent1 font-1 text-3xl mb-5 '
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
       textStyles: 'text-accent1 font-2 text-2xl mb-0 '
       contentOrder: labelHeadingsContent
@@ -96,7 +96,7 @@ blocks:
       featureImage: 'object-center object-cover '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-base mb-0 '
-      headlineStyles: 'text-accent1 font-1 text-base mb-5 '
+      headlineStyles: 'text-accent1 font-1 text-3xl mb-5 '
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
       textStyles: 'text-accent1 font-2 text-2xl mb-0 '
       contentOrder: labelHeadingsContent
@@ -118,7 +118,7 @@ blocks:
       featureImage: 'object-center object-cover '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-base mb-0 '
-      headlineStyles: 'text-accent1 font-1 text-base mb-5 '
+      headlineStyles: 'text-accent1 font-1 text-3xl mb-5 '
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
       textStyles: 'text-accent1 font-2 text-2xl mb-0 '
       contentOrder: labelHeadingsContent
@@ -139,7 +139,7 @@ blocks:
       featureImage: 'object-center object-cover '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-base mb-0 '
-      headlineStyles: 'text-accent1 font-1 text-base mb-5 '
+      headlineStyles: 'text-accent1 font-1 text-3xl mb-5 '
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
       textStyles: 'text-accent1 font-2 text-2xl mb-0 '
       contentOrder: labelHeadingsContent
@@ -161,7 +161,7 @@ blocks:
       featureImage: 'object-center object-cover '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-base mb-0 '
-      headlineStyles: 'text-accent1 font-1 text-base mb-5 '
+      headlineStyles: 'text-accent1 font-1 text-3xl mb-5 '
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
       textStyles: 'text-accent1 font-2 text-2xl mb-0 '
       contentOrder: labelHeadingsContent
@@ -417,6 +417,163 @@ blocks:
     body: "We believe people do best when they’re working on projects they're excited about. With 30+ teams within Protocol Labs and 300+ companies in the Protocol Labs Network (PLN) now is a great time for people coming both inside and outside the web3 space to ramp up their knowledge and contribute to these cutting-edge technologies directly.\n\nFrom core distributed systems engineers to network researchers, to developer advocates, to technical writers, to startup operators, there are many exciting roles and opportunities across PLN teams and companies. Many of our engineers coming into the PLN have the skillset to fill many of these roles and it can be hard to pick just one to interview for. The Launchpad residency allows for you to explore different teams, solve complex problems from the first day you are hired, and team-match after being exposed to our entire ecosystem.\n\nOur teams are made up of people captivated by solving deep technical challenges. We’re open source and remote. We have engineers working across every time zone.\n‍\nThe Residency program is designed for engineers that could be a fit in several roles across the Protocol Labs Network. We know great engineers can come from a variety of backgrounds.\_Before joining the Launchpad Residency our alumni have been tech leads in web2, startup owners, product managers at FAANG companies, Ethereum Hackathon winners, and top open source contributors. \_\n"
     _template: feature
   - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pb-20 pr-20 pl-20
+      contentWidth: w-9/12
+      columns: '3'
+      labelStyles: 'text-white font-2 text-sm mb-0 '
+      headlineStyles: 'text-white font-2 text-4xl mb-0 '
+      subheadStyles: 'text-white font-1 text-3xl mb-0 '
+      textStyles: 'text-white font-1 text-lg mb-20 '
+      contentOrder: labelHeadingsContent
+    cardStyle:
+      padding: pt-4 pb-4 pr-0 pl-0
+      type: solid
+      imageStyles: ' undefined undefined mb-2.5'
+      labelStyles: 'text-white undefined text-sm mb-0 '
+      headlineStyles: 'text-white font-2 text-2xl mb-2.5 '
+      subheadStyles: 'text-white undefined text-lg mb-0 '
+      textStyles: 'text-gray-light undefined text-base mb-0 '
+      buttonType: primary
+    background:
+      fillStyles: from-accent2 to-primary bg-gradient-to-br
+    label: ''
+    headline: Launchpad Projects
+    subhead: ''
+    body: >
+      A key aspect of the Launchpad Residency is empowering new labbers to make
+      an impact from day 1. During the Launchpad program every resident
+      completes a personal project.
+    items:
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653323802/pl-launchpad/debug_ru5ul1.jpg
+        headline: Debug
+        subhead: ''
+        text: >
+          Being open source is at the center of our ecosystem. With fresh eyes
+          and previous high technical impact, we love to see residents debug as
+          their project.
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653324189/pl-launchpad/build_sw74uf.jpg
+        headline: Build
+        subhead: ''
+        text: >
+          This website is a Launchpad project! So is a new tool created to
+          measure Distributed Hash Tables. We encourage our residents to pick a
+          project that they are excited about.
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
+        headline: Collaborate
+        subhead: ''
+        text: >
+          One of the best parts of the Launchpad Residency is the collaboration
+          across the PLN and the web3 community. Previous projects have had
+          members from many different teams and backgrounds working together to
+          improve our Network.
+    _template: photoCards
+  - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pb-20 pr-20 pl-20
+      contentWidth: w-full
+      columns: '2'
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: 'text-black font-2 text-4xl mb-14 '
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-black font-1 undefined mb-0 '
+      contentOrder: labelHeadingsContent
+    cardStyle:
+      padding: pt-4 pb-4 pr-0 pl-0
+      type: solid
+      imageStyles: h-60 object-scale-down object-left undefined
+      labelStyles: 'text-black undefined text-sm mb-0 '
+      headlineStyles: 'text-accent1 font-2 text-2xl mb-0 '
+      subheadStyles: 'text-accent1 font-2 text-lg mb-5 '
+      textStyles: 'text-accent1 undefined text-base mb-0 '
+      buttonType: primary
+    label: ''
+    headline: Launchpad Former Residents
+    subhead: ''
+    body: ''
+    items:
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653321488/pl-launchpad/resident-diego_fwnpzc.jpg
+        headline: Diego
+        subhead: 'Software Engineer, Saturn Team'
+        text: >
+          Launchpad program provided a structured and right-to-the-point
+          curriculum that allowed me to learn and process the topics with ease.
+          The colo week was just amazing and really motivating. I loved meeting
+          all of the others and having conversations around all the cool stuff
+          we do and will build. I have nothing but appreciation and gratitude
+          with everyone involved in making Launchpad possible. I am certain it
+          will only get better for future cohorts.
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653321496/pl-launchpad/resident-patrick_yvaeom.jpg
+        headline: Patrick
+        subhead: 'Technical Program Manager, Retrival Markets'
+        text: >
+          Within the first week, we met the lead maintainers for each of the
+          reference implementations for IPFS, IPLD, and libp2p - so we had an
+          expert to talk to for each knowledge area we were onboarding on. It
+          was also great to build camaraderie with other cohort members across
+          the whole PL Network - so now I have contacts on many different teams
+          I can reach out to and learn what’s going on. Having this support
+          system helped make diving into new areas much less daunting!
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653321493/pl-launchpad/resident-jenks_rwdxqy.jpg
+        headline: Jenks
+        subhead: 'Developer Advocate, Filecoin Foundation'
+        text: >
+          Never have I been so well trained in my professional career. The
+          program was so well designed and I walked out with 10x more
+          confidence, knowledge & sense of purpose to go into my role in the
+          network.
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653321485/pl-launchpad/resident-ally_jmwsdh.jpg
+        headline: Ally
+        subhead: 'Developer Advocate, Filecoin Foundation'
+        text: "Launchpad was an invaluable way to gain knowledge on the Protocol Labs (PL) ecosystem and obtain insight into the entire PL network of projects, tools and builders, all while expanding your own web3 network; gaining longstanding collaboration colleagues and friends.\_\n\nThe program offers a crucial path to getting up to speed on the essential building blocks of the network, including IPFS, IPLD, libp2p and Filecoin, through a well-structured content flow, study groups and Q\\&A sessions, and further provided insights into other critical projects being built by teams both within PL and its partners through workshops or presentations with the teams and by meeting people across the organisation.\_\n\nIt was also invaluable for surfacing opportunities to contribute to current tooling and projects, pinpointing both project and operational needs in the ecosystem and finding opportunities for both cross collaboration and, essentially, innovation ideas to start building upon.\n\nI'd recommend this program to anyone who is looking to gain a deeper understanding of the PL network and its partners or who wants to meaningfully contribute to the future of an open web through the PL ecosystem.\"&#x20;\n"
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653322479/pl-launchpad/resident-hugo_owk9nu.jpg
+        headline: Hugo
+        subhead: Software Engineer
+        text: >
+          I enjoy making meaningful contributions that can make a difference. In
+          the case of rust-libp2p, I believe introducing more linter checks to
+          CI will pay off tenfold in the future, both in overall code quality
+          and in preventing possible issues at runtime. Or, at the very least,
+          it can reduce code review effort. In the case of actors tests - citing
+          Michael C. Feathers, "Code without tests is bad code"
+      - headline: Joao
+        subhead: 'Technical Program Manager, Data Programs'
+        text: >
+          Launchpad was an incredibly educational and fun onboarding experience
+          that I would recommend to everyone joining the Protocol Labs network.
+          The content was thoughtfully curated and I felt like I gained the
+          fundamental knowledge necessary to make contributions to our technical
+          stack and strategy. Crucially, it was also a way for me to connect the
+          dots: from how everything works together in practice to who I should
+          go to for answers. I also really enjoyed the emphasis placed on
+          getting to know my cohort. It was a great way to meet a lot of my
+          peers from a wide variety of different teams and form some strong
+          relationships with colleagues. This was enabled by an amazing week
+          spent co-located in Amsterdam where I got to meet my colleagues in
+          real life in addition to meeting company leadership. Overall, I
+          couldn’t have asked for a better onboarding experience. This was more
+          engaging and educational than any other experience I’ve had in my web2
+          career.
+    _template: photoCards
+  - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-0 '
       padding: pt-20 pb-20 pr-20 pl-20
@@ -453,3 +610,4 @@ meta:
   pageTitle: PL Launchpad
   pageDescription: Landing Page
 ---
+

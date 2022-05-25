@@ -1,6 +1,6 @@
 {
-  "siteUrl": "microgen.vercel.app",
-  "gtmId": "",
+  "siteUrl": "pl-launchpad.io",
+  "gtmId": " G-D164ZDP5FD",
   "favicon": "https://res.cloudinary.com/protocolai/image/upload/v1649882296/filecoin-favicon_rn3bfm.png",
   "desktopWidth": "1200",
   "colors": {
@@ -27,7 +27,7 @@
     "textMd": "16/28",
     "textLg": "18/35",
     "textXl": "23/43",
-    "text2xl": "28/43",
+    "text2xl": "28/38",
     "text3xl": "45/60",
     "text4xl": "55/67",
     "text5xl": "65/65",
