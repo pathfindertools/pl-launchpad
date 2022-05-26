@@ -243,6 +243,37 @@ blocks:
       ecosystem that is the best fit for you and your skillset.&#x20;
     _template: feature
   - style:
+      alignment: 'flex-row text-left items-center items-start-vertical '
+      featureContent: 'w-2/3 min-h-0 '
+      padding: pt-20 pb-20 pr-20 pl-20
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      labelStyles: 'text-accent1 font-1 text-sm mb-0 '
+      headlineStyles: 'text-accent1 font-2 text-3xl mb-9 '
+      subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
+      textStyles: 'text-accent1 font-2 text-2xl mb-0 '
+      contentOrder: labelHeadingsContent
+    background:
+      src: ''
+      ornaments:
+        - src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653602854/pl-launchpad/IPFS_Launchpad_Closing_Card_erjpov.png
+          alignment: top
+          width: '600'
+          xOffset: '-480'
+          yOffset: '0'
+    image:
+      src: ''
+    label: ''
+    headline: The Curriculum
+    subhead: ''
+    body: >
+      As an open-source network, you can find the entire curriculum here. During
+      the launchpad residency, you’ll dive deep into curated content about the
+      PL Network, IPFS, libp2p, IPLD, Filecoin, and the variety of tools & SDKs
+      that are used across the web3 universe.
+    _template: feature
+  - style:
       textAlignment: text-left
       minHeight: min-h-0
       padding: pt-0 pb-0 pr-0 pl-0
@@ -301,37 +332,6 @@ blocks:
       fellowship with minds from across the web3 universe. Starting your first
       week you will make an impact by creating a personal project, and be
       exposed to mentorship from senior engineers.
-    _template: feature
-  - style:
-      alignment: 'flex-row text-left items-center items-start-vertical '
-      featureContent: 'w-2/3 min-h-0 '
-      padding: pt-20 pb-20 pr-20 pl-20
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: 'text-accent1 font-1 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-3xl mb-9 '
-      subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-2 text-2xl mb-0 '
-      contentOrder: labelHeadingsContent
-    background:
-      src: ''
-      ornaments:
-        - src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653080945/pl-launchpad/curriculum_image_kg5ed4.jpg
-          alignment: top
-          width: '600'
-          xOffset: '-480'
-          yOffset: '0'
-    image:
-      src: ''
-    label: ''
-    headline: The Curriculum
-    subhead: ''
-    body: >
-      As an open-source network, you can find the entire curriculum here. During
-      the launchpad residency, you’ll dive deep into curated content about the
-      PL Network, IPFS, libp2p, IPLD, Filecoin, and the variety of tools & SDKs
-      that are used across the web3 universe.
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-start items-start-vertical '
