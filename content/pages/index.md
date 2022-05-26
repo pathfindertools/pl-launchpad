@@ -50,6 +50,7 @@ blocks:
       - label: Apply Here
         link: 'https://boards.greenhouse.io/protocollabs/jobs/4366933004'
         type: primary
+    navigationLabel: About
     _template: banner
   - tailwind:
       section: pt-40
@@ -278,6 +279,7 @@ blocks:
       - headline: Joining the Protocol Labs Network
         subhead: ''
         text: "After completing the interview process, you will start your career in the Protocol Labs Network by joining the Launchpad Residency Program.\_ During your first 6 weeks, you will learn the mechanics of our protocol suite like IPFS, Filecoin, IPLD, and libp2p through hands-on labs, technical mentorship, expert Q\\&As, and training. At the same time, launchpad residents get to explore a variety of potential roles and teams within the PL Network to find the match for their interests, talents, and goals. We run the Residency Program year-round and accept applications on a rolling basis.\_\n"
+    navigationLabel: Joining the Network
     _template: textCards
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
@@ -299,32 +301,6 @@ blocks:
       fellowship with minds from across the web3 universe. Starting your first
       week you will make an impact by creating a personal project, and be
       exposed to mentorship from senior engineers.
-    _template: feature
-  - style:
-      alignment: 'flex-row-reverse text-left items-start items-start-vertical '
-      featureContent: 'w-2/3 min-h-0 '
-      padding: pt-20 pb-20 pr-20 pl-20
-      featureImage: 'object-center object-scale-down '
-      imagePadding: undefined undefined undefined undefined
-      labelStyles: 'text-accent1 font-1 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-3xl mb-9 '
-      subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-2 text-2xl mb-0 '
-      contentOrder: labelHeadingsContent
-    label: ''
-    headline: Former Residents
-    subhead: ''
-    body: >
-      Our teams are made up of people captivated by solving deep technical
-      challenges. We’re open source and remote. We have engineers working across
-      every time zone. The Residency program is designed for engineers that
-      could be a fit in several roles across the Protocol Labs Network.
-
-
-      We know great engineers can come from a variety of backgrounds. Before
-      joining the Launchpad Residency our alumni have been tech leads in web2,
-      startup owners, product managers at FAANG companies, Ethereum Hackathon
-      winners, and top open source contributors.
     _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
@@ -476,15 +452,41 @@ blocks:
           improve our Network.
     _template: photoCards
   - style:
+      alignment: 'flex-row-reverse text-left items-start items-start-vertical '
+      featureContent: 'w-2/3 min-h-0 '
+      padding: pt-20 pb-20 pr-20 pl-20
+      featureImage: 'object-center object-scale-down '
+      imagePadding: undefined undefined undefined undefined
+      labelStyles: 'text-accent1 font-1 text-sm mb-0 '
+      headlineStyles: 'text-accent1 font-2 text-3xl mb-9 '
+      subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
+      textStyles: 'text-accent1 font-2 text-2xl mb-0 '
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: Former Residents
+    subhead: ''
+    body: >
+      Our teams are made up of people captivated by solving deep technical
+      challenges. We’re open source and remote. We have engineers working across
+      every time zone. The Residency program is designed for engineers that
+      could be a fit in several roles across the Protocol Labs Network.
+
+
+      We know great engineers can come from a variety of backgrounds. Before
+      joining the Launchpad Residency our alumni have been tech leads in web2,
+      startup owners, product managers at FAANG companies, Ethereum Hackathon
+      winners, and top open source contributors.
+    _template: feature
+  - style:
       textAlignment: text-left
       minHeight: min-h-0
       padding: pt-20 pb-20 pr-20 pl-20
       contentWidth: w-full
       columns: '2'
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-black font-2 text-4xl mb-14 '
+      headlineStyles: 'text-accent1 font-2 text-4xl mb-7 '
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-black font-1 undefined mb-0 '
+      textStyles: 'text-accent1 font-2 text-xl mb-14 '
       contentOrder: labelHeadingsContent
     cardStyle:
       padding: pt-4 pb-4 pr-0 pl-0
@@ -498,7 +500,17 @@ blocks:
     label: ''
     headline: Launchpad Former Residents
     subhead: ''
-    body: ''
+    body: >
+      Our teams are made up of people captivated by solving deep technical
+      challenges. We’re open source and remote. We have engineers working across
+      every time zone. The Residency program is designed for engineers that
+      could be a fit in several roles across the Protocol Labs Network.
+
+
+      We know great engineers can come from a variety of backgrounds. Before
+      joining the Launchpad Residency our alumni have been tech leads in web2,
+      startup owners, product managers at FAANG companies, Ethereum Hackathon
+      winners, and top open source contributors.
     items:
       - image:
           src: >-
