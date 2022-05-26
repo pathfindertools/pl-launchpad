@@ -452,32 +452,6 @@ blocks:
           improve our Network.
     _template: photoCards
   - style:
-      alignment: 'flex-row-reverse text-left items-start items-start-vertical '
-      featureContent: 'w-2/3 min-h-0 '
-      padding: pt-20 pb-20 pr-20 pl-20
-      featureImage: 'object-center object-scale-down '
-      imagePadding: undefined undefined undefined undefined
-      labelStyles: 'text-accent1 font-1 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-3xl mb-9 '
-      subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-2 text-2xl mb-0 '
-      contentOrder: labelHeadingsContent
-    label: ''
-    headline: Former Residents
-    subhead: ''
-    body: >
-      Our teams are made up of people captivated by solving deep technical
-      challenges. We’re open source and remote. We have engineers working across
-      every time zone. The Residency program is designed for engineers that
-      could be a fit in several roles across the Protocol Labs Network.
-
-
-      We know great engineers can come from a variety of backgrounds. Before
-      joining the Launchpad Residency our alumni have been tech leads in web2,
-      startup owners, product managers at FAANG companies, Ethereum Hackathon
-      winners, and top open source contributors.
-    _template: feature
-  - style:
       textAlignment: text-left
       minHeight: min-h-0
       padding: pt-20 pb-20 pr-20 pl-20
