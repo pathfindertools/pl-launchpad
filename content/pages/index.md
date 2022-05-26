@@ -43,13 +43,9 @@ blocks:
       accelerating technical growth in the Web3 space.
     body: >
       Launchpad aims to hire exceptional talent from diverse engineering and
-      tech operations backgrounds into a six-week, full-time onboarding program
+      tech operations backgrounds into a six-week, full-time residency
       designed to train, develop, and team-match talent with Web3 opportunities
-      across the Protocol Labs Network. Launchpad is designed for people who are
-      passionate about joining the Web3 community, learning about the PL Network
-      tools and protocols, and applying their skills to open-source Web3
-      initiatives that will be deployed worldwide & ultimately reshape our
-      world.
+      across the Protocol Labs Network. 
     _template: banner
   - tailwind:
       section: pt-40
@@ -610,4 +606,3 @@ meta:
   pageTitle: PL Launchpad
   pageDescription: Landing Page
 ---
-
