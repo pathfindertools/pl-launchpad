@@ -559,6 +559,7 @@ blocks:
           couldn’t have asked for a better onboarding experience. This was more
           engaging and educational than any other experience I’ve had in my web2
           career.
+    navigationLabel: Former Residents
     _template: photoCards
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
