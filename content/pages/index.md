@@ -358,6 +358,7 @@ blocks:
       Amsterdam, Iceland and Austin. Most of the time colo week is held in
       conjunction with other web3 community events like Devconnect or Consensus
       Festival.
+    navigationLabel: Program Experience
     _template: feature
   - style:
       minHeight: min-h-0
