@@ -35,7 +35,10 @@ blocks:
       textStyles: 'text-white font-1 text-lg mb-9 '
       contentOrder: labelHeadingsContent
     background:
-      fillStyles: from-accent2 to-primary bg-gradient-to-tl
+      fillStyles: from-accent3 to-primary bg-gradient-to-br
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1654021873/pl-launchpad/LIBP2P_Launchpad_Closing_Card_p42aot.png
+      position: object-right-bottom
     label: ''
     headline: ''
     subhead: >-
