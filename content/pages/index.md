@@ -632,16 +632,15 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - image:
-          src: ''
+      - {}
       - headline: ''
         subhead: ''
         text: |
-          Protocol Labs
+          [Protocol Labs](https://protocol.ai/)
 
           About
 
-          Filecoln
+          [Filecoln](https://filecoin.io/)
       - headline: ''
         subhead: ''
         text: |
