@@ -616,7 +616,6 @@ blocks:
       textStyles: 'text-white font-1 text-sm mb-0 '
       contentOrder: labelHeadingsContent
     cardStyle:
-      fillStyles: bg-gray
       padding: pt-4 pb-4 pr-4 pl-4
       type: solid
       imageStyles: h-32 object-scale-down undefined undefined
@@ -632,7 +631,7 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - {}
+      - text: ''
       - headline: ''
         subhead: ''
         text: |
