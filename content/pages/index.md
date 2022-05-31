@@ -212,7 +212,7 @@ blocks:
       fillStyles: from-primary to-accent1 bg-gradient-to-tl
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1654021869/pl-launchpad/PL_Launchpad_Closing_Card_ikvel9.png
-      position: object-top
+      position: object-center
     label: ''
     headline: Join the Protocol Labs Network
     subhead: ''
