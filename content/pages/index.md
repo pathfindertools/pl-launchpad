@@ -52,7 +52,7 @@ blocks:
     buttons:
       - label: Apply Here
         link: 'https://boards.greenhouse.io/protocollabs/jobs/4366933004'
-        type: primary
+        type: secondary
     navigationLabel: About
     _template: banner
   - tailwind:
