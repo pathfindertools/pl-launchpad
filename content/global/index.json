@@ -70,24 +70,29 @@
   "blocks": [
     {
       "style": {
-        "textAlignment": "text-center",
-        "minHeight": "min-h-0",
-        "padding": "pt-10 pb-10 pr-10 pl-10",
-        "width": "normal",
-        "labelStyles": "text-black undefined text-sm mb-0 ",
-        "headlineStyles": "text-black undefined text-5xl mb-0 ",
-        "subheadStyles": "text-black undefined text-3xl mb-0 ",
-        "textStyles": "text-white undefined text-sm mb-0 ",
+        "alignment": "flex-col text-center items-center items-center-vertical ",
+        "featureContent": "w-1/2 min-h-0 ",
+        "padding": "pt-0 pb-0 pr-10 pl-20",
+        "featureImage": "object-center object-scale-down ",
+        "imagePadding": "pt-0 pb-5 pr-20 pl-20",
+        "labelStyles": "text-black font-1 text-sm mb-0 ",
+        "headlineStyles": "text-black font-1 text-5xl mb-0 ",
+        "subheadStyles": "text-black font-1 text-3xl mb-0 ",
+        "textStyles": "text-black font-1 undefined mb-0 ",
         "contentOrder": "labelHeadingsContent"
       },
       "background": {
-        "fillStyles": "bg-primary"
+        "fillStyles": "bg-accent1"
+      },
+      "image": {
+        "src": "https://res.cloudinary.com/protocolai/image/upload/v1654022070/pl-launchpad/made_with_love_protocol_labs_jae9ur.svg",
+        "alt": "Made with love by protocol labs"
       },
       "label": "",
       "headline": "",
       "subhead": "",
-      "body": "Made with love by [Protocol Labs](https://protocol.ai)\n",
-      "_template": "banner"
+      "body": "",
+      "_template": "feature"
     }
   ]
 }
