@@ -604,6 +604,59 @@ blocks:
       *   You have a passion for open source code, solving complex problems, and
       the web3 space.
     _template: feature
+  - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-20 pb-20 pr-20 pl-20
+      contentWidth: w-full
+      columns: '4'
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: 'text-black font-1 text-5xl mb-0 '
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-white font-1 text-sm mb-0 '
+      contentOrder: labelHeadingsContent
+    cardStyle:
+      fillStyles: bg-gray
+      padding: pt-4 pb-4 pr-4 pl-4
+      type: solid
+      imageStyles: h-32 object-scale-down undefined undefined
+      labelStyles: 'text-black undefined text-sm mb-0 '
+      headlineStyles: 'text-black undefined text-2xl mb-0 '
+      subheadStyles: 'text-black undefined text-lg mb-0 '
+      textStyles: 'text-white undefined text-base mb-0 '
+      buttonType: primary
+    background:
+      fillStyles: bg-accent1
+    label: ''
+    headline: ''
+    subhead: ''
+    body: ''
+    items:
+      - image:
+          src: ''
+      - headline: ''
+        subhead: ''
+        text: |
+          Protocol Labs
+
+          About
+
+          Filecoln
+      - headline: ''
+        subhead: ''
+        text: |
+          The Residency
+
+          Press
+
+          Contact
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1651780646/pl-launchpad/PL-LaunchPad-logo-Hex-dark-green-p-500_ph7mkk.png
+        headline: ''
+        subhead: ''
+        text: ''
+    _template: photoCards
 meta:
   pageTitle: PL Launchpad
   pageDescription: Landing Page
