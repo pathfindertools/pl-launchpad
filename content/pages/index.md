@@ -175,9 +175,8 @@ blocks:
     headline: Team Match
     subhead: ''
     body: >
-      Use the launchpad residency to find a team that ignites you. With 6 weeks
-      of exposure to our engineering teams you'll have time to match with a team
-      that is solving problems that excite you.
+      The 6 week launchpad residency is designed to give you a chance to work closely with PL engineering teams and introduce you to the network of web3 projects, tooling, and companies, to find a team nad project that ignites your passion
+
     _template: feature
   - tailwind:
       section: pt-40
