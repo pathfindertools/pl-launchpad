@@ -110,9 +110,7 @@ blocks:
     headline: Onboard
     subhead: ''
     body: >
-      Learn our stack and gain exposure to the entire Protocol Labs Network.
-      With over 30 teams and 300+ web3 projects you'll spend the first 6 weeks
-      immersed on our web3 ecosystem.
+      Learn our stack and gain exposure to the 30 teams and 300+ web3 projects in the Protocol Labs Network in this 6 week program
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
