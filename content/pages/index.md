@@ -136,7 +136,7 @@ blocks:
     body: >
       Build community with fellow launchpad residents and attend sessions with
       technical leads who work on everything from [IPFS](https://ipfs.io/) to
-      Piñata Cloud
+      [Piñata Cloud](https://www.pinata.cloud/)
     _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
