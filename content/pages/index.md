@@ -654,10 +654,13 @@ blocks:
           [Filecoln](https://filecoin.io/)
       - headline: ''
         subhead: ''
-        text: |
-          The Residency
+        text: >
+          [Launchpad
+          Curriculum](https://protocol-labs.gitbook.io/launchpad-curriculum/)
+
 
           [Press](<launchpad-team@protocol.ai >)
+
 
           [Contact](launchpad-team@protocol.ai)
       - image:
