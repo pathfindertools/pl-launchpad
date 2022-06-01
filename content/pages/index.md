@@ -139,7 +139,7 @@ blocks:
       [Piñata Cloud](https://www.pinata.cloud/)
     _template: feature
   - style:
-      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
+      alignment: 'flex-row text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
       padding: pt-20 pb-20 pr-20 pl-10
       featureImage: 'object-center object-cover '
