@@ -156,7 +156,7 @@ blocks:
     headline: Build
     subhead: ''
     body: >
-      Helo create the next generation of the internet with a deep dive into our
+      Help create the next generation of the internet with a deep dive into our
       protocol suite and a web3 project in the onboarding program
     _template: feature
   - style:
