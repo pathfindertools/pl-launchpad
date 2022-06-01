@@ -657,7 +657,7 @@ blocks:
         text: |
           The Residency
 
-          Press
+          [Press](<launchpad-team@protocol.ai >)
 
           [Contact](launchpad-team@protocol.ai)
       - image:
