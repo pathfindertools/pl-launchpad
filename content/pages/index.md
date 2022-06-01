@@ -223,7 +223,7 @@ blocks:
       engineers into the web3 space.
     buttons:
       - label: Learn More
-        link: '/https://protocol-labs.gitbook.io/launchpad-curriculum/'
+        link: '/https://boards.greenhouse.io/protocollabs/jobs/4305898004'
         type: secondary
     _template: feature
   - style:
@@ -276,9 +276,10 @@ blocks:
     headline: The Curriculum
     subhead: ''
     body: >
-      As an open-source network, you can find the entire curriculum here. During
-      the launchpad residency, you’ll dive deep into curated content about the
-      PL Network, IPFS, libp2p, IPLD, Filecoin, and the variety of tools & SDKs
+      As an open-source network, you can find the entire curriculum
+      [here](https://protocol-labs.gitbook.io/launchpad-curriculum/). During the
+      launchpad residency, you’ll dive deep into curated content about the PL
+      Network, IPFS, libp2p, IPLD, Filecoin, and the variety of tools & SDKs
       that are used across the web3 universe.
     _template: feature
   - style:
