@@ -195,11 +195,17 @@ blocks:
         https://res.cloudinary.com/protocolai/image/upload/v1654021869/pl-launchpad/PL_Launchpad_Closing_Card_ikvel9.png
       position: object-center
     label: ''
-    headline: Join the Protocol Labs Network
+    headline: 'One Network, Endless Opportunity'
     subhead: ''
     body: >
-      The Launchpad Engineering Residency is designed to onboard exceptional
-      engineers into the web3 space.
+      We believe the best engineering happens when people work on problems that
+      excite them. That is why we created the Launchpad Residency.
+
+
+      You will have a 6-week onboarding program where you'll get exposure to our
+      engineering teams and technical stack. During the program you will work
+      with engineering managers, mentors, and leadership to find a team in our
+      ecosystem that is the best fit for you and your skillset.
     buttons:
       - label: Learn More
         link: '/https://boards.greenhouse.io/protocollabs/jobs/4305898004'
