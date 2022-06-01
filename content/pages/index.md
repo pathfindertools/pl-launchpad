@@ -42,8 +42,8 @@ blocks:
     label: ''
     headline: ''
     subhead: >-
-      The Launchpad Program is a hiring & onboarding program designed for
-      accelerating technical growth in the Web3 space.
+      Launchpad is a hiring & onboarding program designed for accelerating
+      technical growth in the Web3 space.
     body: >
       Launchpad aims to hire exceptional talent from diverse engineering and
       tech operations backgrounds into a six-week, full-time residency designed
