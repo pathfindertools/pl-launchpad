@@ -554,7 +554,10 @@ blocks:
           and in preventing possible issues at runtime. Or, at the very least,
           it can reduce code review effort. In the case of actors tests - citing
           Michael C. Feathers, "Code without tests is bad code"
-      - headline: Joao
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1654054502/joao_fiadeiro_fvfh8s.jpg
+        headline: Joao
         subhead: 'Technical Program Manager, Data Programs'
         text: >
           Launchpad was an incredibly educational and fun onboarding experience
