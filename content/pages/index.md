@@ -157,9 +157,9 @@ blocks:
     subhead: ''
     body: >
       The 6 week launchpad residency is designed to give you a chance to work
-      closely with PL engineering teams and introduce you to the network of web3
-      projects, tooling, and companies, to find a team nad project that ignites
-      your passion
+      closely with PLN engineering teams and introduce you to the network of
+      web3 projects, tooling, and companies, Ultimiatly leading to being united
+      with a team and project that ignite your passion
     _template: feature
   - tailwind:
       section: pt-40
