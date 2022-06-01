@@ -91,7 +91,8 @@ blocks:
     subhead: ''
     body: >
       Apply to launchpad to become a part of the Protocol Labs Network as an
-      engineer or technical leader
+      [engineer](https://boards.greenhouse.io/protocollabs/jobs/4366933004) or
+      technical leader
     _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
