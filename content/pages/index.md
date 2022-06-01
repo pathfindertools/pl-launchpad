@@ -583,7 +583,7 @@ blocks:
     _template: photoCards
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
-      featureContent: 'w-2/3 min-h-0 '
+      featureContent: 'w-1/2 min-h-0 '
       padding: pt-20 pb-20 pr-20 pl-20
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-20 pb-20 pr-20 pl-10
