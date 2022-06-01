@@ -76,7 +76,7 @@ blocks:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
       padding: pt-20 pb-20 pr-20 pl-20
-      featureImage: 'object-center object-cover '
+      featureImage: object-right-top object-cover to-edge
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-base mb-0 '
       headlineStyles: 'text-accent1 font-1 text-3xl mb-5 '
