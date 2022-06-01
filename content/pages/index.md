@@ -363,7 +363,7 @@ blocks:
     markup: |-
       <div class="mx-auto max-w-full">
         <div class="relative height-0" style="padding-bottom: 56.25%;">
-          <iframe src="https://www.youtube.com/embed/ckKDv6iY0pQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
+          <iframe src="https://www.youtube.com/embed/hqpqheF6lv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
         </div>
       </div>
     _template: embed
