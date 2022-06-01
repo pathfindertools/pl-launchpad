@@ -223,7 +223,7 @@ blocks:
       engineers into the web3 space.
     buttons:
       - label: Learn More
-        link: /
+        link: '/https://boards.greenhouse.io/protocollabs/jobs/4305898004'
         type: secondary
     _template: feature
   - style:
