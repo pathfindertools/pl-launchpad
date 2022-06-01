@@ -278,9 +278,9 @@ blocks:
     body: >
       As an open-source network, you can find the entire curriculum
       [here](https://protocol-labs.gitbook.io/launchpad-curriculum/). During the
-      launchpad residency, you’ll dive deep into curated content about the PL
-      Network, IPFS, libp2p, IPLD, Filecoin, and the variety of tools & SDKs
-      that are used across the web3 universe.
+      launchpad residency, you’ll dive deep into curated content about the [PL
+      Network](https://protocol.ai/work/), IPFS, libp2p, IPLD, Filecoin, and the
+      variety of tools & SDKs that are used across the web3 universe.
     _template: feature
   - style:
       textAlignment: text-left
