@@ -515,35 +515,6 @@ blocks:
           will only get better for future cohorts.
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653321496/pl-launchpad/resident-patrick_yvaeom.jpg
-        headline: Patrick
-        subhead: 'Technical Program Manager, Retrival Markets'
-        text: >
-          Within the first week, we met the lead maintainers for each of the
-          reference implementations for IPFS, IPLD, and libp2p - so we had an
-          expert to talk to for each knowledge area we were onboarding on. It
-          was also great to build camaraderie with other cohort members across
-          the whole PL Network - so now I have contacts on many different teams
-          I can reach out to and learn what’s going on. Having this support
-          system helped make diving into new areas much less daunting!
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653321493/pl-launchpad/resident-jenks_rwdxqy.jpg
-        headline: Jenks
-        subhead: 'Developer Advocate, Filecoin Foundation'
-        text: >
-          Never have I been so well trained in my professional career. The
-          program was so well designed and I walked out with 10x more
-          confidence, knowledge & sense of purpose to go into my role in the
-          network.
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653321485/pl-launchpad/resident-ally_jmwsdh.jpg
-        headline: Ally
-        subhead: 'Developer Advocate, Filecoin Foundation'
-        text: "Launchpad was an invaluable way to gain knowledge on the Protocol Labs (PL) ecosystem and obtain insight into the entire PL network of projects, tools and builders, all while expanding your own web3 network; gaining longstanding collaboration colleagues and friends.\_\n\nThe program offers a crucial path to getting up to speed on the essential building blocks of the network, including IPFS, IPLD, libp2p and Filecoin, through a well-structured content flow, study groups and Q\\&A sessions, and further provided insights into other critical projects being built by teams both within PL and its partners through workshops or presentations with the teams and by meeting people across the organisation.\_\n\nIt was also invaluable for surfacing opportunities to contribute to current tooling and projects, pinpointing both project and operational needs in the ecosystem and finding opportunities for both cross collaboration and, essentially, innovation ideas to start building upon.\n\nI'd recommend this program to anyone who is looking to gain a deeper understanding of the PL network and its partners or who wants to meaningfully contribute to the future of an open web through the PL ecosystem.\"&#x20;\n"
-      - image:
-          src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653322479/pl-launchpad/resident-hugo_owk9nu.jpg
         headline: Hugo
         subhead: Software Engineer
@@ -575,6 +546,35 @@ blocks:
           couldn’t have asked for a better onboarding experience. This was more
           engaging and educational than any other experience I’ve had in my web2
           career.
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653321485/pl-launchpad/resident-ally_jmwsdh.jpg
+        headline: Ally
+        subhead: 'Developer Advocate, Filecoin Foundation'
+        text: "Launchpad was an invaluable way to gain knowledge on the Protocol Labs (PL) ecosystem and obtain insight into the entire PL network of projects, tools and builders, all while expanding your own web3 network; gaining longstanding collaboration colleagues and friends.\_\n\nThe program offers a crucial path to getting up to speed on the essential building blocks of the network, including IPFS, IPLD, libp2p and Filecoin, through a well-structured content flow, study groups and Q\\&A sessions, and further provided insights into other critical projects being built by teams both within PL and its partners through workshops or presentations with the teams and by meeting people across the organisation.\_\n\nIt was also invaluable for surfacing opportunities to contribute to current tooling and projects, pinpointing both project and operational needs in the ecosystem and finding opportunities for both cross collaboration and, essentially, innovation ideas to start building upon.\n\nI'd recommend this program to anyone who is looking to gain a deeper understanding of the PL network and its partners or who wants to meaningfully contribute to the future of an open web through the PL ecosystem.\"&#x20;\n"
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653321493/pl-launchpad/resident-jenks_rwdxqy.jpg
+        headline: Jenks
+        subhead: 'Developer Advocate, Filecoin Foundation'
+        text: >
+          Never have I been so well trained in my professional career. The
+          program was so well designed and I walked out with 10x more
+          confidence, knowledge & sense of purpose to go into my role in the
+          network.
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653321496/pl-launchpad/resident-patrick_yvaeom.jpg
+        headline: Patrick
+        subhead: 'Technical Program Manager, Retrival Markets'
+        text: >
+          Within the first week, we met the lead maintainers for each of the
+          reference implementations for IPFS, IPLD, and libp2p - so we had an
+          expert to talk to for each knowledge area we were onboarding on. It
+          was also great to build camaraderie with other cohort members across
+          the whole PL Network - so now I have contacts on many different teams
+          I can reach out to and learn what’s going on. Having this support
+          system helped make diving into new areas much less daunting!
     navigationLabel: Former Residents
     _template: photoCards
   - style:
