@@ -139,27 +139,6 @@ blocks:
       [Piñata Cloud](https://www.pinata.cloud/)
     _template: feature
   - style:
-      alignment: 'flex-row text-left items-center items-start-vertical '
-      featureContent: 'w-2/3 min-h-120 '
-      padding: pt-20 pb-20 pr-20 pl-20
-      featureImage: 'object-center object-cover '
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: 'text-black font-1 text-base mb-0 '
-      headlineStyles: 'text-accent1 font-1 text-3xl mb-5 '
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-2 text-2xl mb-0 '
-      contentOrder: labelHeadingsContent
-    image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1652061299/Build_Launchpad_Photo_iilipe.jpg
-    label: ''
-    headline: Build
-    subhead: ''
-    body: >
-      Help create the next generation of the internet with a deep dive into our
-      protocol suite and a web3 project in the onboarding program
-    _template: feature
-  - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
       padding: pt-20 pb-20 pr-20 pl-10
@@ -670,9 +649,9 @@ blocks:
         text: |
           [Protocol Labs](https://protocol.ai/)
 
-          About
-
           [Filecoln](https://filecoin.io/)
+
+          [Launchpad Careers](https://boards.greenhouse.io/protocollabs)
       - headline: ''
         subhead: ''
         text: |
