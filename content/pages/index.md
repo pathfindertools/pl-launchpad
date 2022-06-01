@@ -223,7 +223,7 @@ blocks:
       engineers into the web3 space.
     buttons:
       - label: Learn More
-        link: '/https://boards.greenhouse.io/protocollabs/jobs/4305898004'
+        link: '/https://protocol-labs.gitbook.io/launchpad-curriculum/'
         type: secondary
     _template: feature
   - style:
