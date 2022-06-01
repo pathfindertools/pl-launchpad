@@ -596,6 +596,9 @@ blocks:
       fillStyles: from-accent2 to-primary bg-gradient-to-br
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1654021826/pl-launchpad/Filecoin_Launchpad_Closing_Card_q0dbeu.png
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1654056645/DSCF8814_e2rpjf.jpg
     label: ''
     headline: You might be a good fit if
     subhead: ''
