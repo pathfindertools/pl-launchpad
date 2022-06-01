@@ -500,7 +500,7 @@ blocks:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653322479/pl-launchpad/resident-hugo_owk9nu.jpg
         headline: Hugo
-        subhead: Software Engineer
+        subhead: 'Software Engineer, ChainSafe'
         text: >
           I enjoy making meaningful contributions that can make a difference. In
           the case of rust-libp2p, I believe introducing more linter checks to
