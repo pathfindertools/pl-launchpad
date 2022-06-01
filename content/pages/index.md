@@ -651,7 +651,7 @@ blocks:
 
           [Filecoln](https://filecoin.io/)
 
-          [Launchpad Careers](https://boards.greenhouse.io/protocollabs)
+          [Launchpad Jobs](https://boards.greenhouse.io/protocollabs)
       - headline: ''
         subhead: ''
         text: |
