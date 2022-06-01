@@ -662,7 +662,7 @@ blocks:
           Contact
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1651780646/pl-launchpad/PL-LaunchPad-logo-Hex-dark-green-p-500_ph7mkk.png
+            https://res.cloudinary.com/protocolai/image/upload/v1654024173/pl-launchpad/PL-LaunchPad-logo-Basic-color_meixms.png
         headline: ''
         subhead: ''
         text: ''
