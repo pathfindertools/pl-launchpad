@@ -659,7 +659,7 @@ blocks:
 
           Press
 
-          Contact
+          [Contact](launchpad-team@protocol.ai)
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1654024173/pl-launchpad/PL-LaunchPad-logo-Basic-color_meixms.png
