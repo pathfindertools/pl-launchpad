@@ -85,12 +85,13 @@ blocks:
       contentOrder: labelHeadingsContent
     image:
       src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1652060980/Protocol118_wtlg0d.jpg
+        https://res.cloudinary.com/protocolai/image/upload/v1654052834/DSCF8567_iwtuxl.jpg
     label: ''
     headline: Apply
     subhead: ''
     body: >
-      Apply to launchpad to become a part of the Protocol Labs Network as an engineer or technical leader
+      Apply to launchpad to become a part of the Protocol Labs Network as an
+      engineer or technical leader
     _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
@@ -110,7 +111,8 @@ blocks:
     headline: Onboard
     subhead: ''
     body: >
-      Learn our stack and gain exposure to the 30 teams and 300+ web3 projects in the Protocol Labs Network in this 6 week program
+      Learn our stack and gain exposure to the 30 teams and 300+ web3 projects
+      in the Protocol Labs Network in this 6 week program
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
@@ -151,7 +153,8 @@ blocks:
     headline: Build
     subhead: ''
     body: >
-      Helo create the next generation of the internet with a deep dive into our protocol suite and a web3 project in the onboarding program
+      Helo create the next generation of the internet with a deep dive into our
+      protocol suite and a web3 project in the onboarding program
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
@@ -171,8 +174,10 @@ blocks:
     headline: Team Match
     subhead: ''
     body: >
-      The 6 week launchpad residency is designed to give you a chance to work closely with PL engineering teams and introduce you to the network of web3 projects, tooling, and companies, to find a team nad project that ignites your passion
-
+      The 6 week launchpad residency is designed to give you a chance to work
+      closely with PL engineering teams and introduce you to the network of web3
+      projects, tooling, and companies, to find a team nad project that ignites
+      your passion
     _template: feature
   - tailwind:
       section: pt-40
@@ -653,3 +658,4 @@ meta:
   pageTitle: PL Launchpad
   pageDescription: Landing Page
 ---
+
