@@ -314,6 +314,9 @@ blocks:
       subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
       textStyles: 'text-accent1 font-2 text-2xl mb-0 '
       contentOrder: labelHeadingsContent
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1654056326/DSCF8987_xqv93k.jpg
     label: ''
     headline: Onboarding Program
     subhead: ''
