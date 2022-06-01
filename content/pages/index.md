@@ -647,11 +647,11 @@ blocks:
       - headline: ''
         subhead: ''
         text: |
+          [Launchpad Jobs](https://boards.greenhouse.io/protocollabs)
+
           [Protocol Labs](https://protocol.ai/)
 
           [Filecoln](https://filecoin.io/)
-
-          [Launchpad Jobs](https://boards.greenhouse.io/protocollabs)
       - headline: ''
         subhead: ''
         text: |
