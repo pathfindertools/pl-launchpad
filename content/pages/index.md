@@ -632,6 +632,10 @@ blocks:
 
       *   You have a passion for open source code, solving complex problems, and
       the web3 space.
+    buttons:
+      - label: Apply
+        link: '/https://boards.greenhouse.io/protocollabs/jobs/4305898004'
+        type: primary
     _template: feature
   - style:
       textAlignment: text-left
