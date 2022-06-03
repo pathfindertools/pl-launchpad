@@ -240,13 +240,6 @@ blocks:
       contentOrder: labelHeadingsContent
     background:
       src: ''
-      ornaments:
-        - src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653602854/pl-launchpad/IPFS_Launchpad_Closing_Card_erjpov.png
-          alignment: top
-          width: '600'
-          xOffset: '-480'
-          yOffset: '0'
     image:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1654056233/DSCF8507_kcgcv3.jpg
