@@ -248,7 +248,8 @@ blocks:
           xOffset: '-480'
           yOffset: '0'
     image:
-      src: ''
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1654056233/DSCF8507_kcgcv3.jpg
     label: ''
     headline: The Curriculum
     subhead: ''
