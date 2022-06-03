@@ -1,11 +1,11 @@
 {
   "siteUrl": "pl-launchpad.io",
   "gtmId": " G-D164ZDP5FD",
-  "favicon": "https://res.cloudinary.com/protocolai/image/upload/v1649882296/filecoin-favicon_rn3bfm.png",
+  "favicon": "https://res.cloudinary.com/protocolai/image/upload/v1654270801/PL-LaunchPad-logo-Basic-color_zq21qi.png",
   "desktopWidth": "1200",
   "colors": {
     "primary": "#1A74FC",
-    "accent1": "#002256",
+    "accent1": "#132F68",
     "accent2": "#0019AE",
     "accent3": "#43D59B",
     "accent4": "#D54F43",
@@ -38,8 +38,8 @@
   "buttons": {
     "primaryFill": "bg-primary",
     "primaryBorder": "border-accent3 border-r-0",
-    "primaryTypography": "text-white font-2 text-sm mb-0 font-bold",
-    "primaryPadding": "pt-2.5 pb-2.5 pr-6 pl-6",
+    "primaryTypography": "text-white font-1 text-base mb-0 font-bold",
+    "primaryPadding": "pt-1.5 pb-1.5 pr-6 pl-6",
     "primaryRounded": "rounded",
     "secondaryBorder": "border-white border-2",
     "secondaryTypography": "text-white undefined text-sm undefined font-bold",
@@ -56,9 +56,9 @@
   "logo": {
     "logoType": "Microgen",
     "logoTypeStyle": "text-white undefined text-base undefined font-bold",
-    "image": "https://res.cloudinary.com/protocolai/image/upload/v1651780646/pl-launchpad/PL-LaunchPad-logo-Hex-dark-green-p-500_ph7mkk.png",
-    "imageWidth": "64",
-    "imageHeight": "64",
+    "image": "https://res.cloudinary.com/protocolai/image/upload/v1654024173/pl-launchpad/PL-LaunchPad-logo-Basic-color_meixms.png",
+    "imageWidth": "86",
+    "imageHeight": "86",
     "imageMargin": "24"
   },
   "nav": {
@@ -70,24 +70,29 @@
   "blocks": [
     {
       "style": {
-        "textAlignment": "text-center",
-        "minHeight": "min-h-0",
-        "padding": "pt-10 pb-10 pr-10 pl-10",
-        "width": "normal",
-        "labelStyles": "text-black undefined text-sm mb-0 ",
-        "headlineStyles": "text-black undefined text-5xl mb-0 ",
-        "subheadStyles": "text-black undefined text-3xl mb-0 ",
-        "textStyles": "text-white undefined text-sm mb-0 ",
+        "alignment": "flex-col text-center items-center items-center-vertical ",
+        "featureContent": "w-1/2 min-h-0 ",
+        "padding": "pt-0 pb-0 pr-10 pl-20",
+        "featureImage": "object-center object-scale-down ",
+        "imagePadding": "pt-0 pb-5 pr-20 pl-20",
+        "labelStyles": "text-black font-1 text-sm mb-0 ",
+        "headlineStyles": "text-black font-1 text-5xl mb-0 ",
+        "subheadStyles": "text-black font-1 text-3xl mb-0 ",
+        "textStyles": "text-black font-1 undefined mb-0 ",
         "contentOrder": "labelHeadingsContent"
       },
       "background": {
-        "fillStyles": "bg-primary"
+        "fillStyles": "bg-accent1"
+      },
+      "image": {
+        "src": "https://res.cloudinary.com/protocolai/image/upload/v1654022070/pl-launchpad/made_with_love_protocol_labs_jae9ur.svg",
+        "alt": "Made with love by protocol labs"
       },
       "label": "",
       "headline": "",
       "subhead": "",
-      "body": "Made with love by [Protocol Labs](https://protocol.ai)\n",
-      "_template": "banner"
+      "body": "",
+      "_template": "feature"
     }
   ]
 }
