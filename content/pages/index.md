@@ -277,11 +277,12 @@ blocks:
       textStyles: 'text-accent1 font-1 text-lg mb-0 '
       buttonType: primary
     background:
+      position: object-center
       ornaments:
         - src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653078452/pl-launchpad/launchpad_network_mprj8p.jpg
-          alignment: bottom
-          width: '1000'
+          alignment: bottom-right
+          width: '900'
           xOffset: '200'
           yOffset: '100'
     label: ''
