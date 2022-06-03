@@ -678,5 +678,7 @@ blocks:
 meta:
   pageTitle: PL Launchpad
   pageDescription: Landing Page
+  siteImageSrc: >-
+    https://res.cloudinary.com/protocolai/image/upload/v1654270801/PL-LaunchPad-logo-Basic-color_zq21qi.png
 ---
 
