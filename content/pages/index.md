@@ -77,7 +77,7 @@ blocks:
       featureContent: 'w-2/3 min-h-120 '
       padding: pt-20 pb-20 pr-20 pl-20
       featureImage: object-right-top object-cover to-edge
-      imagePadding: pt-0 pb-0 pr-0 pl-0
+      imagePadding: 'pt-0 pb-0 pr-0 pl-0 sm:pt-16 sm:pb-16 sm:pr-16 sm:pl-16'
       labelStyles: 'text-black font-1 text-base mb-0 '
       headlineStyles: 'text-accent1 font-1 text-3xl mb-5 '
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
