@@ -136,7 +136,7 @@ export const Feature = ({ data, parentField = "" }) => {
       background={data.background}
       navigationLabel={data.navigationLabel}
     >
-      <div className={`relative flex sm:flex-col ${data.style?.alignment} ${minHeight}`}>
+      <div className={`relative flex sm:flex-col sm:min-h-0 ${data.style?.alignment} ${minHeight}`}>
         <div className={imageWrapClasses(data)}>
           {data.image?.src && (
             <img

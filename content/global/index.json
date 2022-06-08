@@ -74,7 +74,7 @@
         "featureContent": "w-1/2 min-h-0 ",
         "padding": "pt-0 pb-0 pr-10 pl-20",
         "featureImage": "object-center object-scale-down ",
-        "imagePadding": "pt-0 pb-5 pr-20 pl-20",
+        "imagePadding": "pt-0 pb-5 pr-20 pl-20 sm:pt-5 sm:pb-5 sm:pr-0 sm:pl-0",
         "labelStyles": "text-black font-1 text-sm mb-0 ",
         "headlineStyles": "text-black font-1 text-5xl mb-0 ",
         "subheadStyles": "text-black font-1 text-3xl mb-0 ",

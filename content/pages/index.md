@@ -4,7 +4,7 @@ blocks:
   - style:
       textAlignment: text-center
       minHeight: min-h-0
-      padding: pt-48 pb-64 pr-10 pl-10
+      padding: 'pt-48 pb-64 pr-10 pl-10 sm:pt-32 sm:pb-32 sm:pr-0 sm:pl-0'
       width: narrow
       labelStyles: 'text-black font-2 text-sm mb-0 '
       headlineStyles: >-
@@ -27,12 +27,16 @@ blocks:
   - style:
       textAlignment: text-left
       minHeight: min-h-0
-      padding: pt-20 pb-20 pr-10 pl-10
+      padding: 'pt-20 pb-20 pr-10 pl-10 sm:pt-6 sm:pb-8 sm:pr-6 sm:pl-6'
       width: narrow
       labelStyles: 'text-black font-1 text-sm mb-0 '
       headlineStyles: 'text-black font-1 text-5xl mb-0 '
-      subheadStyles: 'text-white font-2 text-2xl mb-6 '
-      textStyles: 'text-white font-1 text-lg mb-9 '
+      subheadStyles: >-
+        text-white font-2 text-2xl mb-6  sm:text-white sm:font-2 sm:text-2xl
+        sm:mb-3 
+      textStyles: >-
+        text-white font-1 text-lg mb-9  sm:text-white sm:font-1 sm:text-lg
+        sm:mb-4 
       contentOrder: labelHeadingsContent
     background:
       fillStyles: from-accent3 to-primary bg-gradient-to-br
@@ -56,7 +60,7 @@ blocks:
     navigationLabel: About
     _template: banner
   - tailwind:
-      section: pt-40
+      section: 'pt-40 sm:pt-0'
       wrap: ''
       imageWrap: ''
       image: ''
@@ -75,13 +79,17 @@ blocks:
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
-      padding: pt-20 pb-20 pr-20 pl-20
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
       featureImage: object-right-top object-cover to-edge
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-base mb-0 '
-      headlineStyles: 'text-accent1 font-1 text-3xl mb-5 '
+      headlineStyles: >-
+        text-accent1 font-1 text-3xl mb-5  sm:text-accent1 sm:font-1 sm:text-2xl
+        sm:mb-3 
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-2 text-2xl mb-0 '
+      textStyles: >-
+        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
+        sm:mb-0 
       contentOrder: labelHeadingsContent
     image:
       src: >-
@@ -98,13 +106,17 @@ blocks:
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
-      padding: pt-20 pb-20 pr-20 pl-20
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
       featureImage: 'object-center object-cover '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-base mb-0 '
-      headlineStyles: 'text-accent1 font-1 text-3xl mb-5 '
+      headlineStyles: >-
+        text-accent1 font-1 text-3xl mb-5  sm:text-accent1 sm:font-1 sm:text-2xl
+        sm:mb-3 
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-2 text-2xl mb-0 '
+      textStyles: >-
+        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
+        sm:mb-0 
       contentOrder: labelHeadingsContent
     image:
       src: >-
@@ -119,13 +131,17 @@ blocks:
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
-      padding: pt-20 pb-20 pr-20 pl-20
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
       featureImage: 'object-center object-cover '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-base mb-0 '
-      headlineStyles: 'text-accent1 font-1 text-3xl mb-5 '
+      headlineStyles: >-
+        text-accent1 font-1 text-3xl mb-5  sm:text-accent1 sm:font-1 sm:text-2xl
+        sm:mb-3 
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-2 text-2xl mb-0 '
+      textStyles: >-
+        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
+        sm:mb-0 
       contentOrder: labelHeadingsContent
     image:
       src: >-
@@ -141,13 +157,17 @@ blocks:
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
-      padding: pt-20 pb-20 pr-20 pl-10
+      padding: 'pt-20 pb-20 pr-20 pl-10 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
       featureImage: 'object-center object-cover '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-base mb-0 '
-      headlineStyles: 'text-accent1 font-1 text-3xl mb-5 '
+      headlineStyles: >-
+        text-accent1 font-1 text-3xl mb-5  sm:text-accent1 sm:font-1 sm:text-2xl
+        sm:mb-3 
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-2 text-2xl mb-0 '
+      textStyles: >-
+        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
+        sm:mb-0 
       contentOrder: labelHeadingsContent
     image:
       src: >-
@@ -162,7 +182,7 @@ blocks:
       with a team and project that ignite your passion
     _template: feature
   - tailwind:
-      section: pt-40
+      section: 'pt-40 sm:pt-0'
       wrap: ''
       imageWrap: ''
       image: ''
@@ -181,13 +201,17 @@ blocks:
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-4/5 min-h-0 '
-      padding: pt-20 pb-20 pr-10 pl-10
+      padding: 'pt-20 pb-20 pr-10 pl-10 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
       featureImage: 'object-center object-scale-down '
-      imagePadding: pt-20 pb-20 pr-20 pl-10
+      imagePadding: 'pt-20 pb-20 pr-20 pl-10 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-white font-1 text-3xl mb-5 '
+      headlineStyles: >-
+        text-white font-1 text-3xl mb-5  sm:text-white sm:font-1 sm:text-2xl
+        sm:mb-3 
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-white font-1 text-2xl mb-7 '
+      textStyles: >-
+        text-white font-1 text-2xl mb-7  sm:text-white sm:font-1 sm:text-lg
+        sm:mb-7 
       contentOrder: labelHeadingsContent
     background:
       fillStyles: from-primary to-accent1 bg-gradient-to-tl
@@ -214,7 +238,7 @@ blocks:
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
       featureContent: 'w-4/5 min-h-0 '
-      padding: pt-20 pb-20 pr-20 pl-20
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-sm mb-0 '
@@ -230,13 +254,17 @@ blocks:
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-0 '
-      padding: pt-20 pb-20 pr-20 pl-20
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-accent1 font-1 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-3xl mb-9 '
+      headlineStyles: >-
+        text-accent1 font-2 text-3xl mb-9  sm:text-accent1 sm:font-2 sm:text-2xl
+        sm:mb-2.5 
       subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-2 text-2xl mb-0 '
+      textStyles: >-
+        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
+        sm:mb-0 
       contentOrder: labelHeadingsContent
     background:
       src: ''
@@ -268,11 +296,13 @@ blocks:
       contentOrder: labelHeadingsContent
     cardStyle:
       fillStyles: bg-gray-light
-      padding: pt-20 pb-20 pr-20 pl-20
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
       type: solid
       borderStyles: border-gray undefined-0
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-3xl mb-11 '
+      headlineStyles: >-
+        text-accent1 font-2 text-3xl mb-11  sm:text-accent1 sm:font-2
+        sm:text-2xl sm:mb-3 
       subheadStyles: 'text-black font-1 undefined mb-0 '
       textStyles: 'text-accent1 font-1 text-lg mb-0 '
       buttonType: primary
@@ -298,13 +328,17 @@ blocks:
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-0 '
-      padding: pt-60 pb-20 pr-20 pl-20
+      padding: 'pt-60 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-accent1 font-1 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-3xl mb-9 '
+      headlineStyles: >-
+        text-accent1 font-2 text-3xl mb-9  sm:text-accent1 sm:font-2 sm:text-2xl
+        sm:mb-3 
       subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-2 text-2xl mb-0 '
+      textStyles: >-
+        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
+        sm:mb-0 
       contentOrder: labelHeadingsContent
     image:
       src: >-
@@ -322,12 +356,16 @@ blocks:
   - style:
       alignment: 'flex-row-reverse text-left items-start items-start-vertical '
       featureContent: 'w-4/5 min-h-0 '
-      padding: pt-20 pb-0 pr-10 pl-10
+      padding: 'pt-20 pb-0 pr-10 pl-10 sm:pt-6 sm:pb-0 sm:pr-6 sm:pl-6'
       featureImage: 'object-center object-scale-down '
       imagePadding: undefined undefined undefined undefined
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-4xl mb-0 '
-      subheadStyles: 'text-accent1 font-2 text-2xl mb-6 '
+      headlineStyles: >-
+        text-accent1 font-2 text-4xl mb-0  sm:text-accent1 sm:font-2 sm:text-3xl
+        sm:mb-0 
+      subheadStyles: >-
+        text-accent1 font-2 text-2xl mb-6  sm:text-accent1 sm:font-2 sm:text-xl
+        sm:mb-2.5 
       textStyles: 'text-accent1 font-1 text-lg mb-0 '
       contentOrder: labelHeadingsContent
     background:
@@ -349,7 +387,7 @@ blocks:
   - style:
       minHeight: min-h-0
       fullWidth: false
-      padding: pt-20 pb-20 pr-10 pl-10
+      padding: 'pt-20 pb-20 pr-10 pl-10 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
     background:
       fillStyles: bg-gray-light
     markup: |-
@@ -362,11 +400,13 @@ blocks:
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
       featureContent: 'w-2/3 min-h-0 '
-      padding: pt-20 pb-40 pr-20 pl-20
+      padding: 'pt-20 pb-40 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
       featureImage: 'object-left object-contain '
       imagePadding: pt-0 pb-0 pr-20 pl-0
       labelStyles: 'text-gray-dark font-1 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-3xl mb-4 '
+      headlineStyles: >-
+        text-accent1 font-2 text-3xl mb-4  sm:text-accent1 sm:font-2 sm:text-2xl
+        sm:mb-2.5 
       subheadStyles: 'text-gray-dark font-1 text-3xl mb-0 '
       textStyles: 'text-accent1 font-1 text-lg mb-0 '
       contentOrder: labelHeadingsContent
@@ -382,13 +422,17 @@ blocks:
   - style:
       textAlignment: text-left
       minHeight: min-h-0
-      padding: pt-20 pb-20 pr-20 pl-20
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-0 sm:pr-6 sm:pl-6'
       contentWidth: w-9/12
       columns: '3'
       labelStyles: 'text-white font-2 text-sm mb-0 '
-      headlineStyles: 'text-white font-2 text-4xl mb-0 '
+      headlineStyles: >-
+        text-white font-2 text-4xl mb-0  sm:text-white sm:font-2 sm:text-2xl
+        sm:mb-0 
       subheadStyles: 'text-white font-1 text-3xl mb-0 '
-      textStyles: 'text-white font-1 text-lg mb-20 '
+      textStyles: >-
+        text-white font-1 text-lg mb-20  sm:text-white sm:font-1 sm:text-lg
+        sm:mb-5 
       contentOrder: labelHeadingsContent
     cardStyle:
       padding: pt-4 pb-4 pr-0 pl-0
@@ -443,13 +487,17 @@ blocks:
   - style:
       textAlignment: text-left
       minHeight: min-h-0
-      padding: pt-20 pb-20 pr-20 pl-20
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
       contentWidth: w-full
       columns: '2'
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-4xl mb-7 '
+      headlineStyles: >-
+        text-accent1 font-2 text-4xl mb-7  sm:text-accent1 sm:font-2 sm:text-2xl
+        sm:mb-2.5 
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-2 text-xl mb-14 '
+      textStyles: >-
+        text-accent1 font-2 text-xl mb-14  sm:text-accent1 sm:font-2 sm:text-lg
+        sm:mb-5 
       contentOrder: labelHeadingsContent
     cardStyle:
       padding: pt-4 pb-4 pr-0 pl-0
@@ -575,14 +623,18 @@ blocks:
     _template: photoCards
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
-      featureContent: 'w-1/2 min-h-0 '
-      padding: pt-20 pb-20 pr-20 pl-20
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-20 pb-20 pr-20 pl-10
+      featureContent: 'w-2/3 min-h-0 '
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-5 sm:pl-5'
+      featureImage: object-top object-cover to-edge
+      imagePadding: 'pt-20 pb-20 pr-20 pl-10 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-white font-1 text-3xl mb-10 '
+      headlineStyles: >-
+        text-white font-1 text-2xl mb-10  sm:text-white sm:font-1 sm:text-2xl
+        sm:mb-5 
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-white font-1 text-lg mb-0 '
+      textStyles: >-
+        text-white font-1 text-lg mb-9  sm:text-white sm:font-1 sm:text-lg
+        sm:mb-5 
       contentOrder: labelHeadingsContent
     background:
       fillStyles: from-accent2 to-primary bg-gradient-to-br
@@ -618,7 +670,7 @@ blocks:
   - style:
       textAlignment: text-left
       minHeight: min-h-0
-      padding: pt-20 pb-20 pr-20 pl-20
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
       contentWidth: w-full
       columns: '4'
       labelStyles: 'text-black font-1 text-sm mb-0 '
@@ -627,7 +679,7 @@ blocks:
       textStyles: 'text-white font-1 text-sm mb-0 '
       contentOrder: labelHeadingsContent
     cardStyle:
-      padding: pt-4 pb-4 pr-4 pl-4
+      padding: 'pt-4 pb-4 pr-4 pl-4 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
       type: solid
       imageStyles: h-32 object-scale-down undefined undefined
       labelStyles: 'text-black undefined text-sm mb-0 '
