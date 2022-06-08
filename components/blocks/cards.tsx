@@ -11,7 +11,7 @@ const Card = ({ data, index, cardstyle, parentField = ""  }) => {
   }
 
   return (
-    <div className={`flex flex-col relative sm:mb-6 ${cardstyle?.borderStyles}`} data-tinafield={`${parentField}.${index}`}>
+    <div className={`flex flex-col relative sm:gap-6 ${cardstyle?.borderStyles}`} data-tinafield={`${parentField}.${index}`}>
       <div>
         {data.image && (
           <img
