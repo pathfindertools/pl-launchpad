@@ -102,7 +102,7 @@ blocks:
       padding: pt-20 pb-20 pr-10 pl-10
       width: normal
       labelStyles: 'text-black font-2 text-sm mb-0 '
-      headlineStyles: 'text-black font-2 text-5xl mb-0 '
+      headlineStyles: 'text-accent1 font-2 text-5xl mb-0 '
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
