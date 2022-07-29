@@ -154,48 +154,6 @@ blocks:
       Festival.
     navigationLabel: Program Experience
     _template: feature
-  - style:
-      textAlignment: text-left
-      minHeight: min-h-0
-      padding: pt-0 pb-0 pr-0 pl-0
-      contentWidth: w-full
-      columns: '2'
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-black font-1 text-5xl mb-0 '
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-black font-1 undefined mb-0 '
-      contentOrder: labelHeadingsContent
-    cardStyle:
-      fillStyles: bg-gray-light
-      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      type: solid
-      borderStyles: border-gray undefined-0
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: >-
-        text-accent1 font-2 text-3xl mb-11  sm:text-accent1 sm:font-2
-        sm:text-2xl sm:mb-3 
-      subheadStyles: 'text-black font-1 undefined mb-0 '
-      textStyles: 'text-accent1 font-1 text-lg mb-0 '
-      buttonType: primary
-    background:
-      position: object-center
-      ornaments:
-        - src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653078452/pl-launchpad/launchpad_network_mprj8p.jpg
-          alignment: bottom-right
-          width: '900'
-          xOffset: '200'
-          yOffset: '100'
-    label: ''
-    headline: ''
-    subhead: ''
-    body: ''
-    items:
-      - headline: The Program
-        subhead: ''
-        text: "After completing the interview process, you will start your career in the Protocol Labs Network by joining the Launchpad Residency Program.\_ During your first 6 weeks, you will learn the mechanics of our protocol suite like IPFS, Filecoin, IPLD, and libp2p through hands-on labs, technical mentorship, expert Q\\&As, and training. At the same time, launchpad residents get to explore a variety of potential roles and teams within the PL Network to find the match for their interests, talents, and goals. We run the Residency Program year-round and accept applications on a rolling basis.\_\n"
-    navigationLabel: Joining the Network
-    _template: textCards
   - tailwind:
       section: 'pt-40 sm:pt-0'
       wrap: ''
