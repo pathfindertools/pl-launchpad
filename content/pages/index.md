@@ -4,7 +4,7 @@ blocks:
   - style:
       textAlignment: text-center
       minHeight: min-h-0
-      padding: 'pt-48 pb-64 pr-10 pl-10 sm:pt-32 sm:pb-32 sm:pr-0 sm:pl-0'
+      padding: 'pt-48 pb-96 pr-10 pl-10 sm:pt-32 sm:pb-96 sm:pr-0 sm:pl-0'
       width: narrow
       labelStyles: 'text-black font-2 text-sm mb-0 '
       headlineStyles: >-
@@ -21,7 +21,7 @@ blocks:
         - alignment: bottom-left
     label: ''
     headline: BLAST OFF INTO WEB3
-    subhead: Protocol Labs Network Launchpad
+    subhead: 'Protocol Labs Network Launchpad                                        '
     body: |
       ![](<> "")
     buttons:
