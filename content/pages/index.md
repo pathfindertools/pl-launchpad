@@ -142,7 +142,7 @@ blocks:
       fillStyles: bg-gray-light
     label: ''
     headline: Colo Week
-    subhead: Async Remote Program + 1 week in-person collaboration
+    subhead: Async Remote Program + 1 Week In-Person Collaboration
     body: >
       Every resident gets the chance to attend an in-person week-long colocation
       week. It’s a chance to meet members of the PL Network in real life. You
