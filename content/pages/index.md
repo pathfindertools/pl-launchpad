@@ -107,10 +107,9 @@ blocks:
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     label: ''
-    headline: This is the main headline
-    subhead: Here is a subhead
-    body: |
-      This is a rich text component you can add hyperlinks, etc.
+    headline: The Process
+    subhead: ''
+    body: ''
     _template: banner
   - tailwind:
       section: 'pt-40 sm:pt-0'
