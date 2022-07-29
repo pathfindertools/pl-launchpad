@@ -23,6 +23,10 @@ blocks:
     headline: BLAST OFF INTO WEB3 WITH LAUNCHPAD
     subhead: ''
     body: ''
+    buttons:
+      - label: Curriculum
+        link: 'https://curriculum.pl-launchpad.io/'
+        type: secondary
     navigationLabel: curriculum.pl-launchpad.io
     _template: banner
   - style:
