@@ -187,12 +187,12 @@ blocks:
     headline: Colo Week
     subhead: ''
     body: >
-      Build community with fellow launchpad in person. Every resident gets the
-      chance to attend a week long in-person colocation week in an amazing
-      destination alongside web3 conferences and events. Meet members of the PL
-      Network in real life, and attend in-person workshop sessions and live
-      demos from experts in the web3 community. Build strong network bonds with
-      fellow residents & web3 members
+      Build community with fellow launchpad residents in person. Every resident
+      gets the chance to attend a week long in-person colocation week at an
+      amazing destination alongside web3 conferences and events. Meet members of
+      the PL Network in real life, and attend in-person workshop sessions and
+      live demos from experts in the web3 community. Build strong network bonds
+      with fellow residents & web3 members
     _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
