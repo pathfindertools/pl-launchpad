@@ -21,7 +21,7 @@ blocks:
         - alignment: bottom-left
     label: ''
     headline: BLAST OFF INTO WEB3
-    subhead: with Launchpad
+    subhead: Protocol Labs Network Launchpad
     body: |
       ![](<> "")
     buttons:
