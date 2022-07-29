@@ -204,23 +204,27 @@ blocks:
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-black font-1 text-base mb-0 '
       headlineStyles: >-
-        text-accent1 font-1 text-3xl mb-5  sm:text-accent1 sm:font-1 sm:text-2xl
+        text-accent1 font-1 text-3xl mb-5  sm:text-accent1 sm:font-2 sm:text-lg
         sm:mb-3 
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      subheadStyles: 'text-accent2 font-1 text-xl mb-0 '
       textStyles: >-
-        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
+        text-accent1 font-2 text-lg mb-0  sm:text-accent1 sm:font-2 sm:text-lg
         sm:mb-0 
       contentOrder: labelHeadingsContent
     image:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1652061174/Engage_Launchpad_Photo_ajgttc.jpg
     label: ''
-    headline: Engage
-    subhead: ''
+    headline: Colo Week
+    subhead: 1 week in-person collaboratio
     body: >
-      Build community with fellow launchpad residents and attend sessions with
-      technical leads who work on everything from [IPFS](https://ipfs.io/) to
-      [Piñata Cloud](https://www.pinata.cloud/)
+      Build community with fellow launchpad. [Every resident gets the chance to
+      attend an in-person week-long colocation week in an amazing location
+      alongside web3 conferences and events. Meet members of the PL Network in
+      real life, and attend in person workshop sessions and live demos from
+      experts in the web3 community. At the same time you’ll get to build a
+      strong network with other residents in the program.
+      ](https://www.pinata.cloud/)
     _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
