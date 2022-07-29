@@ -577,7 +577,7 @@ blocks:
 
           [Press](https://protocol.ai/blog/announcing-pl-launchpad/ "")
 
-          [Contact](launchpad-team@protocol.ai)
+          [Contact](launchpad-team@protocol.ai "") : launchpad-team@protocol.ai
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1654024173/pl-launchpad/PL-LaunchPad-logo-Basic-color_meixms.png
