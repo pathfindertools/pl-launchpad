@@ -559,12 +559,15 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - text: |
+      - text: >
           Protocol Labs Jobs
+
 
           [PL Network Jobs](https://protocol.getro.com/companies?page=2)
 
-          Launchpad Application
+
+          [Launchpad
+          Application](https://boards.greenhouse.io/protocollabs/jobs/4305898004?gh\_src=8ab0a83a4us)
       - headline: ''
         subhead: ''
         text: |
