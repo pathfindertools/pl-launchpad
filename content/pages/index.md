@@ -562,7 +562,9 @@ blocks:
       - headline: ''
         subhead: ''
         text: |
-          [Launchpad Jobs](https://boards.greenhouse.io/protocollabs)
+          [Protocol Labs Jobs](https://boards.greenhouse.io/protocollabs)
+
+          [PLN Jobs](https://protocol.getro.com/companies?page=2)
 
           [Protocol Labs](https://protocol.ai/)
 
