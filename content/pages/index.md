@@ -568,7 +568,7 @@ blocks:
 
           [Protocol Labs](https://protocol.ai/)
 
-          [Filecoln](https://filecoin.io/)
+          [Filecoin](https://filecoin.io/)
       - headline: ''
         subhead: ''
         text: >
