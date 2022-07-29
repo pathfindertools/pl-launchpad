@@ -160,10 +160,10 @@ blocks:
     headline: Async Learning
     subhead: ''
     body: >
-      5 out of 6 weeks is an online & async experience with at-your-oen pace
-      curriculum and one daily session. Learn our stack and gain exposure to the
-      30 teams and 300+ web3 projects in the Protocol Labs Network in an online
-      environment.
+      5 out of 6 weeks is an online & async experience with a
+      choose-your-own-adventure style curriculum and one daily virtual session.
+      Learn our stack and gain exposure to the 30 teams and 300+ web3 projects
+      in the Protocol Labs Network in an online environment.
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
