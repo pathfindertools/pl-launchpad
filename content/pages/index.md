@@ -560,7 +560,8 @@ blocks:
     body: ''
     items:
       - text: >
-          Protocol Labs Jobs
+          [Protocol Labs
+          Jobs](https://boards.greenhouse.io/protocollabs?t=feb6172d4us)
 
 
           [PL Network Jobs](https://protocol.getro.com/companies?page=2)
