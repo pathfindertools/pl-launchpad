@@ -559,7 +559,12 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - text: ''
+      - text: |
+          Protocol Labs Jobs
+
+          [PL Network Jobs](https://protocol.getro.com/companies?page=2)
+
+          Launchpad Application
       - headline: ''
         subhead: ''
         text: |
