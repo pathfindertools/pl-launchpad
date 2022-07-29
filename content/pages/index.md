@@ -254,7 +254,7 @@ blocks:
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
       featureContent: 'w-2/3 min-h-0 '
-      padding: 'pt-20 pb-40 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
+      padding: 'pt-32 pb-40 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
       featureImage: 'object-left object-contain '
       imagePadding: pt-0 pb-0 pr-20 pl-0
       labelStyles: 'text-gray-dark font-1 text-sm mb-0 '
