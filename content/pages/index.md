@@ -383,19 +383,9 @@ blocks:
       textStyles: 'text-accent1 undefined text-base mb-0 '
       buttonType: primary
     label: ''
-    headline: Launchpad Former Residents
+    headline: Testimonials
     subhead: ''
-    body: >
-      Our teams are made up of people captivated by solving deep technical
-      challenges. We’re open source and remote. We have engineers working across
-      every time zone. The Residency program is designed for engineers that
-      could be a fit in several roles across the Protocol Labs Network.
-
-
-      We know great engineers can come from a variety of backgrounds. Before
-      joining the Launchpad Residency our alumni have been tech leads in web2,
-      startup owners, product managers at FAANG companies, Ethereum Hackathon
-      winners, and top open source contributors.
+    body: ''
     items:
       - image:
           src: >-
