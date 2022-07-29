@@ -175,7 +175,7 @@ blocks:
       headlineStyles: >-
         text-accent1 font-1 text-3xl mb-5  sm:text-accent1 sm:font-2 sm:text-lg
         sm:mb-3 
-      subheadStyles: 'text-accent2 font-1 text-xl mb-0 '
+      subheadStyles: 'text-accent1 font-1 text-xl mb-0 '
       textStyles: >-
         text-accent1 font-2 text-lg mb-0  sm:text-accent1 sm:font-2 sm:text-lg
         sm:mb-0 
