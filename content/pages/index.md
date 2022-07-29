@@ -69,23 +69,33 @@ blocks:
         type: minor
     navigationLabel: About
     _template: banner
-  - tailwind:
-      section: 'pt-40 sm:pt-0'
-      wrap: ''
-      imageWrap: ''
-      image: ''
-      contentWrap: ''
-      content: ''
-      label: ''
-      headline: ''
-      subhead: ''
-      text: ''
-      buttons: ''
+  - style:
+      alignment: 'flex-row text-left items-center items-start-vertical '
+      featureContent: 'w-2/3 min-h-0 '
+      padding: 'pt-60 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      labelStyles: 'text-accent1 font-1 text-sm mb-0 '
+      headlineStyles: >-
+        text-accent1 font-2 text-3xl mb-9  sm:text-accent1 sm:font-2 sm:text-2xl
+        sm:mb-3 
+      subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
+      textStyles: >-
+        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
+        sm:mb-0 
+      contentOrder: labelHeadingsContent
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1654056326/DSCF8987_xqv93k.jpg
     label: ''
-    headline: ''
+    headline: An Onboarding & Hiring Program
     subhead: ''
-    body: ''
-    _template: tailwindFeature
+    body: >
+      The Launchpad Program is a 6-week onboarding program for new hires to the
+      Protocol Labs Network (PLN), as well as a contract-to-learn opportunity to
+      bring new technical talent into the PLN network. Residents connect and
+      build fellowship with minds from across the web3 universe.
+    _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
@@ -113,6 +123,96 @@ blocks:
       [startup
       operator](https://boards.greenhouse.io/protocollabs/jobs/4305898004)
     _template: feature
+  - style:
+      alignment: 'flex-row-reverse text-left items-start items-start-vertical '
+      featureContent: 'w-4/5 min-h-0 '
+      padding: 'pt-20 pb-0 pr-10 pl-10 sm:pt-6 sm:pb-0 sm:pr-6 sm:pl-6'
+      featureImage: 'object-center object-scale-down '
+      imagePadding: undefined undefined undefined undefined
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: >-
+        text-accent1 font-2 text-4xl mb-0  sm:text-accent1 sm:font-2 sm:text-3xl
+        sm:mb-0 
+      subheadStyles: >-
+        text-accent1 font-2 text-2xl mb-6  sm:text-accent1 sm:font-2 sm:text-xl
+        sm:mb-2.5 
+      textStyles: 'text-accent1 font-1 text-lg mb-0 '
+      contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-gray-light
+    label: ''
+    headline: Colo Week
+    subhead: Remote forever doesn't mean we can't get together
+    body: >
+      Every resident gets the chance to attend an in-person week-long colocation
+      week. It’s a chance to meet members of the PL Network in real life. You
+      will attend in person sessions and live demos from experts in the web3
+      community. At the same time you’ll get to build a strong network with
+      other residents in the program. Oh, we also go to awesome places like
+      Amsterdam, Iceland and Austin. Most of the time colo week is held in
+      conjunction with other web3 community events like Devconnect or Consensus
+      Festival.
+    navigationLabel: Program Experience
+    _template: feature
+  - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: pt-0 pb-0 pr-0 pl-0
+      contentWidth: w-full
+      columns: '2'
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: 'text-black font-1 text-5xl mb-0 '
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-black font-1 undefined mb-0 '
+      contentOrder: labelHeadingsContent
+    cardStyle:
+      fillStyles: bg-gray-light
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
+      type: solid
+      borderStyles: border-gray undefined-0
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: >-
+        text-accent1 font-2 text-3xl mb-11  sm:text-accent1 sm:font-2
+        sm:text-2xl sm:mb-3 
+      subheadStyles: 'text-black font-1 undefined mb-0 '
+      textStyles: 'text-accent1 font-1 text-lg mb-0 '
+      buttonType: primary
+    background:
+      position: object-center
+      ornaments:
+        - src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653078452/pl-launchpad/launchpad_network_mprj8p.jpg
+          alignment: bottom-right
+          width: '900'
+          xOffset: '200'
+          yOffset: '100'
+    label: ''
+    headline: ''
+    subhead: ''
+    body: ''
+    items:
+      - headline: The Program
+        subhead: ''
+        text: "After completing the interview process, you will start your career in the Protocol Labs Network by joining the Launchpad Residency Program.\_ During your first 6 weeks, you will learn the mechanics of our protocol suite like IPFS, Filecoin, IPLD, and libp2p through hands-on labs, technical mentorship, expert Q\\&As, and training. At the same time, launchpad residents get to explore a variety of potential roles and teams within the PL Network to find the match for their interests, talents, and goals. We run the Residency Program year-round and accept applications on a rolling basis.\_\n"
+    navigationLabel: Joining the Network
+    _template: textCards
+  - tailwind:
+      section: 'pt-40 sm:pt-0'
+      wrap: ''
+      imageWrap: ''
+      image: ''
+      contentWrap: ''
+      content: ''
+      label: ''
+      headline: ''
+      subhead: ''
+      text: ''
+      buttons: ''
+    label: ''
+    headline: ''
+    subhead: ''
+    body: ''
+    _template: tailwindFeature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
@@ -208,107 +308,6 @@ blocks:
     subhead: ''
     body: ''
     _template: tailwindFeature
-  - style:
-      textAlignment: text-left
-      minHeight: min-h-0
-      padding: pt-0 pb-0 pr-0 pl-0
-      contentWidth: w-full
-      columns: '2'
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-black font-1 text-5xl mb-0 '
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-black font-1 undefined mb-0 '
-      contentOrder: labelHeadingsContent
-    cardStyle:
-      fillStyles: bg-gray-light
-      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      type: solid
-      borderStyles: border-gray undefined-0
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: >-
-        text-accent1 font-2 text-3xl mb-11  sm:text-accent1 sm:font-2
-        sm:text-2xl sm:mb-3 
-      subheadStyles: 'text-black font-1 undefined mb-0 '
-      textStyles: 'text-accent1 font-1 text-lg mb-0 '
-      buttonType: primary
-    background:
-      position: object-center
-      ornaments:
-        - src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653078452/pl-launchpad/launchpad_network_mprj8p.jpg
-          alignment: bottom-right
-          width: '900'
-          xOffset: '200'
-          yOffset: '100'
-    label: ''
-    headline: ''
-    subhead: ''
-    body: ''
-    items:
-      - headline: The Program
-        subhead: ''
-        text: "After completing the interview process, you will start your career in the Protocol Labs Network by joining the Launchpad Residency Program.\_ During your first 6 weeks, you will learn the mechanics of our protocol suite like IPFS, Filecoin, IPLD, and libp2p through hands-on labs, technical mentorship, expert Q\\&As, and training. At the same time, launchpad residents get to explore a variety of potential roles and teams within the PL Network to find the match for their interests, talents, and goals. We run the Residency Program year-round and accept applications on a rolling basis.\_\n"
-    navigationLabel: Joining the Network
-    _template: textCards
-  - style:
-      alignment: 'flex-row text-left items-center items-start-vertical '
-      featureContent: 'w-2/3 min-h-0 '
-      padding: 'pt-60 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: 'text-accent1 font-1 text-sm mb-0 '
-      headlineStyles: >-
-        text-accent1 font-2 text-3xl mb-9  sm:text-accent1 sm:font-2 sm:text-2xl
-        sm:mb-3 
-      subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
-      textStyles: >-
-        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
-        sm:mb-0 
-      contentOrder: labelHeadingsContent
-    image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1654056326/DSCF8987_xqv93k.jpg
-    label: ''
-    headline: Onboarding Program
-    subhead: ''
-    body: >
-      The Launchpad Program is our 6-week onboarding program that most people
-      joining our ecosystem go through. You’ll get to connect and build
-      fellowship with minds from across the web3 universe. Starting your first
-      week you will make an impact by creating a personal project, and be
-      exposed to mentorship from senior engineers.
-    _template: feature
-  - style:
-      alignment: 'flex-row-reverse text-left items-start items-start-vertical '
-      featureContent: 'w-4/5 min-h-0 '
-      padding: 'pt-20 pb-0 pr-10 pl-10 sm:pt-6 sm:pb-0 sm:pr-6 sm:pl-6'
-      featureImage: 'object-center object-scale-down '
-      imagePadding: undefined undefined undefined undefined
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: >-
-        text-accent1 font-2 text-4xl mb-0  sm:text-accent1 sm:font-2 sm:text-3xl
-        sm:mb-0 
-      subheadStyles: >-
-        text-accent1 font-2 text-2xl mb-6  sm:text-accent1 sm:font-2 sm:text-xl
-        sm:mb-2.5 
-      textStyles: 'text-accent1 font-1 text-lg mb-0 '
-      contentOrder: labelHeadingsContent
-    background:
-      fillStyles: bg-gray-light
-    label: ''
-    headline: Colo Week
-    subhead: Remote forever doesn't mean we can't get together
-    body: >
-      Every resident gets the chance to attend an in-person week-long colocation
-      week. It’s a chance to meet members of the PL Network in real life. You
-      will attend in person sessions and live demos from experts in the web3
-      community. At the same time you’ll get to build a strong network with
-      other residents in the program. Oh, we also go to awesome places like
-      Amsterdam, Iceland and Austin. Most of the time colo week is held in
-      conjunction with other web3 community events like Devconnect or Consensus
-      Festival.
-    navigationLabel: Program Experience
-    _template: feature
   - style:
       minHeight: min-h-0
       fullWidth: false
