@@ -571,13 +571,10 @@ blocks:
           [Filecoin](https://filecoin.io/)
       - headline: ''
         subhead: ''
-        text: >
-          [Launchpad
-          Curriculum](https://protocol-labs.gitbook.io/launchpad-curriculum/)
-
+        text: |
+          [Launchpad Curriculum](https://curriculum.pl-launchpad.io/ "")
 
           [Press](<launchpad-team@protocol.ai >)
-
 
           [Contact](launchpad-team@protocol.ai)
       - image:
