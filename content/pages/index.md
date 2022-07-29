@@ -264,7 +264,7 @@ blocks:
         text-accent1 font-2 text-3xl mb-4  sm:text-accent1 sm:font-2 sm:text-2xl
         sm:mb-2.5 
       subheadStyles: 'text-gray-dark font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-1 text-lg mb-0 '
+      textStyles: 'text-accent1 font-1 text-lg mb-8 '
       contentOrder: labelHeadingsContent
     background:
       fillStyles: bg-white
