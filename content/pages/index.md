@@ -575,7 +575,7 @@ blocks:
         text: |
           [Launchpad Curriculum](https://curriculum.pl-launchpad.io/)
 
-          [Press](<launchpad-team@protocol.ai >)
+          [Press](https://protocol.ai/blog/announcing-pl-launchpad/ "")
 
           [Contact](launchpad-team@protocol.ai)
       - image:
