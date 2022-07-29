@@ -4,13 +4,15 @@ blocks:
   - style:
       textAlignment: text-center
       minHeight: min-h-0
-      padding: 'pt-48 pb-96 pr-10 pl-10 sm:pt-32 sm:pb-96 sm:pr-0 sm:pl-0'
+      padding: 'pt-48 pb-48 pr-10 pl-10 sm:pt-32 sm:pb-48 sm:pr-0 sm:pl-0'
       width: narrow
       labelStyles: 'text-black font-2 text-sm mb-0 '
       headlineStyles: >-
         text-white font-2 text-5xl mb-0 font-bold sm:text-white sm:font-2
         sm:text-3xl sm:mb-0 sm:font-bold
-      subheadStyles: 'text-gray-light font-1 text-xl mb-0 '
+      subheadStyles: >-
+        text-gray-light font-1 text-xl mb-24  sm:text-gray-light sm:font-1
+        sm:text-xl sm:mb-12 
       textStyles: 'text-gray-light font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     background:
