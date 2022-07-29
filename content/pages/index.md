@@ -20,9 +20,10 @@ blocks:
       ornaments:
         - alignment: bottom-left
     label: ''
-    headline: BLAST OFF INTO WEB3 WITH LAUNCHPAD
+    headline: BLAST OFF INTO WEB3
     subhead: ''
-    body: ''
+    body: |
+      ![]()
     buttons:
       - label: Curriculum
         link: 'https://curriculum.pl-launchpad.io/'
