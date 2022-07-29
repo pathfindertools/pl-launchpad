@@ -10,7 +10,7 @@ blocks:
       headlineStyles: >-
         text-white font-2 text-5xl mb-0 font-bold sm:text-white sm:font-2
         sm:text-3xl sm:mb-0 sm:font-bold
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      subheadStyles: 'text-gray-light font-1 text-xl mb-0 '
       textStyles: 'text-gray-light font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     background:
