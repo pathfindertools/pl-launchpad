@@ -274,7 +274,7 @@ blocks:
     body: >
       We believe people do best when they’re working on projects they're excited
       about. With [30+ teams ](https://protocol.ai/work/)within Protocol Labs
-      and [300+ companies](https://jobs.protocol.ai/companies) in the Protocol
+      and [350+ companies](https://jobs.protocol.ai/companies) in the Protocol
       Labs Network (PLN) now is a great time for people coming both inside and
       outside the web3 space to ramp up their knowledge and contribute to these
       cutting-edge technologies directly. The Launchpad residency allows for you
@@ -286,8 +286,8 @@ blocks:
       with different teams across the PLN to find the project & team that they
       mesh with best. Open roles include core distributed systems engineers,
       network researchers, developer advocates, technical writers, startup
-      operators, and many more exciting roles and opportunities across PLN teams
-      and companies.&#x20;
+      operators, and many more exciting opportunities across PLN teams, OSS
+      projects, and companies.&#x20;
     buttons:
       - label: Open Roles in PLN
         link: 'https://protocol.getro.com/companies?page=2'
