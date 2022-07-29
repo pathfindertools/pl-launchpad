@@ -553,6 +553,7 @@ blocks:
       buttonType: primary
     background:
       fillStyles: bg-accent1
+      src: ''
     label: ''
     headline: ''
     subhead: ''
@@ -572,7 +573,7 @@ blocks:
       - headline: ''
         subhead: ''
         text: |
-          [Launchpad Curriculum](https://curriculum.pl-launchpad.io/ "")
+          [Launchpad Curriculum](https://curriculum.pl-launchpad.io/)
 
           [Press](<launchpad-team@protocol.ai >)
 
