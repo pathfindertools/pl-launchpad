@@ -11,7 +11,7 @@ blocks:
         text-white font-2 text-5xl mb-0 font-bold sm:text-white sm:font-2
         sm:text-3xl sm:mb-0 sm:font-bold
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-black font-1 undefined mb-0 '
+      textStyles: 'text-gray-light font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     background:
       src: >-
@@ -23,7 +23,7 @@ blocks:
     headline: BLAST OFF INTO WEB3
     subhead: ''
     body: |
-      ![]()
+      ![](<> "")
     buttons:
       - label: Curriculum
         link: 'https://curriculum.pl-launchpad.io/'
@@ -208,43 +208,6 @@ blocks:
     subhead: ''
     body: ''
     _template: tailwindFeature
-  - style:
-      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
-      featureContent: 'w-4/5 min-h-0 '
-      padding: 'pt-20 pb-20 pr-10 pl-10 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      featureImage: 'object-center object-scale-down '
-      imagePadding: 'pt-20 pb-20 pr-20 pl-10 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: >-
-        text-white font-1 text-3xl mb-5  sm:text-white sm:font-1 sm:text-2xl
-        sm:mb-3 
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: >-
-        text-white font-1 text-2xl mb-7  sm:text-white sm:font-1 sm:text-lg
-        sm:mb-7 
-      contentOrder: labelHeadingsContent
-    background:
-      fillStyles: from-primary to-accent1 bg-gradient-to-tl
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1654021869/pl-launchpad/PL_Launchpad_Closing_Card_ikvel9.png
-      position: object-center
-    label: ''
-    headline: 'One Network, Endless Opportunity'
-    subhead: ''
-    body: >
-      We believe the best engineering happens when people work on problems that
-      excite them. That is why we created the Launchpad Residency.
-
-
-      You will have a 6-week onboarding program where you'll get exposure to our
-      engineering teams and technical stack. During the program you will work
-      with engineering managers, mentors, and leadership to find a team in our
-      ecosystem that is the best fit for you and your skillset.
-    buttons:
-      - label: Learn More
-        link: '/https://boards.greenhouse.io/protocollabs/jobs/4305898004'
-        type: secondary
-    _template: feature
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
       featureContent: 'w-4/5 min-h-0 '
