@@ -25,7 +25,7 @@ blocks:
     body: |
       ![]()
     buttons:
-      - label: Curriculum
+      - label: What You Learn
         link: 'https://curriculum.pl-launchpad.io/'
         type: secondary
     navigationLabel: curriculum.pl-launchpad.io
