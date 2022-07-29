@@ -28,7 +28,7 @@ blocks:
       - label: What You Learn
         link: 'https://curriculum.pl-launchpad.io/'
         type: secondary
-    navigationLabel: curriculum.pl-launchpad.io
+    navigationLabel: ''
     _template: banner
   - style:
       textAlignment: text-left
