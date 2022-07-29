@@ -177,7 +177,7 @@ blocks:
         sm:mb-3 
       subheadStyles: 'text-accent1 font-1 text-xl mb-0 '
       textStyles: >-
-        text-accent1 font-2 text-lg mb-0  sm:text-accent1 sm:font-2 sm:text-lg
+        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
         sm:mb-0 
       contentOrder: labelHeadingsContent
     image:
@@ -185,11 +185,11 @@ blocks:
         https://res.cloudinary.com/protocolai/image/upload/v1652061174/Engage_Launchpad_Photo_ajgttc.jpg
     label: ''
     headline: Colo Week
-    subhead: 1 week in-person collaboration
+    subhead: ''
     body: >
       Build community with fellow launchpad in person. Every resident gets the
-      chance to atten a week long in-person colocation week in an amazing
-      location alongside web3 conferences and events. Meet members of the PL
+      chance to attend a week long in-person colocation week in an amazing
+      destination alongside web3 conferences and events. Meet members of the PL
       Network in real life, and attend in-person workshop sessions and live
       demos from experts in the web3 community. Build strong network bonds with
       fellow residents & web3 members
