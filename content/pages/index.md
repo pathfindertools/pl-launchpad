@@ -563,21 +563,19 @@ blocks:
       - headline: ''
         subhead: ''
         text: |
-          [Protocol Labs Jobs](https://boards.greenhouse.io/protocollabs)
-
-          [PLN Jobs](https://protocol.getro.com/companies?page=2)
-
           [Protocol Labs](https://protocol.ai/)
 
           [Filecoin](https://filecoin.io/)
+
+          [libp2p](https://libp2p.io/)
       - headline: ''
         subhead: ''
         text: |
           [Launchpad Curriculum](https://curriculum.pl-launchpad.io/)
 
-          [Press](https://protocol.ai/blog/announcing-pl-launchpad/ "")
+          [Press](https://protocol.ai/blog/announcing-pl-launchpad/)
 
-          [Contact](launchpad-team@protocol.ai "") : launchpad-team@protocol.ai
+          [Contact](launchpad-team@protocol.ai) : launchpad-team@protocol.ai
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1654024173/pl-launchpad/PL-LaunchPad-logo-Basic-color_meixms.png
