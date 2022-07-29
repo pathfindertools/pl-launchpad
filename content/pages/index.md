@@ -111,23 +111,6 @@ blocks:
     subhead: ''
     body: ''
     _template: banner
-  - tailwind:
-      section: 'pt-40 sm:pt-0'
-      wrap: ''
-      imageWrap: ''
-      image: ''
-      contentWrap: ''
-      content: ''
-      label: ''
-      headline: ''
-      subhead: ''
-      text: ''
-      buttons: ''
-    label: ''
-    headline: ''
-    subhead: ''
-    body: ''
-    _template: tailwindFeature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
@@ -154,6 +137,33 @@ blocks:
       [engineer](https://boards.greenhouse.io/protocollabs/jobs/4366933004) or
       [startup
       operator](https://boards.greenhouse.io/protocollabs/jobs/4305898004)
+    _template: feature
+  - style:
+      alignment: 'flex-row text-left items-center items-start-vertical '
+      featureContent: 'w-2/3 min-h-120 '
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
+      featureImage: 'object-center object-cover '
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      labelStyles: 'text-black font-1 text-base mb-0 '
+      headlineStyles: >-
+        text-accent1 font-1 text-3xl mb-5  sm:text-accent1 sm:font-1 sm:text-2xl
+        sm:mb-3 
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: >-
+        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
+        sm:mb-0 
+      contentOrder: labelHeadingsContent
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1651780106/pl-launchpad/Sticky-Stock-Photo-1-p-1600_yxp5ts.jpg
+    label: ''
+    headline: Async Learning
+    subhead: ''
+    body: >
+      5 out of 6 weeks is an online & async experience with at-your-oen pace
+      curriculum and one daily session. Learn our stack and gain exposure to the
+      30 teams and 300+ web3 projects in the Protocol Labs Network in an online
+      environment.
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-start items-start-vertical '
@@ -185,31 +195,6 @@ blocks:
       conjunction with other web3 community events like Devconnect or Consensus
       Festival.
     navigationLabel: Program Experience
-    _template: feature
-  - style:
-      alignment: 'flex-row text-left items-center items-start-vertical '
-      featureContent: 'w-2/3 min-h-120 '
-      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      featureImage: 'object-center object-cover '
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: 'text-black font-1 text-base mb-0 '
-      headlineStyles: >-
-        text-accent1 font-1 text-3xl mb-5  sm:text-accent1 sm:font-1 sm:text-2xl
-        sm:mb-3 
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: >-
-        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
-        sm:mb-0 
-      contentOrder: labelHeadingsContent
-    image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1651780106/pl-launchpad/Sticky-Stock-Photo-1-p-1600_yxp5ts.jpg
-    label: ''
-    headline: Onboard
-    subhead: ''
-    body: >
-      Learn our stack and gain exposure to the 30 teams and 300+ web3 projects
-      in the Protocol Labs Network in this 6 week program
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
