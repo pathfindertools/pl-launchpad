@@ -21,7 +21,7 @@ blocks:
         - alignment: bottom-left
     label: ''
     headline: BLAST OFF INTO WEB3
-    subhead: ''
+    subhead: with Launchpad
     body: |
       ![](<> "")
     buttons:
