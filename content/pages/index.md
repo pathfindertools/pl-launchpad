@@ -96,6 +96,23 @@ blocks:
       bring new technical talent into the PLN network. Residents connect and
       build fellowship with minds from across the web3 universe.
     _template: feature
+  - tailwind:
+      section: 'pt-40 sm:pt-0'
+      wrap: ''
+      imageWrap: ''
+      image: ''
+      contentWrap: ''
+      content: ''
+      label: ''
+      headline: ''
+      subhead: ''
+      text: ''
+      buttons: ''
+    label: ''
+    headline: ''
+    subhead: ''
+    body: ''
+    _template: tailwindFeature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
@@ -154,23 +171,6 @@ blocks:
       Festival.
     navigationLabel: Program Experience
     _template: feature
-  - tailwind:
-      section: 'pt-40 sm:pt-0'
-      wrap: ''
-      imageWrap: ''
-      image: ''
-      contentWrap: ''
-      content: ''
-      label: ''
-      headline: ''
-      subhead: ''
-      text: ''
-      buttons: ''
-    label: ''
-    headline: ''
-    subhead: ''
-    body: ''
-    _template: tailwindFeature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
