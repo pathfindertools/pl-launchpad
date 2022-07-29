@@ -23,7 +23,7 @@ blocks:
     headline: BLAST OFF INTO WEB3
     subhead: 'Protocol Labs Network Launchpad                                        '
     body: |
-      ![](<> "")
+      ![]()
     buttons:
       - label: Curriculum
         link: 'https://curriculum.pl-launchpad.io/'
