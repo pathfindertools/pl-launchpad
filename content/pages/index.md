@@ -587,7 +587,7 @@ blocks:
           [Contact](launchpad-team@protocol.ai) : launchpad-team@protocol.ai
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1654024173/pl-launchpad/PL-LaunchPad-logo-Basic-color_meixms.png
+            https://res.cloudinary.com/protocolai/image/upload/v1659116223/pl-launchpad/pl-launchpad-watermark_yincbh.png
         headline: ''
         subhead: ''
         text: ''
