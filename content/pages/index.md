@@ -166,37 +166,6 @@ blocks:
       environment.
     _template: feature
   - style:
-      alignment: 'flex-row-reverse text-left items-start items-start-vertical '
-      featureContent: 'w-4/5 min-h-0 '
-      padding: 'pt-20 pb-0 pr-10 pl-10 sm:pt-6 sm:pb-0 sm:pr-6 sm:pl-6'
-      featureImage: 'object-center object-scale-down '
-      imagePadding: undefined undefined undefined undefined
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: >-
-        text-accent1 font-2 text-4xl mb-0  sm:text-accent1 sm:font-2 sm:text-3xl
-        sm:mb-0 
-      subheadStyles: >-
-        text-accent1 font-2 text-2xl mb-6  sm:text-accent1 sm:font-2 sm:text-xl
-        sm:mb-2.5 
-      textStyles: 'text-accent1 font-1 text-lg mb-0 '
-      contentOrder: labelHeadingsContent
-    background:
-      fillStyles: bg-gray-light
-    label: ''
-    headline: Colo Week
-    subhead: Async Remote Program + 1 Week In-Person Collaboration
-    body: >
-      Every resident gets the chance to attend an in-person week-long colocation
-      week. It’s a chance to meet members of the PL Network in real life. You
-      will attend in person sessions and live demos from experts in the web3
-      community. At the same time you’ll get to build a strong network with
-      other residents in the program. Oh, we also go to awesome places like
-      Amsterdam, Iceland and Austin. Most of the time colo week is held in
-      conjunction with other web3 community events like Devconnect or Consensus
-      Festival.
-    navigationLabel: Program Experience
-    _template: feature
-  - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
       padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
@@ -216,15 +185,14 @@ blocks:
         https://res.cloudinary.com/protocolai/image/upload/v1652061174/Engage_Launchpad_Photo_ajgttc.jpg
     label: ''
     headline: Colo Week
-    subhead: 1 week in-person collaboratio
+    subhead: 1 week in-person collaboration
     body: >
       Build community with fellow launchpad. [Every resident gets the chance to
       attend an in-person week-long colocation week in an amazing location
       alongside web3 conferences and events. Meet members of the PL Network in
       real life, and attend in person workshop sessions and live demos from
       experts in the web3 community. At the same time you’ll get to build a
-      strong network with other residents in the program.
-      ](https://www.pinata.cloud/)
+      strong network with other residents in the program. ](<> "")
     _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
