@@ -23,7 +23,7 @@ blocks:
     headline: BLAST OFF INTO WEB3
     subhead: 'Protocol Labs Network Launchpad                                        '
     body: |
-      ![]()
+      ![](<> "")
     buttons:
       - label: What You Learn
         link: 'https://curriculum.pl-launchpad.io/'
@@ -209,54 +209,6 @@ blocks:
     body: ''
     _template: tailwindFeature
   - style:
-      alignment: 'flex-col text-left items-center items-center-vertical '
-      featureContent: 'w-4/5 min-h-0 '
-      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-black font-1 text-5xl mb-0 '
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-2 text-2xl mb-0 '
-      contentOrder: labelHeadingsContent
-    label: ''
-    headline: ''
-    subhead: ''
-    body: ''
-    _template: feature
-  - style:
-      alignment: 'flex-row text-left items-center items-start-vertical '
-      featureContent: 'w-2/3 min-h-0 '
-      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: 'text-accent1 font-1 text-sm mb-0 '
-      headlineStyles: >-
-        text-accent1 font-2 text-3xl mb-9  sm:text-accent1 sm:font-2 sm:text-2xl
-        sm:mb-2.5 
-      subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
-      textStyles: >-
-        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
-        sm:mb-0 
-      contentOrder: labelHeadingsContent
-    background:
-      src: ''
-    image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1654056233/DSCF8507_kcgcv3.jpg
-    label: ''
-    headline: The Curriculum
-    subhead: ''
-    body: >
-      As an open-source network, you can find the entire curriculum
-      [here](https://protocol-labs.gitbook.io/launchpad-curriculum/). During the
-      launchpad residency, you’ll dive deep into curated content about the [PL
-      Network](https://protocol.ai/work/), [IPFS](https://filecoin.io/),
-      [libp2p](https://libp2p.io/), [IPLD](https://ipld.io/),
-      [Filecoin](https://filecoin.io/), and the variety of tools & SDKs that are
-      used across the web3 universe.
-    _template: feature
-  - style:
       textAlignment: text-left
       minHeight: min-h-0
       padding: pt-0 pb-0 pr-0 pl-0
@@ -293,7 +245,7 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - headline: Joining the Protocol Labs Network
+      - headline: The Program
         subhead: ''
         text: "After completing the interview process, you will start your career in the Protocol Labs Network by joining the Launchpad Residency Program.\_ During your first 6 weeks, you will learn the mechanics of our protocol suite like IPFS, Filecoin, IPLD, and libp2p through hands-on labs, technical mentorship, expert Q\\&As, and training. At the same time, launchpad residents get to explore a variety of potential roles and teams within the PL Network to find the match for their interests, talents, and goals. We run the Residency Program year-round and accept applications on a rolling basis.\_\n"
     navigationLabel: Joining the Network
