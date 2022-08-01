@@ -332,8 +332,8 @@ blocks:
     subhead: ''
     body: >
       A key aspect of the Launchpad Residency is empowering new labbers to make
-      an impact from day 1. During the Launchpad program every resident
-      completes a personal project.
+      an impact. During the Launchpad program every resident completes a
+      personal project related to their new role or area of interest.
     items:
       - image:
           src: >-
