@@ -538,6 +538,7 @@ blocks:
       - label: Apply
         link: 'https://boards.greenhouse.io/protocollabs/jobs/4305898004'
         type: primary
+    navigationLabel: Who Should Apply?
     _template: feature
   - style:
       textAlignment: text-left
