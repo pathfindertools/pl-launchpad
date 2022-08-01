@@ -65,7 +65,7 @@ blocks:
       - label: Apply Here
         link: 'https://boards.greenhouse.io/protocollabs/jobs/4366933004'
         type: secondary
-      - label: 'PLN: Join'
+      - label: Cohort Dates
         link: >-
           https://www.notion.so/pl-strflt/Launchpad-Dates-Sign-Up-fb297b9636334b19bd02976b0c922ffd/
         type: minor
