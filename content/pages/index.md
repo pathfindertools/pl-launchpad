@@ -30,7 +30,7 @@ blocks:
       - label: Curriculum
         link: 'https://curriculum.pl-launchpad.io/'
         type: secondary
-    navigationLabel: ''
+    navigationLabel: The Program
     _template: banner
   - style:
       textAlignment: text-left
