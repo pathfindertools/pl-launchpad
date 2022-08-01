@@ -109,7 +109,7 @@ blocks:
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     label: ''
-    headline: The Process
+    headline: The Program
     subhead: ''
     body: ''
     _template: banner
