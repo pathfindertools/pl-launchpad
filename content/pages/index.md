@@ -491,7 +491,7 @@ blocks:
           the whole PL Network - so now I have contacts on many different teams
           I can reach out to and learn what’s going on. Having this support
           system helped make diving into new areas much less daunting!
-    navigationLabel: ''
+    navigationLabel: Testimonials
     _template: photoCards
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
