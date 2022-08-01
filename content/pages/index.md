@@ -222,10 +222,10 @@ blocks:
     body: >
       The  goal of the 6 week launchpad residency is  to give you a chance to
       work closely with PLN teams and build a project related to your area of
-      expertise, while introducing you to the network of web3 projects, tooling,
-      and companies. Work on a project related to your role, or match with a
-      team and hack. At the end, you have a project to share that highlights
-      your growth and contribution contribution to the PLN&#x20;
+      expertise, while introducing you to web3 technologies, tooling, and
+      companies. Work on a project related to your role, or match with a team
+      and hack. At the end, you have a project to share that highlights your
+      growth and contribution contribution to the PLN&#x20;
     _template: feature
   - tailwind:
       section: 'pt-40 sm:pt-0'
