@@ -30,7 +30,7 @@ blocks:
       - label: Curriculum
         link: 'https://curriculum.pl-launchpad.io/'
         type: secondary
-    navigationLabel: Testimonials
+    navigationLabel: Who Should Apply?
     _template: banner
   - style:
       textAlignment: text-left
