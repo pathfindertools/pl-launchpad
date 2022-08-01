@@ -112,6 +112,7 @@ blocks:
     headline: The Program
     subhead: ''
     body: ''
+    navigationLabel: Program
     _template: banner
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
