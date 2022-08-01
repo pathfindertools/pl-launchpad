@@ -27,7 +27,7 @@ blocks:
     body: |
       ![](<> "")
     buttons:
-      - label: What You Learn
+      - label: Curriculum
         link: 'https://curriculum.pl-launchpad.io/'
         type: secondary
     navigationLabel: ''
@@ -65,7 +65,7 @@ blocks:
       - label: Apply Here
         link: 'https://boards.greenhouse.io/protocollabs/jobs/4366933004'
         type: secondary
-      - label: 'PLN: Join'
+      - label: Cohort Dates
         link: >-
           https://www.notion.so/pl-strflt/Launchpad-Dates-Sign-Up-fb297b9636334b19bd02976b0c922ffd/
         type: minor
@@ -109,9 +109,10 @@ blocks:
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     label: ''
-    headline: The Process
+    headline: The Program
     subhead: ''
     body: ''
+    navigationLabel: Program
     _template: banner
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
@@ -138,7 +139,9 @@ blocks:
       Apply to launchpad to become a part of the Protocol Labs Network as an
       [engineer](https://boards.greenhouse.io/protocollabs/jobs/4366933004) or
       [startup
-      operator](https://boards.greenhouse.io/protocollabs/jobs/4305898004)
+      operator.](https://boards.greenhouse.io/protocollabs/jobs/4305898004)
+      Managers in teams that are PLN members can fill out a registration form
+      for new hires
     _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
@@ -215,13 +218,15 @@ blocks:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1652061490/Team-Match-p-500_bmljm6.jpg
     label: ''
-    headline: Team Match
+    headline: Build & Collaborate
     subhead: ''
     body: >
-      The 6 week launchpad residency is designed to give you a chance to work
-      closely with PLN engineering teams and introduce you to the network of
-      web3 projects, tooling, and companies ultimately leading to being united
-      with a team and project that ignite your passion
+      The  goal of the 6 week launchpad residency is  to give you a chance to
+      work closely with PLN teams and build a project related to your area of
+      expertise, while introducing you to web3 technologies, tooling, and
+      companies. Work on a project related to your role, or match with a team
+      and hack. At the end, you have a project to share that highlights your
+      growth and contribution contribution to the PLN&#x20;
     _template: feature
   - tailwind:
       section: 'pt-40 sm:pt-0'
@@ -294,6 +299,7 @@ blocks:
       - label: Open Roles in PLN
         link: 'https://protocol.getro.com/companies?page=2'
         type: primary
+    navigationLabel: Unmatched
     _template: feature
   - style:
       textAlignment: text-left
@@ -328,8 +334,8 @@ blocks:
     subhead: ''
     body: >
       A key aspect of the Launchpad Residency is empowering new labbers to make
-      an impact from day 1. During the Launchpad program every resident
-      completes a personal project.
+      an impact. During the Launchpad program every resident completes a
+      personal project related to their new role or area of interest.
     items:
       - image:
           src: >-
@@ -485,7 +491,7 @@ blocks:
           the whole PL Network - so now I have contacts on many different teams
           I can reach out to and learn what’s going on. Having this support
           system helped make diving into new areas much less daunting!
-    navigationLabel: ''
+    navigationLabel: Testimonials
     _template: photoCards
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
@@ -532,6 +538,7 @@ blocks:
       - label: Apply
         link: 'https://boards.greenhouse.io/protocollabs/jobs/4305898004'
         type: primary
+    navigationLabel: Who Should Apply?
     _template: feature
   - style:
       textAlignment: text-left
