@@ -28,7 +28,7 @@ blocks:
       ![](<> "")
     buttons:
       - label: Curriculum
-        link: 'https://curriculum.pl-launchpad.io/'
+        link: 'https://curriculum.pl-launchpad.io/curriculum/'
         type: secondary
     navigationLabel: ''
     _template: banner
@@ -162,12 +162,12 @@ blocks:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1651780106/pl-launchpad/Sticky-Stock-Photo-1-p-1600_yxp5ts.jpg
     label: ''
-    headline: Async Learning
+    headline: Flexible Learning
     subhead: ''
     body: >
-      5 out of 6 weeks are an online & async experience with a
+      5 out of 6 weeks are an online + async experience with a
       choose-your-own-adventure style curriculum and one daily virtual session.
-      Learn our stack and gain exposure to the 30 teams and 350+ web3 projects
+      Learn our stack and gain exposure to the 30 teams and 450+ web3 projects
       in the Protocol Labs Network in an online environment.
     _template: feature
   - style:
@@ -281,7 +281,7 @@ blocks:
     body: >
       We believe people do best when they’re working on projects they're excited
       about. With [30+ teams ](https://protocol.ai/work/)within Protocol Labs
-      and [350+ companies](https://jobs.protocol.ai/companies) in the Protocol
+      and [450+ companies](https://jobs.protocol.ai/companies) in the Protocol
       Labs Network (PLN) now is a great time for people coming both inside and
       outside the web3 space to ramp up their knowledge and contribute to these
       cutting-edge technologies directly. The Launchpad residency allows for you
@@ -585,7 +585,7 @@ blocks:
 
           [Filecoin](https://filecoin.io/)
 
-          [libp2p](https://libp2p.io/)
+          [IPFS](https://ipfs.tech/ "")
       - headline: ''
         subhead: ''
         text: |
