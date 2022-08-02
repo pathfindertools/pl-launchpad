@@ -585,7 +585,7 @@ blocks:
 
           [Filecoin](https://filecoin.io/)
 
-          [libp2p](https://libp2p.io/)
+          [IPFS](https://ipfs.tech/ "")
       - headline: ''
         subhead: ''
         text: |
