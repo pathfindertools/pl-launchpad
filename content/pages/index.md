@@ -281,7 +281,7 @@ blocks:
     body: >
       We believe people do best when they’re working on projects they're excited
       about. With [30+ teams ](https://protocol.ai/work/)within Protocol Labs
-      and [350+ companies](https://jobs.protocol.ai/companies) in the Protocol
+      and [450+ companies](https://jobs.protocol.ai/companies) in the Protocol
       Labs Network (PLN) now is a great time for people coming both inside and
       outside the web3 space to ramp up their knowledge and contribute to these
       cutting-edge technologies directly. The Launchpad residency allows for you
