@@ -28,7 +28,7 @@ blocks:
       ![](<> "")
     buttons:
       - label: Curriculum
-        link: 'https://curriculum.pl-launchpad.io/curriculum/'
+        link: 'https://protocol-labs.gitbook.io/launchpad-curriculum/about-launchpad'
         type: secondary
     navigationLabel: ''
     _template: banner
