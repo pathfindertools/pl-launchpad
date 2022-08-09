@@ -247,16 +247,16 @@ blocks:
     _template: tailwindFeature
   - style:
       minHeight: min-h-0
-      fullWidth: false
+      fullWidth: true
       padding: 'pt-20 pb-20 pr-10 pl-10 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
     background:
       fillStyles: bg-gray-light
-    markup: |-
-      <div class="mx-auto max-w-full">
-        <div class="relative height-0" style="padding-bottom: 56.25%;">
-          <iframe src="https://www.youtube.com/embed/hqpqheF6lv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
-        </div>
-      </div>
+    markup: >-
+      <iframe width="728" height="410"
+      src="https://www.youtube.com/embed/pBh1hpS89Y4" title="YouTube video
+      player" frameborder="20" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    navigationLabel: Colo Week Experience
     _template: embed
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
@@ -585,7 +585,7 @@ blocks:
 
           [Filecoin](https://filecoin.io/)
 
-          [IPFS](https://ipfs.tech/ "")
+          [IPFS](https://ipfs.tech/)
       - headline: ''
         subhead: ''
         text: |
@@ -596,7 +596,7 @@ blocks:
           [Contact](launchpad-team@protocol.ai) : launchpad-team@protocol.ai
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1659116223/pl-launchpad/pl-launchpad-watermark_yincbh.png
+            https://res.cloudinary.com/protocolai/image/upload/v1660068025/LP-icon-nobkgrnd_pisytb.png
         headline: ''
         subhead: ''
         text: ''
