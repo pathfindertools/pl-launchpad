@@ -251,12 +251,11 @@ blocks:
       padding: 'pt-20 pb-20 pr-10 pl-10 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
     background:
       fillStyles: bg-gray-light
-    markup: |-
-      <div class="mx-auto max-w-full">
-        <div class="relative height-0" style="padding-bottom: 56.25%;">
-          <iframe src="https://www.youtube.com/watch?v=pBh1hpS89Y4&list=PLhuBigpl7lqtHBO4rDh02POFzgXwCIaiv" title="Launchpad Colo Weeks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
-        </div>
-      </div>
+    markup: >-
+      <iframe width="728" height="410"
+      src="https://www.youtube.com/embed/pBh1hpS89Y4" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     navigationLabel: Colo Week Experience
     _template: embed
   - style:
