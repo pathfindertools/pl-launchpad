@@ -56,9 +56,9 @@
   "logo": {
     "logoType": "Microgen",
     "logoTypeStyle": "text-white undefined text-base undefined font-bold",
-    "image": "https://res.cloudinary.com/protocolai/image/upload/v1659116223/pl-launchpad/pl-launchpad-watermark_yincbh.png",
-    "imageWidth": "86",
-    "imageHeight": "86",
+    "image": "https://res.cloudinary.com/protocolai/image/upload/v1659475731/LP-icon-nobkgrnd_vncehp.png",
+    "imageWidth": "75",
+    "imageHeight": "75",
     "imageMargin": "24"
   },
   "nav": {
