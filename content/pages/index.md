@@ -585,7 +585,7 @@ blocks:
 
           [Filecoin](https://filecoin.io/)
 
-          [IPFS](https://ipfs.tech/ "")
+          [IPFS](https://ipfs.tech/)
       - headline: ''
         subhead: ''
         text: |
@@ -596,7 +596,7 @@ blocks:
           [Contact](launchpad-team@protocol.ai) : launchpad-team@protocol.ai
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1659116223/pl-launchpad/pl-launchpad-watermark_yincbh.png
+            https://res.cloudinary.com/protocolai/image/upload/v1660068025/LP-icon-nobkgrnd_pisytb.png
         headline: ''
         subhead: ''
         text: ''
