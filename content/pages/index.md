@@ -256,7 +256,7 @@ blocks:
       src="https://www.youtube.com/embed/pBh1hpS89Y4" title="YouTube video
       player" frameborder="20" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    navigationLabel: Colo Week Experience
+    navigationLabel: ''
     _template: embed
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
