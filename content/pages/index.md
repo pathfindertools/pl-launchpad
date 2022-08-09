@@ -247,14 +247,14 @@ blocks:
     _template: tailwindFeature
   - style:
       minHeight: min-h-0
-      fullWidth: false
+      fullWidth: true
       padding: 'pt-20 pb-20 pr-10 pl-10 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
     background:
       fillStyles: bg-gray-light
     markup: >-
       <iframe width="728" height="410"
       src="https://www.youtube.com/embed/pBh1hpS89Y4" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      player" frameborder="20" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     navigationLabel: Colo Week Experience
     _template: embed
