@@ -254,9 +254,10 @@ blocks:
     markup: |-
       <div class="mx-auto max-w-full">
         <div class="relative height-0" style="padding-bottom: 56.25%;">
-          <iframe src="https://www.youtube.com/embed/hqpqheF6lv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
+          <iframe src="https://www.youtube.com/watch?v=pBh1hpS89Y4&list=PLhuBigpl7lqtHBO4rDh02POFzgXwCIaiv" title="Launchpad Colo Weeks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
         </div>
       </div>
+    navigationLabel: Colo Week Experience
     _template: embed
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
