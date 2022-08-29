@@ -111,10 +111,10 @@ blocks:
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     label: ''
-    headline: This is the main headline
-    subhead: Here is a subhead
-    body: |
-      This is a rich text component you can add hyperlinks, etc.
+    headline: Program
+    subhead: ''
+    body: ''
+    navigationLabel: Program
     _template: feature
   - style:
       minHeight: min-h-0
