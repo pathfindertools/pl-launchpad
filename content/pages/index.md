@@ -416,18 +416,6 @@ blocks:
           will only get better for future cohorts.
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653322479/pl-launchpad/resident-hugo_owk9nu.jpg
-        headline: Hugo
-        subhead: 'Software Engineer, ChainSafe'
-        text: >
-          I enjoy making meaningful contributions that can make a difference. In
-          the case of rust-libp2p, I believe introducing more linter checks to
-          CI will pay off tenfold in the future, both in overall code quality
-          and in preventing possible issues at runtime. Or, at the very least,
-          it can reduce code review effort. In the case of actors tests - citing
-          Michael C. Feathers, "Code without tests is bad code"
-      - image:
-          src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1654054502/joao_fiadeiro_fvfh8s.jpg
         headline: João
         subhead: 'Technical Program Manager, Data Programs'
@@ -463,19 +451,6 @@ blocks:
           program was so well designed and I walked out with 10x more
           confidence, knowledge & sense of purpose to go into my role in the
           network.
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653321496/pl-launchpad/resident-patrick_yvaeom.jpg
-        headline: Patrick
-        subhead: 'Technical Program Manager, Retrival Markets'
-        text: >
-          Within the first week, we met the lead maintainers for each of the
-          reference implementations for IPFS, IPLD, and libp2p - so we had an
-          expert to talk to for each knowledge area we were onboarding on. It
-          was also great to build camaraderie with other cohort members across
-          the whole PL Network - so now I have contacts on many different teams
-          I can reach out to and learn what’s going on. Having this support
-          system helped make diving into new areas much less daunting!
     navigationLabel: Testimonials
     _template: photoCards
   - style:
