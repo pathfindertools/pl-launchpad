@@ -99,24 +99,23 @@ blocks:
       bring new technical talent into the PLN network as unmatched Launchpad
       residents.
     _template: feature
-  - tailwind:
-      section: ''
-      wrap: ''
-      imageWrap: ''
-      image: ''
-      contentWrap: ''
-      content: ''
-      label: ''
-      headline: ''
-      subhead: ''
-      text: ''
-      buttons: ''
+  - style:
+      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
+      featureContent: 'w-1/2 min-h-0 '
+      padding: pt-20 pb-20 pr-10 pl-20
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-20 pb-20 pr-20 pl-10
+      labelStyles: 'text-black font-2 text-sm mb-0 '
+      headlineStyles: 'text-accent1 font-2 text-5xl mb-0 '
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-black font-1 undefined mb-0 '
+      contentOrder: labelHeadingsContent
     label: ''
-    headline: Program
-    subhead: ''
-    body: ''
-    navigationLabel: Program
-    _template: tailwindFeature
+    headline: This is the main headline
+    subhead: Here is a subhead
+    body: |
+      This is a rich text component you can add hyperlinks, etc.
+    _template: feature
   - style:
       minHeight: min-h-0
       fullWidth: false
