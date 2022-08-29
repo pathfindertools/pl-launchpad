@@ -242,8 +242,12 @@ blocks:
     label: ''
     headline: Hire Unmatched Residents
     subhead: for PLN partners
-    body: |
-      This is a rich text component you can add hyperlinks, etc.
+    body: >
+      Launchpad also provides opportunities for Network partners to access
+      high-quality talent that has been trained and onboarded into the PL web3
+      ecosystem. When unmatched Launchpad residents complete the program, we
+      work to connect them with the network teams that are looking for talent
+      primed to make the biggest contribution possible.
     navigationLabel: 'Hire '
     _template: feature
   - style:
