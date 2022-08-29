@@ -111,9 +111,10 @@ blocks:
       contentOrder: labelHeadingsContent
     label: ''
     headline: Hire Unmatched Residents
-    subhead: fo PLN partners
+    subhead: for PLN partners
     body: |
       This is a rich text component you can add hyperlinks, etc.
+    navigationLabel: 'Hire '
     _template: feature
   - style:
       textAlignment: text-left
