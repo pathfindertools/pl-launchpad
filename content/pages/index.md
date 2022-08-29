@@ -248,7 +248,7 @@ blocks:
     _template: feature
   - style:
       minHeight: min-h-0
-      fullWidth: true
+      fullWidth: false
       padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
     background:
       fillStyles: bg-gray-light
