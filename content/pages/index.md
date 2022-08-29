@@ -354,7 +354,8 @@ blocks:
 
 
       To learn more about hiring talent from the program, email
-      launchpad-team@protocol.ai about hiring unmatched launchpad residents.
+      launchpad-team@protocol.ai and get connected with unmatched launchpad
+      residents.
     navigationLabel: 'Hire '
     _template: feature
   - style:
