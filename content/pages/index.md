@@ -88,7 +88,7 @@ blocks:
       contentOrder: labelHeadingsContent
     image:
       src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1654056326/DSCF8987_xqv93k.jpg
+        https://res.cloudinary.com/protocolai/image/upload/v1661794782/Adjusted-social_fsstsd.png
     label: ''
     headline: An Onboarding & Hiring Program
     subhead: ''
@@ -97,24 +97,6 @@ blocks:
       Protocol Labs Network (PLN), as well as a contract-to-learn opportunity to
       bring new technical talent into the PLN network. Residents connect and
       build fellowship with minds from across the web3 universe.
-    _template: feature
-  - style:
-      alignment: 'flex-col text-left items-center items-start-vertical '
-      featureContent: 'w-full min-h-0 '
-      padding: pt-20 pb-20 pr-10 pl-20
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-20 pb-20 pr-20 pl-10
-      labelStyles: 'text-accent1 font-2 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-3xl mb-0 '
-      subheadStyles: 'text-gray font-2 text-base mb-0 '
-      textStyles: 'text-accent1 font-2 text-xl mb-0 '
-      contentOrder: labelHeadingsContent
-    label: ''
-    headline: Hire Unmatched Residents
-    subhead: for PLN partners
-    body: |
-      This is a rich text component you can add hyperlinks, etc.
-    navigationLabel: 'Hire '
     _template: feature
   - style:
       textAlignment: text-left
@@ -245,6 +227,24 @@ blocks:
       companies. Work on a project related to your role, or match with a team
       and hack. At the end, you have a project to share that highlights your
       growth and contribution contribution to the PLN&#x20;
+    _template: feature
+  - style:
+      alignment: 'flex-col text-left items-center items-start-vertical '
+      featureContent: 'w-full min-h-0 '
+      padding: pt-20 pb-20 pr-10 pl-20
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-20 pb-20 pr-20 pl-10
+      labelStyles: 'text-accent1 font-2 text-sm mb-0 '
+      headlineStyles: 'text-accent1 font-2 text-3xl mb-0 '
+      subheadStyles: 'text-gray font-2 text-base mb-0 '
+      textStyles: 'text-accent1 font-2 text-xl mb-0 '
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: Hire Unmatched Residents
+    subhead: for PLN partners
+    body: |
+      This is a rich text component you can add hyperlinks, etc.
+    navigationLabel: 'Hire '
     _template: feature
   - style:
       minHeight: min-h-0
