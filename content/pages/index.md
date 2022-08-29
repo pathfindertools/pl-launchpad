@@ -370,7 +370,7 @@ blocks:
 
       <br>
 
-      <iframe width="80%" height="400"
+      <iframe width="75%" height="400"
       src="https://www.youtube.com/embed/8qqI0NfhoAw" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
