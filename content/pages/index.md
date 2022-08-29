@@ -240,7 +240,7 @@ blocks:
 
       <br>
 
-      <iframe width="100%" height="410"
+      <iframe width="80%" height="410"
       src="https://www.youtube.com/embed/pBh1hpS89Y4" title="YouTube video
       player" frameborder="20" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
