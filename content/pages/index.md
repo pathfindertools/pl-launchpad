@@ -247,6 +247,71 @@ blocks:
       growth and contribution contribution to the PLN&#x20;
     _template: feature
   - style:
+      textAlignment: text-left
+      minHeight: min-h-0
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-0 sm:pr-6 sm:pl-6'
+      contentWidth: w-9/12
+      columns: '3'
+      labelStyles: 'text-white font-2 text-sm mb-0 '
+      headlineStyles: >-
+        text-white font-2 text-4xl mb-0  sm:text-white sm:font-2 sm:text-2xl
+        sm:mb-0 
+      subheadStyles: 'text-white font-1 text-3xl mb-0 '
+      textStyles: >-
+        text-white font-1 text-lg mb-20  sm:text-white sm:font-1 sm:text-lg
+        sm:mb-5 
+      contentOrder: labelHeadingsContent
+    cardStyle:
+      padding: pt-4 pb-4 pr-0 pl-0
+      type: solid
+      imageStyles: ' undefined undefined mb-2.5'
+      labelStyles: 'text-white undefined text-sm mb-0 '
+      headlineStyles: 'text-white font-2 text-2xl mb-2.5 '
+      subheadStyles: 'text-white undefined text-lg mb-0 '
+      textStyles: 'text-gray-light undefined text-base mb-0 '
+      buttonType: primary
+    background:
+      fillStyles: from-accent2 to-primary bg-gradient-to-br
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1653602854/pl-launchpad/IPFS_Launchpad_Closing_Card_erjpov.png
+    label: ''
+    headline: Launchpad Projects
+    subhead: ''
+    body: >
+      A key aspect of the Launchpad Residency is empowering new labbers to make
+      an impact. During the Launchpad program every resident completes a
+      personal project related to their new role or area of interest.
+    items:
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653323802/pl-launchpad/debug_ru5ul1.jpg
+        headline: Debug
+        subhead: ''
+        text: >
+          Being open source is at the center of our ecosystem. With fresh eyes
+          and previous high technical impact, we love to see residents debug as
+          their project.
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653324189/pl-launchpad/build_sw74uf.jpg
+        headline: Build
+        subhead: ''
+        text: >
+          This website is a Launchpad project! So is a new tool created to
+          measure Distributed Hash Tables. We encourage our residents to pick a
+          project that they are excited about.
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
+        headline: Collaborate
+        subhead: ''
+        text: >
+          One of the best parts of the Launchpad Residency is the collaboration
+          across the PLN and the web3 community. Previous projects have had
+          members from many different teams and backgrounds working together to
+          improve our Network.
+    _template: photoCards
+  - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
       featureContent: 'w-full min-h-0 '
       padding: pt-20 pb-20 pr-10 pl-20
@@ -314,71 +379,6 @@ blocks:
         type: primary
     navigationLabel: Apply
     _template: feature
-  - style:
-      textAlignment: text-left
-      minHeight: min-h-0
-      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-0 sm:pr-6 sm:pl-6'
-      contentWidth: w-9/12
-      columns: '3'
-      labelStyles: 'text-white font-2 text-sm mb-0 '
-      headlineStyles: >-
-        text-white font-2 text-4xl mb-0  sm:text-white sm:font-2 sm:text-2xl
-        sm:mb-0 
-      subheadStyles: 'text-white font-1 text-3xl mb-0 '
-      textStyles: >-
-        text-white font-1 text-lg mb-20  sm:text-white sm:font-1 sm:text-lg
-        sm:mb-5 
-      contentOrder: labelHeadingsContent
-    cardStyle:
-      padding: pt-4 pb-4 pr-0 pl-0
-      type: solid
-      imageStyles: ' undefined undefined mb-2.5'
-      labelStyles: 'text-white undefined text-sm mb-0 '
-      headlineStyles: 'text-white font-2 text-2xl mb-2.5 '
-      subheadStyles: 'text-white undefined text-lg mb-0 '
-      textStyles: 'text-gray-light undefined text-base mb-0 '
-      buttonType: primary
-    background:
-      fillStyles: from-accent2 to-primary bg-gradient-to-br
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1653602854/pl-launchpad/IPFS_Launchpad_Closing_Card_erjpov.png
-    label: ''
-    headline: Launchpad Projects
-    subhead: ''
-    body: >
-      A key aspect of the Launchpad Residency is empowering new labbers to make
-      an impact. During the Launchpad program every resident completes a
-      personal project related to their new role or area of interest.
-    items:
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653323802/pl-launchpad/debug_ru5ul1.jpg
-        headline: Debug
-        subhead: ''
-        text: >
-          Being open source is at the center of our ecosystem. With fresh eyes
-          and previous high technical impact, we love to see residents debug as
-          their project.
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653324189/pl-launchpad/build_sw74uf.jpg
-        headline: Build
-        subhead: ''
-        text: >
-          This website is a Launchpad project! So is a new tool created to
-          measure Distributed Hash Tables. We encourage our residents to pick a
-          project that they are excited about.
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
-        headline: Collaborate
-        subhead: ''
-        text: >
-          One of the best parts of the Launchpad Residency is the collaboration
-          across the PLN and the web3 community. Previous projects have had
-          members from many different teams and backgrounds working together to
-          improve our Network.
-    _template: photoCards
   - style:
       textAlignment: text-left
       minHeight: min-h-0
