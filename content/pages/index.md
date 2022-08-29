@@ -360,7 +360,7 @@ blocks:
   - style:
       minHeight: min-h-0
       fullWidth: false
-      padding: pt-20 pb-20 pr-40 pl-40
+      padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
     background:
       position: object-center
     markup: >
