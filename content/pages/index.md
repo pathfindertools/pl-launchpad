@@ -88,7 +88,7 @@ blocks:
       contentOrder: labelHeadingsContent
     image:
       src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1661794782/Adjusted-social_fsstsd.png
+        https://res.cloudinary.com/protocolai/image/upload/v1661796180/Paris-Social-adjusted-lrg_ya8crp.png
     label: ''
     headline: An Onboarding & Hiring Program
     subhead: ''
@@ -114,6 +114,24 @@ blocks:
     body: ''
     navigationLabel: Program
     _template: banner
+  - style:
+      minHeight: min-h-0
+      fullWidth: false
+      padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
+    background:
+      fillStyles: bg-gray-light
+    markup: >-
+      <h1 class="order-2 text-accent1 font-2 text-3xl mb-9  sm:text-accent1
+      sm:font-2 sm:text-2xl sm:mb-3 ">Colocation Week</h1>
+
+      <br>
+
+      <iframe width="100%" height="410"
+      src="https://www.youtube.com/embed/pBh1hpS89Y4" title="YouTube video
+      player" frameborder="20" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    navigationLabel: ''
+    _template: embed
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
@@ -255,24 +273,6 @@ blocks:
       Learn about the advantages of hiring talent from the program:
     navigationLabel: 'Hire '
     _template: feature
-  - style:
-      minHeight: min-h-0
-      fullWidth: false
-      padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
-    background:
-      fillStyles: bg-gray-light
-    markup: >-
-      <h1 class="order-2 text-accent1 font-2 text-3xl mb-9  sm:text-accent1
-      sm:font-2 sm:text-2xl sm:mb-3 ">Colocation Week</h1>
-
-      <br>
-
-      <iframe width="100%" height="410"
-      src="https://www.youtube.com/embed/pBh1hpS89Y4" title="YouTube video
-      player" frameborder="20" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    navigationLabel: ''
-    _template: embed
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
       featureContent: 'w-2/3 min-h-0 '
