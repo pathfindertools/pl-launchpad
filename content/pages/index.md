@@ -235,7 +235,7 @@ blocks:
     background:
       fillStyles: bg-gray-light
     markup: >-
-      <h1class="order-2 text-accent1 font-2 text-3xl mb-9  sm:text-accent1
+      <h1 class="order-2 text-accent1 font-2 text-3xl mb-9  sm:text-accent1
       sm:font-2 sm:text-2xl sm:mb-3 ">Colocation Week</h1>
 
       <br>
