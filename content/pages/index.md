@@ -247,6 +247,24 @@ blocks:
       and hack. At the end, you have a project to share that highlights your
       growth and contribution contribution to the PLN&#x20;
     _template: feature
+  - tailwind:
+      section: ''
+      wrap: ''
+      imageWrap: ''
+      image: ''
+      contentWrap: ''
+      content: ''
+      label: ''
+      headline: ''
+      subhead: ''
+      text: ''
+      buttons: ''
+    label: ''
+    headline: ''
+    subhead: ''
+    body: |
+      \-
+    _template: tailwindFeature
   - style:
       textAlignment: text-left
       minHeight: min-h-0
