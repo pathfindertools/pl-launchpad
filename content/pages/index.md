@@ -524,18 +524,19 @@ blocks:
     headline: ''
     subhead: ''
     body: >
-      *   You have extensive engineering experience in web2 or have been
-      invested in the web3 community for a while.
+      *   You have extensive engineering experience in web2 or have are invested
+      in the web3 community&#x20;
 
-      *   You could see yourself as a technical fit across more than one of our
-      open engineering roles
+      *   You see yourself as a technical fit across more than one of our open
+      engineering roles
 
       *   You have worked in roles that have had a high impact, whether at a
       large company or a startup
 
-      *   You have worked with go, rust or blockchain.
+      *   You have programmed in go, rust, or blockchain.
 
-      *   You have experience with Smart contracts, EVM, WASM
+      *   You have experience with Smart contracts, EVM, WASM, or similar
+      technologies
 
       *   You have a passion for open source code, solving complex problems, and
       the web3 space.
