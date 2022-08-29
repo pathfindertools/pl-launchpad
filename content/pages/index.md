@@ -228,30 +228,15 @@ blocks:
       and hack. At the end, you have a project to share that highlights your
       growth and contribution contribution to the PLN&#x20;
     _template: feature
-  - tailwind:
-      section: 'pt-40 sm:pt-0'
-      wrap: ''
-      imageWrap: ''
-      image: ''
-      contentWrap: ''
-      content: ''
-      label: ''
-      headline: ''
-      subhead: ''
-      text: ''
-      buttons: ''
-    label: ''
-    headline: ''
-    subhead: ''
-    body: ''
-    _template: tailwindFeature
   - style:
       minHeight: min-h-0
       fullWidth: true
-      padding: 'pt-20 pb-20 pr-10 pl-10 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
+      padding: 'pt-20 pb-20 pr-24 pl-24 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
     background:
       fillStyles: bg-gray-light
     markup: >-
+      <h1>Colocation Week</h1>
+
       <iframe width="100%" height="410"
       src="https://www.youtube.com/embed/pBh1hpS89Y4" title="YouTube video
       player" frameborder="20" allow="accelerometer; autoplay; clipboard-write;
