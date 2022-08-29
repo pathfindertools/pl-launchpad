@@ -100,6 +100,23 @@ blocks:
       residents.
     _template: feature
   - style:
+      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
+      featureContent: 'w-1/2 min-h-0 '
+      padding: pt-20 pb-20 pr-10 pl-20
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-20 pb-20 pr-20 pl-10
+      labelStyles: 'text-black font-2 text-sm mb-0 '
+      headlineStyles: 'text-accent1 font-2 text-5xl mb-0 '
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-black font-1 undefined mb-0 '
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: Program
+    subhead: ''
+    body: ''
+    navigationLabel: Program
+    _template: feature
+  - style:
       minHeight: min-h-0
       fullWidth: false
       padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
@@ -336,9 +353,7 @@ blocks:
       primed to make the biggest contribution possible.
 
 
-
-
-      Learn about the advantages of hiring talent from the program, email
+      To learn more about hiring talent from the program, email
       launchpad-team@protocol.ai about hiring unmatched launchpad residents.
     navigationLabel: 'Hire '
     _template: feature
@@ -509,18 +524,19 @@ blocks:
     headline: ''
     subhead: ''
     body: >
-      *   You have extensive engineering experience in web2 or have been
-      invested in the web3 community for a while.
+      *   You have extensive engineering experience in web2 or have are invested
+      in the web3 community&#x20;
 
-      *   You could see yourself as a technical fit across more than one of our
-      open engineering roles
+      *   You see yourself as a technical fit across more than one of our open
+      engineering roles
 
       *   You have worked in roles that have had a high impact, whether at a
       large company or a startup
 
-      *   You have worked with go, rust or blockchain.
+      *   You have programmed in go, rust, or blockchain.
 
-      *   You have experience with Smart contracts, EVM, WASM
+      *   You have experience with Smart contracts, EVM, WASM, or similar
+      technologies
 
       *   You have a passion for open source code, solving complex problems, and
       the web3 space.
@@ -528,7 +544,7 @@ blocks:
       - label: Apply
         link: 'https://boards.greenhouse.io/protocollabs/jobs/4305898004'
         type: primary
-    navigationLabel: Who Should Apply?
+    navigationLabel: ''
     _template: feature
   - style:
       textAlignment: text-left
