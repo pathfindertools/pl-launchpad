@@ -252,7 +252,7 @@ blocks:
 
 
 
-      Learn about the advantages of&#x20;
+      Learn about the advantages of hiring talent from the program:
     navigationLabel: 'Hire '
     _template: feature
   - style:
