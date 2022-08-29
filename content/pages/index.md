@@ -356,6 +356,12 @@ blocks:
 
       Learn about the advantages of hiring talent from the program, email
       launchpad-team@protocol.ai about hiring unmatched launchpad residents.
+
+
+      \<iframe width="560" height="315"
+      src="https://www.youtube.com/embed/8qqI0NfhoAw" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen>\</iframe>
     navigationLabel: 'Hire '
     _template: feature
   - style:
