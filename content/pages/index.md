@@ -69,34 +69,35 @@ blocks:
         link: >-
           https://www.notion.so/pl-strflt/Launchpad-Dates-Sign-Up-fb297b9636334b19bd02976b0c922ffd/
         type: minor
-    navigationLabel: About
+    navigationLabel: ''
     _template: banner
   - style:
-      alignment: 'flex-row text-left items-center items-start-vertical '
-      featureContent: 'w-2/3 min-h-0 '
+      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
+      featureContent: w-2/3 min-h-100 to-edge
       padding: 'pt-60 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      featureImage: 'object-center object-scale-down '
+      featureImage: object-center object-contain to-edge
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-accent1 font-1 text-sm mb-0 '
       headlineStyles: >-
-        text-accent1 font-2 text-3xl mb-9  sm:text-accent1 sm:font-2 sm:text-2xl
-        sm:mb-3 
+        text-accent1 font-2 text-3xl mb-12  sm:text-accent1 sm:font-2
+        sm:text-2xl sm:mb-3 
       subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
       textStyles: >-
-        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
+        text-accent1 font-2 text-xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
         sm:mb-0 
       contentOrder: labelHeadingsContent
     image:
       src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1654056326/DSCF8987_xqv93k.jpg
+        https://res.cloudinary.com/protocolai/image/upload/v1661796180/Paris-Social-adjusted-lrg_ya8crp.png
+      alt: Launchpad Hiring and Onboarding
     label: ''
     headline: An Onboarding & Hiring Program
     subhead: ''
     body: >
       The Launchpad Program is a 6-week onboarding program for new hires to the
       Protocol Labs Network (PLN), as well as a contract-to-learn opportunity to
-      bring new technical talent into the PLN network. Residents connect and
-      build fellowship with minds from across the web3 universe.
+      bring new technical talent into the PLN network as unmatched Launchpad
+      residents.
     _template: feature
   - style:
       textAlignment: text-left
@@ -114,6 +115,24 @@ blocks:
     body: ''
     navigationLabel: Program
     _template: banner
+  - style:
+      minHeight: min-h-0
+      fullWidth: false
+      padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
+    background:
+      fillStyles: bg-gray-light
+    markup: >-
+      <h1 class="order-2 text-accent1 font-2 text-3xl mb-9  sm:text-accent1
+      sm:font-2 sm:text-2xl sm:mb-3 ">Colocation Week</h1>
+
+      <br>
+
+      <iframe width="100%" height="410"
+      src="https://www.youtube.com/embed/pBh1hpS89Y4" title="YouTube video
+      player" frameborder="20" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    navigationLabel: ''
+    _template: embed
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
@@ -229,7 +248,7 @@ blocks:
       growth and contribution contribution to the PLN&#x20;
     _template: feature
   - tailwind:
-      section: 'pt-40 sm:pt-0'
+      section: ''
       wrap: ''
       imageWrap: ''
       image: ''
@@ -243,64 +262,9 @@ blocks:
     label: ''
     headline: ''
     subhead: ''
-    body: ''
+    body: |
+      \-
     _template: tailwindFeature
-  - style:
-      minHeight: min-h-0
-      fullWidth: true
-      padding: 'pt-20 pb-20 pr-10 pl-10 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
-    background:
-      fillStyles: bg-gray-light
-    markup: >-
-      <iframe width="728" height="410"
-      src="https://www.youtube.com/embed/pBh1hpS89Y4" title="YouTube video
-      player" frameborder="20" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    navigationLabel: ''
-    _template: embed
-  - style:
-      alignment: 'flex-col text-left items-center items-center-vertical '
-      featureContent: 'w-2/3 min-h-0 '
-      padding: 'pt-32 pb-40 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      featureImage: 'object-left object-contain '
-      imagePadding: pt-0 pb-0 pr-20 pl-0
-      labelStyles: 'text-gray-dark font-1 text-sm mb-0 '
-      headlineStyles: >-
-        text-accent1 font-2 text-3xl mb-4  sm:text-accent1 sm:font-2 sm:text-2xl
-        sm:mb-2.5 
-      subheadStyles: 'text-gray-dark font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-1 text-lg mb-8 '
-      contentOrder: labelHeadingsContent
-    background:
-      fillStyles: bg-white
-    image:
-      src: ''
-    label: ''
-    headline: Unmatched Residents
-    subhead: ''
-    body: >
-      We believe people do best when they’re working on projects they're excited
-      about. With [30+ teams ](https://protocol.ai/work/)within Protocol Labs
-      and [450+ companies](https://jobs.protocol.ai/companies) in the Protocol
-      Labs Network (PLN) now is a great time for people coming both inside and
-      outside the web3 space to ramp up their knowledge and contribute to these
-      cutting-edge technologies directly. The Launchpad residency allows for you
-      to explore different teams, solve complex problems from the first day you
-      are hired, and team-match after being exposed to our entire ecosystem.
-
-
-      This program gives unmatched residents the opportunity to explore & embed
-      with different teams across the PLN to find the project & team that they
-      mesh with best. Open roles include core distributed systems engineers,
-      network researchers, developer advocates, technical writers, startup
-      operators, and many more exciting opportunities across PLN teams, OSS
-      projects, and companies.&#x20;
-    buttons:
-      - label: Open Roles in PLN
-        link: 'https://protocol.getro.com/companies?page=2'
-        type: primary
-    navigationLabel: Unmatched
-    _template: feature
   - style:
       textAlignment: text-left
       minHeight: min-h-0
@@ -367,6 +331,75 @@ blocks:
           improve our Network.
     _template: photoCards
   - style:
+      alignment: 'flex-col text-left items-center items-start-vertical '
+      featureContent: 'w-full min-h-0 '
+      padding: pt-20 pb-20 pr-10 pl-20
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-20 pb-20 pr-20 pl-10
+      labelStyles: 'text-accent1 font-2 text-sm mb-0 '
+      headlineStyles: 'text-accent1 font-2 text-3xl mb-0 '
+      subheadStyles: 'text-gray font-2 text-base mb-0 '
+      textStyles: 'text-accent1 font-2 text-xl mb-0 '
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: Hire Unmatched Residents
+    subhead: For PL Network Partners
+    body: >
+      Launchpad also provides opportunities for Network partners to access
+      high-quality talent that has been trained and onboarded into the PL web3
+      ecosystem. When unmatched Launchpad residents complete the program, we
+      work to connect them with the network teams that are looking for talent
+      primed to make the biggest contribution possible.
+
+
+
+
+      Learn about the advantages of hiring talent from the program, email
+      launchpad-team@protocol.ai about hiring unmatched launchpad residents.
+    navigationLabel: 'Hire '
+    _template: feature
+  - style:
+      alignment: 'flex-col text-left items-center items-center-vertical '
+      featureContent: 'w-2/3 min-h-0 '
+      padding: 'pt-32 pb-40 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
+      featureImage: 'object-left object-contain '
+      imagePadding: pt-0 pb-0 pr-20 pl-0
+      labelStyles: 'text-gray-dark font-1 text-sm mb-0 '
+      headlineStyles: >-
+        text-accent1 font-2 text-3xl mb-4  sm:text-accent1 sm:font-2 sm:text-2xl
+        sm:mb-2.5 
+      subheadStyles: 'text-gray-dark font-1 text-3xl mb-0 '
+      textStyles: 'text-accent1 font-1 text-lg mb-8 '
+      contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-white
+    image:
+      src: ''
+    label: ''
+    headline: Unmatched Residents
+    subhead: ''
+    body: >
+      We believe people do best when they’re working on projects they're excited
+      about. With [30+ teams ](https://protocol.ai/work/)within Protocol Labs
+      and [450+ companies](https://jobs.protocol.ai/companies) in the Protocol
+      Labs Network (PLN) now is a great time for people coming both inside and
+      outside the web3 space to ramp up their knowledge and contribute to these
+      cutting-edge technologies directly.
+
+
+      This program gives unmatched residents the opportunity to explore & embed
+      with different teams across the PLN to find the project & team that they
+      mesh with best. Open roles include core distributed systems engineers,
+      network researchers, developer advocates, technical writers, startup
+      operators, and many more exciting opportunities across PLN teams, OSS
+      projects, and companies.&#x20;
+    buttons:
+      - label: Open Roles in PLN
+        link: 'https://protocol.getro.com/companies?page=2'
+        type: primary
+    navigationLabel: Apply
+    _template: feature
+  - style:
       textAlignment: text-left
       minHeight: min-h-0
       padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
@@ -410,39 +443,18 @@ blocks:
           will only get better for future cohorts.
       - image:
           src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653322479/pl-launchpad/resident-hugo_owk9nu.jpg
-        headline: Hugo
-        subhead: 'Software Engineer, ChainSafe'
-        text: >
-          I enjoy making meaningful contributions that can make a difference. In
-          the case of rust-libp2p, I believe introducing more linter checks to
-          CI will pay off tenfold in the future, both in overall code quality
-          and in preventing possible issues at runtime. Or, at the very least,
-          it can reduce code review effort. In the case of actors tests - citing
-          Michael C. Feathers, "Code without tests is bad code"
-      - image:
-          src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1654054502/joao_fiadeiro_fvfh8s.jpg
         headline: João
         subhead: 'Technical Program Manager, Data Programs'
         text: >
-          Launchpad was an incredibly educational and fun onboarding experience
-          that I would recommend to everyone joining the Protocol Labs network.
           The content was thoughtfully curated and I felt like I gained the
           fundamental knowledge necessary to make contributions to our technical
           stack and strategy. Crucially, it was also a way for me to connect the
           dots: from how everything works together in practice to who I should
-          go to for answers.&#x20;
-
-
-          I enjoyed the emphasis placed on getting to know my cohort. It was a
-          great way to meet a lot of my peers from a wide variety of different
-          teams and form some strong relationships with colleagues. This was
-          enabled by an amazing week spent co-located in Amsterdam where I got
-          to meet my colleagues in real life in addition to meeting company
-          leadership. Overall, I couldn’t have asked for a better onboarding
-          experience. This was more engaging and educational than any other
-          experience I’ve had in my web2 career.
+          go to for answers.  I enjoyed the emphasis placed on getting to know
+          my cohort. It was a great way to meet a lot of my peers from a wide
+          variety of different teams and form some strong relationships with
+          colleagues.
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653321485/pl-launchpad/resident-ally_jmwsdh.jpg
@@ -450,24 +462,12 @@ blocks:
         subhead: 'Developer Advocate, Filecoin Foundation'
         text: >
           Launchpad is a invalueable way to gain knowledge on the Protocol Labs
-          (PL) ecosystem and for surfacing opportunities to contribute to.
-          Getting hands-on experince with current tooling and projects allowed
-          me to pinpointing both project and operational needs in the ecosystem.
-
-
-          The program offers a crucial path to getting up to speed on the
-          essential building blocks of the network, including IPFS, IPLD,
-          libp2p, and Filecoin, through a well-structured content flow, study
-          groups, and Q\&A sessions, and further provided insights into other
-          critical projects being built by teams both within PL and its partners
-          through workshops or presentations with the teams and by meeting
-          people across the organization.&#x20;
-
-
-          I'd recommend this program to anyone who is looking to gain a deeper
-          understanding of the PL network and its partners or who wants to
-          meaningfully contribute to the future of an open web through the PL
-          ecosystem."&#x20;
+          (PL) ecosystem and for surfacing opportunities to contribute to.  The
+          program offers a crucial path to getting up to speed on the essential
+          building blocks of the network, and further provided insights into
+          other critical projects being built by teams both within PL and its
+          partners through workshops or presentations with the teams and by
+          meeting people across the organization.&#x20;
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653321493/pl-launchpad/resident-jenks_rwdxqy.jpg
@@ -478,19 +478,6 @@ blocks:
           program was so well designed and I walked out with 10x more
           confidence, knowledge & sense of purpose to go into my role in the
           network.
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653321496/pl-launchpad/resident-patrick_yvaeom.jpg
-        headline: Patrick
-        subhead: 'Technical Program Manager, Retrival Markets'
-        text: >
-          Within the first week, we met the lead maintainers for each of the
-          reference implementations for IPFS, IPLD, and libp2p - so we had an
-          expert to talk to for each knowledge area we were onboarding on. It
-          was also great to build camaraderie with other cohort members across
-          the whole PL Network - so now I have contacts on many different teams
-          I can reach out to and learn what’s going on. Having this support
-          system helped make diving into new areas much less daunting!
     navigationLabel: Testimonials
     _template: photoCards
   - style:
@@ -516,7 +503,7 @@ blocks:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1654056645/DSCF8814_e2rpjf.jpg
     label: ''
-    headline: Who Should Apply?
+    headline: ''
     subhead: ''
     body: >
       *   You have extensive engineering experience in web2 or have been
