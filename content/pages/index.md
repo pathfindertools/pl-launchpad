@@ -75,15 +75,15 @@ blocks:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-0 '
       padding: 'pt-60 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      featureImage: 'object-center object-scale-down '
+      featureImage: object-center object-contain to-edge
       imagePadding: pt-0 pb-0 pr-0 pl-0
       labelStyles: 'text-accent1 font-1 text-sm mb-0 '
       headlineStyles: >-
-        text-accent1 font-2 text-3xl mb-9  sm:text-accent1 sm:font-2 sm:text-2xl
-        sm:mb-3 
+        text-accent1 font-2 text-3xl mb-12  sm:text-accent1 sm:font-2
+        sm:text-2xl sm:mb-3 
       subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
       textStyles: >-
-        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
+        text-accent1 font-2 text-xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
         sm:mb-0 
       contentOrder: labelHeadingsContent
     image:
@@ -95,8 +95,7 @@ blocks:
     body: >
       The Launchpad Program is a 6-week onboarding program for new hires to the
       Protocol Labs Network (PLN), as well as a contract-to-learn opportunity to
-      bring new technical talent into the PLN network. Residents connect and
-      build fellowship with minds from across the web3 universe.
+      bring new technical talent into the PLN network as Launchpad residents.
     _template: feature
   - style:
       textAlignment: text-left
