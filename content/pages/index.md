@@ -99,15 +99,15 @@ blocks:
       build fellowship with minds from across the web3 universe.
     _template: feature
   - style:
-      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
-      featureContent: 'w-1/2 min-h-0 '
+      alignment: 'flex-col text-left items-center items-start-vertical '
+      featureContent: 'w-full min-h-0 '
       padding: pt-20 pb-20 pr-10 pl-20
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-20 pb-20 pr-20 pl-10
-      labelStyles: 'text-black font-2 text-sm mb-0 '
-      headlineStyles: 'text-black font-2 text-5xl mb-0 '
-      subheadStyles: 'text-black font-1 text-xl mb-0 '
-      textStyles: 'text-black font-1 undefined mb-0 '
+      labelStyles: 'text-accent1 font-2 text-sm mb-0 '
+      headlineStyles: 'text-accent1 font-2 text-3xl mb-0 '
+      subheadStyles: 'text-gray font-2 text-base mb-0 '
+      textStyles: 'text-accent1 font-2 text-xl mb-0 '
       contentOrder: labelHeadingsContent
     label: ''
     headline: Hire Unmatched Residents
