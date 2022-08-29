@@ -299,9 +299,7 @@ blocks:
       and [450+ companies](https://jobs.protocol.ai/companies) in the Protocol
       Labs Network (PLN) now is a great time for people coming both inside and
       outside the web3 space to ramp up their knowledge and contribute to these
-      cutting-edge technologies directly. The Launchpad residency allows for you
-      to explore different teams, solve complex problems from the first day you
-      are hired, and team-match after being exposed to our entire ecosystem.
+      cutting-edge technologies directly.
 
 
       This program gives unmatched residents the opportunity to explore & embed
