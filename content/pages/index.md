@@ -361,14 +361,14 @@ blocks:
   - style:
       minHeight: min-h-0
       fullWidth: true
-      padding: pt-20 pb-20 pr-10 pl-10
+      padding: pt-20 pb-20 pr-48 pl-48
     markup: >-
 
       <div >
 
       <br>
 
-      <iframe width="560" height="315"
+      <iframe width="100%" height="315"
       src="https://www.youtube.com/embed/8qqI0NfhoAw" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
