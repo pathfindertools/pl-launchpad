@@ -72,7 +72,7 @@ blocks:
     navigationLabel: About
     _template: banner
   - style:
-      alignment: 'flex-row text-left items-center items-start-vertical '
+      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-0 '
       padding: 'pt-60 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
       featureImage: 'object-center object-scale-down '
@@ -97,6 +97,23 @@ blocks:
       Protocol Labs Network (PLN), as well as a contract-to-learn opportunity to
       bring new technical talent into the PLN network. Residents connect and
       build fellowship with minds from across the web3 universe.
+    _template: feature
+  - style:
+      alignment: flex-row-reverse text-left items-center
+      featureContent: w-1/2 min-h-0
+      padding: pt-20 pb-20 pr-10 pl-20
+      featureImage: object-center object-scale-down
+      imagePadding: pt-20 pb-20 pr-20 pl-10
+      labelStyles: text-black font-1 text-sm mb-0
+      headlineStyles: text-black font-1 text-5xl mb-0
+      subheadStyles: text-black font-1 text-3xl mb-0
+      textStyles: text-black font-1 text-md mb-0
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: This is the main headline
+    subhead: Here is a subhead
+    body: |
+      This is a rich text component you can add hyperlinks, etc.
     _template: feature
   - style:
       textAlignment: text-left
