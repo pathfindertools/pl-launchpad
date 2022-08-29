@@ -432,23 +432,14 @@ blocks:
         headline: João
         subhead: 'Technical Program Manager, Data Programs'
         text: >
-          Launchpad was an incredibly educational and fun onboarding experience
-          that I would recommend to everyone joining the Protocol Labs network.
           The content was thoughtfully curated and I felt like I gained the
           fundamental knowledge necessary to make contributions to our technical
           stack and strategy. Crucially, it was also a way for me to connect the
           dots: from how everything works together in practice to who I should
-          go to for answers.&#x20;
-
-
-          I enjoyed the emphasis placed on getting to know my cohort. It was a
-          great way to meet a lot of my peers from a wide variety of different
-          teams and form some strong relationships with colleagues. This was
-          enabled by an amazing week spent co-located in Amsterdam where I got
-          to meet my colleagues in real life in addition to meeting company
-          leadership. Overall, I couldn’t have asked for a better onboarding
-          experience. This was more engaging and educational than any other
-          experience I’ve had in my web2 career.
+          go to for answers.  I enjoyed the emphasis placed on getting to know
+          my cohort. It was a great way to meet a lot of my peers from a wide
+          variety of different teams and form some strong relationships with
+          colleagues.
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653321485/pl-launchpad/resident-ally_jmwsdh.jpg
