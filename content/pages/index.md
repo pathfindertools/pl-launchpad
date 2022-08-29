@@ -338,7 +338,7 @@ blocks:
 
 
 
-      Learn about the advantages of hiring talent from the program, email
+      To learn more about hiring talent from the program, email
       launchpad-team@protocol.ai about hiring unmatched launchpad residents.
     navigationLabel: 'Hire '
     _template: feature
