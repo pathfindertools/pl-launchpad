@@ -235,7 +235,10 @@ blocks:
     background:
       fillStyles: bg-gray-light
     markup: >-
-      <h1>Colocation Week</h1>
+      <h1class="order-2 text-accent1 font-2 text-3xl mb-9  sm:text-accent1
+      sm:font-2 sm:text-2xl sm:mb-3 ">Colocation Week</h1>
+
+      <br>
 
       <iframe width="100%" height="410"
       src="https://www.youtube.com/embed/pBh1hpS89Y4" title="YouTube video
