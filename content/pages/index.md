@@ -359,6 +359,25 @@ blocks:
     navigationLabel: 'Hire '
     _template: feature
   - style:
+      minHeight: min-h-0
+      fullWidth: true
+      padding: pt-20 pb-20 pr-10 pl-10
+    markup: >-
+
+
+      <div class="order-2 text-accent1 font-2 text-3xl mb-9  sm:text-accent1
+      sm:font-2 sm:text-2xl sm:mb-3 ">Colocation Week</h1>
+
+      <br>
+
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/8qqI0NfhoAw" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      </div>
+    _template: embed
+  - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
       featureContent: 'w-2/3 min-h-0 '
       padding: 'pt-32 pb-40 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
@@ -399,16 +418,6 @@ blocks:
         type: primary
     navigationLabel: Apply
     _template: feature
-  - style:
-      minHeight: min-h-0
-      fullWidth: true
-      padding: pt-20 pb-20 pr-10 pl-10
-    markup: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/8qqI0NfhoAw" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    _template: embed
   - style:
       textAlignment: text-left
       minHeight: min-h-0
