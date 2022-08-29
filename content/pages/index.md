@@ -362,13 +362,15 @@ blocks:
       minHeight: min-h-0
       fullWidth: true
       padding: pt-20 pb-20 pr-48 pl-48
+    background:
+      position: object-center
     markup: >-
 
       <div >
 
       <br>
 
-      <iframe width="100%" height="315"
+      <iframe width="100%" height="400"
       src="https://www.youtube.com/embed/8qqI0NfhoAw" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
