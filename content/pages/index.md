@@ -231,7 +231,7 @@ blocks:
   - style:
       minHeight: min-h-0
       fullWidth: true
-      padding: 'pt-20 pb-20 pr-56 pl-56 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
+      padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
     background:
       fillStyles: bg-gray-light
     markup: >-
