@@ -69,7 +69,7 @@ blocks:
         link: >-
           https://www.notion.so/pl-strflt/Launchpad-Dates-Sign-Up-fb297b9636334b19bd02976b0c922ffd/
         type: minor
-    navigationLabel: About
+    navigationLabel: ''
     _template: banner
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
