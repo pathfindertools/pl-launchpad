@@ -400,6 +400,16 @@ blocks:
     navigationLabel: Apply
     _template: feature
   - style:
+      minHeight: min-h-0
+      fullWidth: true
+      padding: pt-20 pb-20 pr-10 pl-10
+    markup: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/8qqI0NfhoAw" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    _template: embed
+  - style:
       textAlignment: text-left
       minHeight: min-h-0
       padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
