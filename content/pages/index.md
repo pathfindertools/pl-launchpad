@@ -89,6 +89,7 @@ blocks:
     image:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1661796180/Paris-Social-adjusted-lrg_ya8crp.png
+      alt: Launchpad Hiring and Onboarding
     label: ''
     headline: An Onboarding & Hiring Program
     subhead: ''
