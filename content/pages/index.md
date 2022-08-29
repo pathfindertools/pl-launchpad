@@ -364,9 +364,7 @@ blocks:
       padding: pt-20 pb-20 pr-10 pl-10
     markup: >-
 
-
-      <div class="order-2 text-accent1 font-2 text-3xl mb-9  sm:text-accent1
-      sm:font-2 sm:text-2xl sm:mb-3 ">Colocation Week</h1>
+      <div >
 
       <br>
 
