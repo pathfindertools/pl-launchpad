@@ -344,7 +344,7 @@ blocks:
     _template: feature
   - style:
       minHeight: min-h-0
-      fullWidth: true
+      fullWidth: false
       padding: pt-20 pb-20 pr-48 pl-48
     background:
       position: object-center
