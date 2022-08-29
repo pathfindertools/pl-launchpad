@@ -522,7 +522,7 @@ blocks:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1654056645/DSCF8814_e2rpjf.jpg
     label: ''
-    headline: Who Should Apply?
+    headline: ''
     subhead: ''
     body: >
       *   You have extensive engineering experience in web2 or have been
