@@ -96,7 +96,8 @@ blocks:
     body: >
       The Launchpad Program is a 6-week onboarding program for new hires to the
       Protocol Labs Network (PLN), as well as a contract-to-learn opportunity to
-      bring new technical talent into the PLN network as Launchpad residents.
+      bring new technical talent into the PLN network as unmatched Launchpad
+      residents.
     _template: feature
   - style:
       textAlignment: text-left
