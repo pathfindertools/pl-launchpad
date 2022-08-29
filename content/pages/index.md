@@ -100,22 +100,6 @@ blocks:
       residents.
     _template: feature
   - style:
-      textAlignment: text-left
-      minHeight: min-h-0
-      padding: pt-20 pb-20 pr-10 pl-10
-      width: normal
-      labelStyles: 'text-black font-2 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-5xl mb-0 '
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-black font-1 undefined mb-0 '
-      contentOrder: labelHeadingsContent
-    label: ''
-    headline: The Program
-    subhead: ''
-    body: ''
-    navigationLabel: Program
-    _template: banner
-  - style:
       minHeight: min-h-0
       fullWidth: false
       padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
@@ -370,7 +354,7 @@ blocks:
 
       <br>
 
-      <iframe width="100%" height="400"
+      <iframe width="80%" height="400" align="center"
       src="https://www.youtube.com/embed/8qqI0NfhoAw" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
