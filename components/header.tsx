@@ -31,7 +31,7 @@ export const Header = ({
 
   const nav = globalData.nav
   const navItems = nav?.navItems || []
-  const sectionClasses = navOpen ? "sm:h-screen" : "sm:h-10 overflow-hidden";
+  const sectionClasses = navOpen ? "" : "overflow-hidden";
   const navClasses = navOpen ? "sm:opacity-100 m-0" : "sm:opacity-0 sm:pointer-events-none";
   const backgroundClasses = navOpen ? "opacity-100" : "opacity-0";
   const navStyles = { 
@@ -65,7 +65,7 @@ export const Header = ({
 
   return (
     <section className="relative">
-      <div className={`${sectionClasses} sm:h-screen absolute z-40 top-0 left-0 right-0`}>
+      <div className={`sm:pointer-events-none ${sectionClasses} sm:h-screen absolute z-40 top-0 left-0 right-0`}>
         <div style={backgroundStyles} className={`${backgroundClasses} ${nav.navBackgroundColor} transition duration-400 absolute inset-0 -z-1 hidden sm:block`}></div>
         <div className={`max-w-desktop-full mx-auto ${nav?.padding}`}>
           
@@ -92,10 +92,10 @@ export const Header = ({
 
           {/* Mobile Nav */}
           <Logo className={`absolute top-4 left-4 hidden sm:block`} />
-          <div className="absolute top-0 p-4 right-0 hidden sm:block" onClick={() => setNavOpen(!navOpen)}>
+          <div className="absolute top-0 p-4 right-0 hidden sm:block sm:pointer-events-auto" onClick={() => setNavOpen(!navOpen)}>
             <Burger color="white" isOpen={navOpen}  />
           </div>
-          <ul style={navStyles} className={`${navClasses} ${nav.navTypeStyle} ${nav.navAlignment} flex-grow list-none hidden sm:block mt-16`}>
+          <ul style={navStyles} className={`${navClasses} ${nav.navTypeStyle} ${nav.navAlignment} sm:pointer-events-auto flex-grow list-none hidden sm:block mt-16`}>
             {navList(blocks)?.map(function (item, index) {
               return (
                 <li className="block" key={index}>
