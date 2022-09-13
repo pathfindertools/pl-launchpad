@@ -126,8 +126,11 @@ export const Layout = ({
 
         {/* Google Analytics */}
         {/* <script async src={`https://www.googletagmanager.com/gtag/js?id=${globalData?.gtmId}`} /> */}
-        <script defer data-domain="pl-launchpad.io" src="https://plausible.io/js/plausible.js"></script>
-
+        <script
+          src="/stats/js/script.js"
+          data-api="/stats/api/event"
+          data-domain="pl-launchpad.io"
+        ></script>
         <script
           dangerouslySetInnerHTML={{
             __html: `
