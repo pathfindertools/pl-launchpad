@@ -3,7 +3,7 @@ import Head from "next/head";
 import { Header } from "./header";
 import { Blocks } from "../components/blocks";
 
-const systemFonts = ['Arial','Courier','Geneva','Georgia', 'Helvetica','Impact','Lucida Console','Lucida Grande','Monaco','Palatino','Tahoma','Times New Roman','Verdana']
+const systemFonts = ['Arial', 'Courier', 'Geneva', 'Georgia', 'Helvetica', 'Impact', 'Lucida Console', 'Lucida Grande', 'Monaco', 'Palatino', 'Tahoma', 'Times New Roman', 'Verdana']
 const customFonts = ['Suisse Intl']
 
 const googleFontsLink = (fonts) => {
@@ -13,14 +13,14 @@ const googleFontsLink = (fonts) => {
   const formattedFontList = googleFontList.map(item => item.split(' ').join('+'))
   const familyString = formattedFontList.join('&family=')
   const fontLink = `https://fonts.googleapis.com/css2?family=${familyString}&display=swap`
-  return fontList.length > 0 ?  fontLink : ''
+  return fontList.length > 0 ? fontLink : ''
 }
 
 const fontName = (font) => {
   return font.includes(':') ? font.substr(0, font.indexOf(':')) : font
 }
 const fontSize = (font) => {
-  return font?.substring(0,font?.indexOf("/")) || "16"
+  return font?.substring(0, font?.indexOf("/")) || "16"
 }
 const fontLeading = (font) => {
   return font?.substring(font?.indexOf("/") + 1) || "16"
@@ -125,7 +125,9 @@ export const Layout = ({
         />
 
         {/* Google Analytics */}
-        <script async src={`https://www.googletagmanager.com/gtag/js?id=${globalData?.gtmId}`} />
+        {/* <script async src={`https://www.googletagmanager.com/gtag/js?id=${globalData?.gtmId}`} /> */}
+        <script defer data-domain="pl-launchpad.io" src="https://plausible.io/js/plausible.js"></script>
+
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -141,7 +143,7 @@ export const Layout = ({
           }}
         />
 
-        {/* Google Fonts */ }
+        {/* Google Fonts */}
         <link rel="preconnect" href="https://fonts.googleapis.com"></link>
         <link rel="preconnect" href="https://fonts.gstatic.com"></link>
         {googleFontsLink(globalData?.fonts) && (
@@ -152,7 +154,7 @@ export const Layout = ({
         <Header blocks={pageData?.blocks} globalData={globalData} />
         <div className="flex flex-col flex-1">{children}</div>
         {/* Footer Blocks */}
-        <Blocks { ...globalData } />
+        <Blocks {...globalData} />
       </div>
     </>
   );
