@@ -28,7 +28,7 @@ blocks:
       ![](<> "")
     buttons:
       - label: Curriculum
-        link: 'https://curriculum.pl-launchpad.io/'
+        link: 'https://curriculum.pl-launchpad.io?utm_source=landindsite1'
         type: secondary
     navigationLabel: ''
     _template: banner
@@ -592,7 +592,7 @@ blocks:
       - headline: ''
         subhead: ''
         text: |
-          [Launchpad Curriculum](https://curriculum.pl-launchpad.io/)
+          [Launchpad Curriculum](https://curriculum.pl-launchpad.io?utm_source=landindsite2)
 
           [Press](https://protocol.ai/blog/announcing-pl-launchpad/)
 
