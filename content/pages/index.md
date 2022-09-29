@@ -28,7 +28,7 @@ blocks:
       ![](<> "")
     buttons:
       - label: Curriculum
-        link: 'https://curriculum.pl-launchpad.io/'
+        link: 'https://curriculum.pl-launchpad.io/?utm_source=landingsite'
         type: secondary
     navigationLabel: ''
     _template: banner
@@ -63,7 +63,7 @@ blocks:
       the Protocol Labs Network.
     buttons:
       - label: Apply Here
-        link: 'https://boards.greenhouse.io/protocollabs/jobs/4366933004'
+        link: 'https://pl-launchpad.io/#apply'
         type: secondary
       - label: Cohort Dates
         link: >-
@@ -332,48 +332,6 @@ blocks:
           improve our Network.
     _template: photoCards
   - style:
-      alignment: 'flex-col text-left items-center items-start-vertical '
-      featureContent: 'w-full min-h-0 '
-      padding: pt-20 pb-20 pr-10 pl-20
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-20 pb-20 pr-20 pl-10
-      labelStyles: 'text-accent1 font-2 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-3xl mb-0 '
-      subheadStyles: 'text-gray font-2 text-base mb-0 '
-      textStyles: 'text-accent1 font-2 text-xl mb-0 '
-      contentOrder: labelHeadingsContent
-    label: ''
-    headline: Hire Unmatched Residents
-    subhead: For PL Network Partners
-    body: >
-      Launchpad also provides opportunities for Network partners to access
-      high-quality talent that has been trained and onboarded into the PL web3
-      ecosystem. When unmatched Launchpad residents complete the program, we
-      work to connect them with the network teams that are looking for talent
-      primed to make the biggest contribution possible.
-
-
-      To learn more about hiring talent from the program, email
-      launchpad-team@protocol.ai and get connected with unmatched launchpad
-      residents.
-    navigationLabel: 'Hire '
-    _template: feature
-  - style:
-      minHeight: min-h-0
-      fullWidth: false
-      padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
-    background:
-      position: object-center
-    markup: >
-
-      <br>
-
-      <iframe width="100%" height="400" align="center"
-      src="https://www.youtube.com/embed/8qqI0NfhoAw" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    _template: embed
-  - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
       featureContent: 'w-2/3 min-h-0 '
       padding: 'pt-32 pb-40 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
@@ -391,7 +349,7 @@ blocks:
     image:
       src: ''
     label: ''
-    headline: Unmatched Residents
+    headline: Apply to the Residency Program
     subhead: ''
     body: >
       We believe people do best when they’re working on projects they're excited
@@ -409,11 +367,96 @@ blocks:
       operators, and many more exciting opportunities across PLN teams, OSS
       projects, and companies.&#x20;
     buttons:
-      - label: Open Roles in PLN
+      - label: 'Engineer, Full Stack'
+        link: 'https://grnh.se/dac902a24us'
+        type: primary
+      - label: 'Engineer, Distributed Systems'
+        link: 'https://grnh.se/f87d27f84us'
+        type: primary
+      - label: Startup Operator
+        link: 'https://grnh.se/74966adf4us'
+        type: primary
+      - label: All Roles
         link: 'https://protocol.getro.com/companies?page=2'
         type: primary
     navigationLabel: Apply
     _template: feature
+  - style:
+      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
+      featureContent: 'w-2/3 min-h-0 '
+      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-5 sm:pl-5'
+      featureImage: object-top object-cover to-edge
+      imagePadding: 'pt-20 pb-20 pr-20 pl-10 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: >-
+        text-gray-light font-1 text-3xl mb-10  sm:text-gray-light sm:font-1
+        sm:text-2xl sm:mb-5 
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: >-
+        text-white font-1 text-lg mb-9  sm:text-white sm:font-1 sm:text-lg
+        sm:mb-5 
+      contentOrder: labelHeadingsContent
+    background:
+      fillStyles: from-accent2 to-primary bg-gradient-to-br
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1664486816/LIBP2P_Launchpad_Title_Card_krmmi4.png
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1654056645/DSCF8814_e2rpjf.jpg
+    label: ''
+    headline: Who Should Apply?
+    subhead: ''
+    body: >
+      *   Those who have extensive engineering experience in web2 or have are
+      invested in the web3 community&#x20;
+
+      *   Those who see themselves as a technical fit across more than one of
+      our open engineering roles&#x20;
+
+      *   Individuals who have worked in roles that have had a high impact,
+      whether at a large company or a startup
+
+      *   Those who have experience programming in Golang, Rust, or other higly
+      utilized blockchain languages and frameworks
+
+      *   Individuals with experience with smart contracts, EVM, WASM, or
+      similar technologies
+
+      *   Humans with a passion for open source code, solving complex problems,
+      and the web3 space.
+    navigationLabel: ''
+    _template: feature
+  - style:
+      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
+      featureContent: 'w-1/2 min-h-0 '
+      padding: pt-20 pb-20 pr-10 pl-20
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-20 pb-20 pr-20 pl-10
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: 'text-accent1 font-2 text-4xl mb-0 '
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-black font-1 undefined mb-0 '
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: Testimonials
+    subhead: ''
+    body: ''
+    _template: feature
+  - style:
+      minHeight: min-h-0
+      fullWidth: false
+      padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
+    background:
+      position: object-center
+    markup: >
+
+      <br>
+
+      <iframe width="100%" height="400" align="center"
+      src="https://www.youtube.com/embed/8qqI0NfhoAw" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    _template: embed
   - style:
       textAlignment: text-left
       minHeight: min-h-0
@@ -439,7 +482,7 @@ blocks:
       textStyles: 'text-accent1 undefined text-base mb-0 '
       buttonType: primary
     label: ''
-    headline: Testimonials
+    headline: ''
     subhead: ''
     body: ''
     items:
@@ -496,52 +539,35 @@ blocks:
     navigationLabel: Testimonials
     _template: photoCards
   - style:
-      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
-      featureContent: 'w-2/3 min-h-0 '
-      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-5 sm:pl-5'
-      featureImage: object-top object-cover to-edge
-      imagePadding: 'pt-20 pb-20 pr-20 pl-10 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: >-
-        text-white font-1 text-2xl mb-10  sm:text-white sm:font-1 sm:text-2xl
-        sm:mb-5 
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: >-
-        text-white font-1 text-lg mb-9  sm:text-white sm:font-1 sm:text-lg
-        sm:mb-5 
+      alignment: 'flex-col text-left items-center items-start-vertical '
+      featureContent: 'w-full min-h-0 '
+      padding: pt-0 pb-20 pr-10 pl-20
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-0 pb-20 pr-20 pl-10
+      labelStyles: 'text-gray-light font-2 text-sm mb-0 '
+      headlineStyles: 'text-gray-light font-2 text-3xl mb-0 '
+      subheadStyles: 'text-gray font-2 text-base mb-0 '
+      textStyles: 'text-gray-light font-2 text-xl mb-0 '
       contentOrder: labelHeadingsContent
     background:
-      fillStyles: from-accent2 to-primary bg-gradient-to-br
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1654021826/pl-launchpad/Filecoin_Launchpad_Closing_Card_q0dbeu.png
-    image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1654056645/DSCF8814_e2rpjf.jpg
+      position: object-center
     label: ''
-    headline: ''
-    subhead: ''
+    headline: Hire Unmatched Residents
+    subhead: For PL Network Partners
     body: >
-      *   You have extensive engineering experience in web2 or have are invested
-      in the web3 community&#x20;
+      Launchpad also provides opportunities for Network partners to access
+      high-quality talent that has been trained and onboarded into the PL web3
+      ecosystem. When unmatched Launchpad residents complete the program, we
+      work to connect them with the network teams that are looking for talent
+      primed to make the biggest contribution possible.
 
-      *   You see yourself as a technical fit across more than one of our open
-      engineering roles
 
-      *   You have worked in roles that have had a high impact, whether at a
-      large company or a startup
-
-      *   You have programmed in go, rust, or blockchain.
-
-      *   You have experience with Smart contracts, EVM, WASM, or similar
-      technologies
-
-      *   You have a passion for open source code, solving complex problems, and
-      the web3 space.
-    buttons:
-      - label: Apply
-        link: 'https://boards.greenhouse.io/protocollabs/jobs/4305898004'
-        type: primary
-    navigationLabel: ''
+      To learn more about hiring talent from the program, email
+      [launchpad-team@protocol.ai ](mailto:webdesign@example.com)and get
+      connected with unmatched launchpad residents.
+    navigationLabel: 'Hire '
     _template: feature
   - style:
       textAlignment: text-left
@@ -591,10 +617,13 @@ blocks:
           [IPFS](https://ipfs.tech/)
       - headline: ''
         subhead: ''
-        text: |
-          [Launchpad Curriculum](https://curriculum.pl-launchpad.io/)
+        text: >
+          [Launchpad
+          Curriculum](https://curriculum.pl-launchpad.io/?utm\_source=landingsite)
+
 
           [Press](https://protocol.ai/blog/announcing-pl-launchpad/)
+
 
           [Contact](launchpad-team@protocol.ai) : launchpad-team@protocol.ai
       - image:
