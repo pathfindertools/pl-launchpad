@@ -219,6 +219,35 @@ blocks:
       live demos from experts in the web3 community. Build strong network bonds
       with fellow residents & web3 members
     _template: feature
+  - style:
+      alignment: 'flex-row text-left items-center items-start-vertical '
+      featureContent: 'w-2/3 min-h-120 '
+      padding: 'pt-20 pb-20 pr-20 pl-10 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
+      featureImage: 'object-center object-cover '
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      labelStyles: 'text-black font-1 text-base mb-0 '
+      headlineStyles: >-
+        text-accent1 font-1 text-3xl mb-5  sm:text-accent1 sm:font-1 sm:text-2xl
+        sm:mb-3 
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: >-
+        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
+        sm:mb-0 
+      contentOrder: labelHeadingsContent
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1652061490/Team-Match-p-500_bmljm6.jpg
+    label: ''
+    headline: Build & Collaborate
+    subhead: ''
+    body: >
+      The  goal of the 6 week launchpad residency is  to give you a chance to
+      work closely with PLN teams and build a project related to your area of
+      expertise, while introducing you to web3 technologies, tooling, and
+      companies. Work on a project related to your role, or match with a team
+      and hack. At the end, you have a project to share that highlights your
+      growth and contribution contribution to the PLN&#x20;
+    _template: feature
   - tailwind:
       section: ''
       wrap: ''
@@ -355,14 +384,18 @@ blocks:
   - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
       featureContent: 'w-full min-h-0 '
-      padding: pt-20 pb-20 pr-10 pl-20
+      padding: pt-0 pb-20 pr-10 pl-20
       featureImage: 'object-center object-scale-down '
-      imagePadding: pt-20 pb-20 pr-20 pl-10
-      labelStyles: 'text-accent1 font-2 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-3xl mb-0 '
-      subheadStyles: 'text-gray font-2 text-base mb-0 '
-      textStyles: 'text-accent1 font-2 text-xl mb-0 '
+      imagePadding: pt-0 pb-20 pr-20 pl-10
+      labelStyles: 'text-gray-light font-2 text-sm mb-0 '
+      headlineStyles: 'text-gray-light font-1 text-3xl mb-0 '
+      subheadStyles: 'text-white font-2 text-base mb-0 '
+      textStyles: 'text-gray-light font-2 text-xl mb-0 '
       contentOrder: labelHeadingsContent
+    background:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1664486816/LIBP2P_Launchpad_Title_Card_krmmi4.png
+      position: object-center
     label: ''
     headline: Hire Unmatched Residents
     subhead: For PL Network Partners
@@ -378,35 +411,6 @@ blocks:
       launchpad-team@protocol.ai and get connected with unmatched launchpad
       residents.
     navigationLabel: 'Hire '
-    _template: feature
-  - style:
-      alignment: 'flex-row text-left items-center items-start-vertical '
-      featureContent: 'w-2/3 min-h-120 '
-      padding: 'pt-20 pb-20 pr-20 pl-10 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      featureImage: 'object-center object-cover '
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: 'text-black font-1 text-base mb-0 '
-      headlineStyles: >-
-        text-accent1 font-1 text-3xl mb-5  sm:text-accent1 sm:font-1 sm:text-2xl
-        sm:mb-3 
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: >-
-        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
-        sm:mb-0 
-      contentOrder: labelHeadingsContent
-    image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1652061490/Team-Match-p-500_bmljm6.jpg
-    label: ''
-    headline: Build & Collaborate
-    subhead: ''
-    body: >
-      The  goal of the 6 week launchpad residency is  to give you a chance to
-      work closely with PLN teams and build a project related to your area of
-      expertise, while introducing you to web3 technologies, tooling, and
-      companies. Work on a project related to your role, or match with a team
-      and hack. At the end, you have a project to share that highlights your
-      growth and contribution contribution to the PLN&#x20;
     _template: feature
   - style:
       minHeight: min-h-0
