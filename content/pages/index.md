@@ -341,7 +341,7 @@ blocks:
       - label: Button Label
         link: /
         type: primary
-      - label: All Roles in PLN
+      - label: All Roles
         link: 'https://protocol.getro.com/companies?page=2'
         type: primary
     navigationLabel: Apply
