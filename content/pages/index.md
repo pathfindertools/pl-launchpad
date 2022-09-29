@@ -63,7 +63,7 @@ blocks:
       the Protocol Labs Network.
     buttons:
       - label: Apply Here
-        link: 'https://boards.greenhouse.io/protocollabs/jobs/4366933004'
+        link: 'https://pl-launchpad.io/#apply'
         type: secondary
       - label: Cohort Dates
         link: >-
