@@ -550,7 +550,7 @@ blocks:
       contentOrder: labelHeadingsContent
     background:
       src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1664486816/LIBP2P_Launchpad_Title_Card_krmmi4.png
+        https://res.cloudinary.com/protocolai/image/upload/v1654021826/pl-launchpad/Filecoin_Launchpad_Closing_Card_q0dbeu.png
       position: object-center
     label: ''
     headline: Hire Unmatched Residents
