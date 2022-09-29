@@ -344,6 +344,9 @@ blocks:
       - label: 'Engineer, Distributed Systems'
         link: 'https://grnh.se/f87d27f84us'
         type: primary
+      - label: Startup Operator
+        link: 'https://grnh.se/74966adf4us'
+        type: primary
       - label: All Roles
         link: 'https://protocol.getro.com/companies?page=2'
         type: primary
