@@ -338,6 +338,9 @@ blocks:
       operators, and many more exciting opportunities across PLN teams, OSS
       projects, and companies.&#x20;
     buttons:
+      - label: 'Engineer, Full Stack'
+        link: 'https://grnh.se/dac902a24us'
+        type: primary
       - label: 'Engineer, Distributed Systems'
         link: 'https://grnh.se/f87d27f84us'
         type: primary
