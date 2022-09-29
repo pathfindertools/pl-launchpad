@@ -219,35 +219,6 @@ blocks:
       live demos from experts in the web3 community. Build strong network bonds
       with fellow residents & web3 members
     _template: feature
-  - style:
-      alignment: 'flex-row text-left items-center items-start-vertical '
-      featureContent: 'w-2/3 min-h-120 '
-      padding: 'pt-20 pb-20 pr-20 pl-10 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      featureImage: 'object-center object-cover '
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: 'text-black font-1 text-base mb-0 '
-      headlineStyles: >-
-        text-accent1 font-1 text-3xl mb-5  sm:text-accent1 sm:font-1 sm:text-2xl
-        sm:mb-3 
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: >-
-        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
-        sm:mb-0 
-      contentOrder: labelHeadingsContent
-    image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1652061490/Team-Match-p-500_bmljm6.jpg
-    label: ''
-    headline: Build & Collaborate
-    subhead: ''
-    body: >
-      The  goal of the 6 week launchpad residency is  to give you a chance to
-      work closely with PLN teams and build a project related to your area of
-      expertise, while introducing you to web3 technologies, tooling, and
-      companies. Work on a project related to your role, or match with a team
-      and hack. At the end, you have a project to share that highlights your
-      growth and contribution contribution to the PLN&#x20;
-    _template: feature
   - tailwind:
       section: ''
       wrap: ''
@@ -332,6 +303,50 @@ blocks:
           improve our Network.
     _template: photoCards
   - style:
+      alignment: 'flex-col text-left items-center items-center-vertical '
+      featureContent: 'w-2/3 min-h-0 '
+      padding: 'pt-32 pb-40 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
+      featureImage: 'object-left object-contain '
+      imagePadding: pt-0 pb-0 pr-20 pl-0
+      labelStyles: 'text-gray-dark font-1 text-sm mb-0 '
+      headlineStyles: >-
+        text-accent1 font-2 text-3xl mb-4  sm:text-accent1 sm:font-2 sm:text-2xl
+        sm:mb-2.5 
+      subheadStyles: 'text-gray-dark font-1 text-3xl mb-0 '
+      textStyles: 'text-accent1 font-1 text-lg mb-8 '
+      contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-white
+    image:
+      src: ''
+    label: ''
+    headline: Apply to the Residency Program
+    subhead: ''
+    body: >
+      We believe people do best when they’re working on projects they're excited
+      about. With [30+ teams ](https://protocol.ai/work/)within Protocol Labs
+      and [450+ companies](https://jobs.protocol.ai/companies) in the Protocol
+      Labs Network (PLN) now is a great time for people coming both inside and
+      outside the web3 space to ramp up their knowledge and contribute to these
+      cutting-edge technologies directly.
+
+
+      This program gives unmatched residents the opportunity to explore & embed
+      with different teams across the PLN to find the project & team that they
+      mesh with best. Open roles include core distributed systems engineers,
+      network researchers, developer advocates, technical writers, startup
+      operators, and many more exciting opportunities across PLN teams, OSS
+      projects, and companies.&#x20;
+    buttons:
+      - label: Button Label
+        link: /
+        type: primary
+      - label: All Roles in PLN
+        link: 'https://protocol.getro.com/companies?page=2'
+        type: primary
+    navigationLabel: Apply
+    _template: feature
+  - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
       featureContent: 'w-full min-h-0 '
       padding: pt-20 pb-20 pr-10 pl-20
@@ -359,6 +374,35 @@ blocks:
     navigationLabel: 'Hire '
     _template: feature
   - style:
+      alignment: 'flex-row text-left items-center items-start-vertical '
+      featureContent: 'w-2/3 min-h-120 '
+      padding: 'pt-20 pb-20 pr-20 pl-10 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
+      featureImage: 'object-center object-cover '
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      labelStyles: 'text-black font-1 text-base mb-0 '
+      headlineStyles: >-
+        text-accent1 font-1 text-3xl mb-5  sm:text-accent1 sm:font-1 sm:text-2xl
+        sm:mb-3 
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: >-
+        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
+        sm:mb-0 
+      contentOrder: labelHeadingsContent
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1652061490/Team-Match-p-500_bmljm6.jpg
+    label: ''
+    headline: Build & Collaborate
+    subhead: ''
+    body: >
+      The  goal of the 6 week launchpad residency is  to give you a chance to
+      work closely with PLN teams and build a project related to your area of
+      expertise, while introducing you to web3 technologies, tooling, and
+      companies. Work on a project related to your role, or match with a team
+      and hack. At the end, you have a project to share that highlights your
+      growth and contribution contribution to the PLN&#x20;
+    _template: feature
+  - style:
       minHeight: min-h-0
       fullWidth: false
       padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
@@ -373,47 +417,6 @@ blocks:
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     _template: embed
-  - style:
-      alignment: 'flex-col text-left items-center items-center-vertical '
-      featureContent: 'w-2/3 min-h-0 '
-      padding: 'pt-32 pb-40 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      featureImage: 'object-left object-contain '
-      imagePadding: pt-0 pb-0 pr-20 pl-0
-      labelStyles: 'text-gray-dark font-1 text-sm mb-0 '
-      headlineStyles: >-
-        text-accent1 font-2 text-3xl mb-4  sm:text-accent1 sm:font-2 sm:text-2xl
-        sm:mb-2.5 
-      subheadStyles: 'text-gray-dark font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-1 text-lg mb-8 '
-      contentOrder: labelHeadingsContent
-    background:
-      fillStyles: bg-white
-    image:
-      src: ''
-    label: ''
-    headline: Unmatched Residents
-    subhead: ''
-    body: >
-      We believe people do best when they’re working on projects they're excited
-      about. With [30+ teams ](https://protocol.ai/work/)within Protocol Labs
-      and [450+ companies](https://jobs.protocol.ai/companies) in the Protocol
-      Labs Network (PLN) now is a great time for people coming both inside and
-      outside the web3 space to ramp up their knowledge and contribute to these
-      cutting-edge technologies directly.
-
-
-      This program gives unmatched residents the opportunity to explore & embed
-      with different teams across the PLN to find the project & team that they
-      mesh with best. Open roles include core distributed systems engineers,
-      network researchers, developer advocates, technical writers, startup
-      operators, and many more exciting opportunities across PLN teams, OSS
-      projects, and companies.&#x20;
-    buttons:
-      - label: Open Roles in PLN
-        link: 'https://protocol.getro.com/companies?page=2'
-        type: primary
-    navigationLabel: Apply
-    _template: feature
   - style:
       textAlignment: text-left
       minHeight: min-h-0
@@ -591,10 +594,13 @@ blocks:
           [IPFS](https://ipfs.tech/)
       - headline: ''
         subhead: ''
-        text: |
-          [Launchpad Curriculum](https://curriculum.pl-launchpad.io/?utm_source=landingsite)
+        text: >
+          [Launchpad
+          Curriculum](https://curriculum.pl-launchpad.io/?utm\_source=landingsite)
+
 
           [Press](https://protocol.ai/blog/announcing-pl-launchpad/)
+
 
           [Contact](launchpad-team@protocol.ai) : launchpad-team@protocol.ai
       - image:
