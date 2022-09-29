@@ -8,15 +8,14 @@ blocks:
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-20 pb-20 pr-20 pl-10
       labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-2xl mb-0 '
+      headlineStyles: 'text-accent1 font-2 text-4xl mb-0 '
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
     label: ''
-    headline: This is the main headline
-    subhead: Here is a subhead
-    body: |
-      This is a rich text component you can add hyperlinks, etc.
+    headline: Testimonials
+    subhead: ''
+    body: ''
     _template: feature
   - style:
       textAlignment: text-center
