@@ -606,7 +606,8 @@ blocks:
 
 
           [Launchpad
-          Application](https://boards.greenhouse.io/protocollabs/jobs/4305898004?gh\_src=8ab0a83a4us)
+          Applications](https://boards.greenhouse.io/protocollabs?t=feb6172d4us
+          "")
       - headline: ''
         subhead: ''
         text: |
