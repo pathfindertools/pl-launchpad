@@ -413,21 +413,6 @@ blocks:
     navigationLabel: 'Hire '
     _template: feature
   - style:
-      minHeight: min-h-0
-      fullWidth: false
-      padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
-    background:
-      position: object-center
-    markup: >
-
-      <br>
-
-      <iframe width="100%" height="400" align="center"
-      src="https://www.youtube.com/embed/8qqI0NfhoAw" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    _template: embed
-  - style:
       textAlignment: text-left
       minHeight: min-h-0
       padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-0 sm:pb-0 sm:pr-6 sm:pl-6'
@@ -508,6 +493,21 @@ blocks:
           network.
     navigationLabel: Testimonials
     _template: photoCards
+  - style:
+      minHeight: min-h-0
+      fullWidth: false
+      padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
+    background:
+      position: object-center
+    markup: >
+
+      <br>
+
+      <iframe width="100%" height="400" align="center"
+      src="https://www.youtube.com/embed/8qqI0NfhoAw" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    _template: embed
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-0 '
