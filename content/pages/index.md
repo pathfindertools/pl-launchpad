@@ -407,7 +407,7 @@ blocks:
     headline: Who Should Apply?
     subhead: ''
     body: >
-      *   Those who have extensive engineering experience in web2 or have are
+      *   Those who have extensive engineering experience in web2 or have
       invested in the web3 community&#x20;
 
       *   Those who see themselves as a technical fit across more than one of
