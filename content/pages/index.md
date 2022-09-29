@@ -389,8 +389,8 @@ blocks:
       imagePadding: 'pt-20 pb-20 pr-20 pl-10 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
       labelStyles: 'text-black font-1 text-sm mb-0 '
       headlineStyles: >-
-        text-white font-1 text-2xl mb-10  sm:text-white sm:font-1 sm:text-2xl
-        sm:mb-5 
+        text-gray-light font-1 text-3xl mb-10  sm:text-gray-light sm:font-1
+        sm:text-2xl sm:mb-5 
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
       textStyles: >-
         text-white font-1 text-lg mb-9  sm:text-white sm:font-1 sm:text-lg
@@ -407,22 +407,23 @@ blocks:
     headline: Who Should Apply?
     subhead: ''
     body: >
-      *   You have extensive engineering experience in web2 or have are invested
-      in the web3 community&#x20;
+      *   Those who have extensive engineering experience in web2 or have are
+      invested in the web3 community&#x20;
 
-      *   You see yourself as a technical fit across more than one of our open
-      engineering roles
+      *   Those who see themselves as a technical fit across more than one of
+      our open engineering roles&#x20;
 
-      *   You have worked in roles that have had a high impact, whether at a
-      large company or a startup
+      *   Individuals who have worked in roles that have had a high impact,
+      whether at a large company or a startup
 
-      *   You have programmed in go, rust, or blockchain.
+      *   Those who have experience programming in Golang, Rust, or other higly
+      utilized blockchain languages and frameworks
 
-      *   You have experience with Smart contracts, EVM, WASM, or similar
-      technologies
+      *   Individuals with experience with smart contracts, EVM, WASM, or
+      similar technologies
 
-      *   You have a passion for open source code, solving complex problems, and
-      the web3 space.
+      *   Humans with a passion for open source code, solving complex problems,
+      and the web3 space.
     navigationLabel: ''
     _template: feature
   - style:
