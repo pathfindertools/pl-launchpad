@@ -2,22 +2,6 @@
 draft: true
 blocks:
   - style:
-      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
-      featureContent: 'w-1/2 min-h-0 '
-      padding: pt-20 pb-20 pr-10 pl-20
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-20 pb-20 pr-20 pl-10
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: 'text-accent1 font-2 text-4xl mb-0 '
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: 'text-black font-1 undefined mb-0 '
-      contentOrder: labelHeadingsContent
-    label: ''
-    headline: Testimonials
-    subhead: ''
-    body: ''
-    _template: feature
-  - style:
       textAlignment: text-center
       minHeight: min-h-0
       padding: 'pt-48 pb-48 pr-10 pl-10 sm:pt-32 sm:pb-48 sm:pr-0 sm:pl-0'
@@ -415,7 +399,7 @@ blocks:
     background:
       fillStyles: from-accent2 to-primary bg-gradient-to-br
       src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1654021826/pl-launchpad/Filecoin_Launchpad_Closing_Card_q0dbeu.png
+        https://res.cloudinary.com/protocolai/image/upload/v1664486816/LIBP2P_Launchpad_Title_Card_krmmi4.png
     image:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1654056645/DSCF8814_e2rpjf.jpg
@@ -440,6 +424,22 @@ blocks:
       *   You have a passion for open source code, solving complex problems, and
       the web3 space.
     navigationLabel: ''
+    _template: feature
+  - style:
+      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
+      featureContent: 'w-1/2 min-h-0 '
+      padding: pt-20 pb-20 pr-10 pl-20
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-20 pb-20 pr-20 pl-10
+      labelStyles: 'text-black font-1 text-sm mb-0 '
+      headlineStyles: 'text-accent1 font-2 text-4xl mb-0 '
+      subheadStyles: 'text-black font-1 text-3xl mb-0 '
+      textStyles: 'text-black font-1 undefined mb-0 '
+      contentOrder: labelHeadingsContent
+    label: ''
+    headline: Testimonials
+    subhead: ''
+    body: ''
     _template: feature
   - style:
       minHeight: min-h-0
