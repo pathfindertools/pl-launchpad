@@ -338,8 +338,8 @@ blocks:
       operators, and many more exciting opportunities across PLN teams, OSS
       projects, and companies.&#x20;
     buttons:
-      - label: Button Label
-        link: /
+      - label: 'Engineer, Distributed Systems'
+        link: 'https://grnh.se/f87d27f84us'
         type: primary
       - label: All Roles
         link: 'https://protocol.getro.com/companies?page=2'
