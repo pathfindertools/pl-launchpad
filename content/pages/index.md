@@ -407,7 +407,7 @@ blocks:
     headline: Who Should Apply?
     subhead: ''
     body: >
-      *   Those who have extensive engineering experience in web2 or have are
+      *   Those who have extensive engineering experience in web2 or have
       invested in the web3 community&#x20;
 
       *   Those who see themselves as a technical fit across more than one of
@@ -606,7 +606,8 @@ blocks:
 
 
           [Launchpad
-          Application](https://boards.greenhouse.io/protocollabs/jobs/4305898004?gh\_src=8ab0a83a4us)
+          Applications](https://boards.greenhouse.io/protocollabs?t=feb6172d4us
+          "")
       - headline: ''
         subhead: ''
         text: |
