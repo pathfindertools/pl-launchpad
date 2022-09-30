@@ -315,9 +315,11 @@ blocks:
         headline: Build
         subhead: ''
         text: >
-          This website is a Launchpad project! So is a new tool created to
-          measure Distributed Hash Tables. We encourage our residents to pick a
-          project that they are excited about.
+          At the end of the Launchpad participants will [present a capstone
+          project](https://www.youtube.com/watch?v=JgDttbuPmiM "Show Me What You
+          Got demo") highlighting how the contributed to PLN.  We encourage our
+          residents to pick a project that they are excited about that utilizes
+          and expands upon their area of expertise.
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
