@@ -306,9 +306,9 @@ blocks:
         headline: Debug
         subhead: ''
         text: >
-          Being open source is at the center of our ecosystem. With fresh eyes
-          and previous high technical impact, we love to see residents debug as
-          their project.
+          Open source software is at the center of our ecosystem. We connect
+          Launchpad residents with the OSS projects, teams, and tools and help
+          them start debugging open issues and bugs.&#x20;
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653324189/pl-launchpad/build_sw74uf.jpg
