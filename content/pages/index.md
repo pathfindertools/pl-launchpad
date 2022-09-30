@@ -408,10 +408,10 @@ blocks:
     subhead: ''
     body: >
       *   Those who have extensive engineering experience in web2 or have
-      invested in the web3 community&#x20;
+      invested theimselves within the web3 community&#x20;
 
       *   Those who see themselves as a technical fit across more than one of
-      our open engineering roles&#x20;
+      our open engineering  or technical roles&#x20;
 
       *   Individuals who have worked in roles that have had a high impact,
       whether at a large company or a startup
