@@ -159,7 +159,7 @@ blocks:
       Apply to launchpad to become a part of the Protocol Labs Network as an
       [engineer](https://grnh.se/dac902a24us) or a technical [startup
       operator.](https://grnh.se/74966adf4us) Managers in teams that are PLN
-      members can fill out a registration form for new hires
+      members can fill out a registration form for new hires.
     _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
