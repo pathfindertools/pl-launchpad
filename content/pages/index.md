@@ -317,9 +317,9 @@ blocks:
         text: >
           At the end of the Launchpad program, participants will [present a
           capstone project](https://www.youtube.com/watch?v=JgDttbuPmiM)
-          highlighting how their contributions to PLN.  We encourage our
-          residents to pick a project that they are excited about that utilizes
-          and expands upon their area of expertise.
+          highlighting their contributions to PLN.  We encourage our residents
+          to pick a project that they are excited about that utilizes and
+          expands upon their area of expertise.
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
