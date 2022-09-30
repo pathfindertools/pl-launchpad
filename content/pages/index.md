@@ -49,7 +49,7 @@ blocks:
     background:
       fillStyles: from-accent3 to-primary bg-gradient-to-br
       src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1654021873/pl-launchpad/LIBP2P_Launchpad_Closing_Card_p42aot.png
+        https://res.cloudinary.com/protocolai/image/upload/v1664551132/pl-launchpad/PL_Launchpad_Title_Card_xhulkb.png
       position: object-right-bottom
     label: ''
     headline: ''
@@ -157,9 +157,9 @@ blocks:
     subhead: ''
     body: >
       Apply to launchpad to become a part of the Protocol Labs Network as an
-      [engineer](https://grnh.se/dac902a24us "") or a technical [startup
-      operator.](https://grnh.se/74966adf4us "") Managers in teams that are PLN
-      members can fill out a registration form for new hires
+      [engineer](https://grnh.se/dac902a24us) or a technical [startup
+      operator.](https://grnh.se/74966adf4us) Managers in teams that are PLN
+      members can fill out a registration form for new hires.
     _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
@@ -316,20 +316,20 @@ blocks:
         subhead: ''
         text: >
           At the end of the Launchpad program, participants will [present a
-          capstone project](https://www.youtube.com/watch?v=JgDttbuPmiM "Show Me
-          What You Got demo") highlighting how the contributed to PLN.  We
-          encourage our residents to pick a project that they are excited about
-          that utilizes and expands upon their area of expertise.
+          capstone project](https://www.youtube.com/watch?v=JgDttbuPmiM)
+          highlighting their contributions to PLN.  We encourage our residents
+          to pick a project that they are excited about that utilizes and
+          expands upon their area of expertise.
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
         headline: Collaborate
         subhead: ''
         text: >
-          One of the best parts of the Launchpad Residency is the collaboration
-          across the PLN and the web3 community. Previous projects have had
-          members from many different teams and backgrounds working together to
-          improve our network.
+          One of the best parts of the Launchpad residency is the opportunity
+          for collaboration across PLN and the web3 community. Projects provide
+          an opportunity members from many different teams and backgrounds to
+          work together to improve our network.
     _template: photoCards
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
@@ -366,6 +366,11 @@ blocks:
       network researchers, developer advocates, technical writers, startup
       operators, and many more exciting opportunities across PLN teams, OSS
       projects, and companies.&#x20;
+
+
+
+      Fill out an application to the open roles below for the opportunity to
+      become a resident in the Launchpad program:
     buttons:
       - label: 'Engineer, Full Stack'
         link: 'https://grnh.se/dac902a24us'
