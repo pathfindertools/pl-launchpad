@@ -157,10 +157,9 @@ blocks:
     subhead: ''
     body: >
       Apply to launchpad to become a part of the Protocol Labs Network as an
-      [engineer](https://grnh.se/dac902a24us "") or [startup
-      operator.](https://boards.greenhouse.io/protocollabs/jobs/4305898004)
-      Managers in teams that are PLN members can fill out a registration form
-      for new hires
+      [engineer](https://grnh.se/dac902a24us "") or a technical [startup
+      operator.](https://grnh.se/74966adf4us "") Managers in teams that are PLN
+      members can fill out a registration form for new hires
     _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
