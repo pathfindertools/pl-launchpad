@@ -366,6 +366,11 @@ blocks:
       network researchers, developer advocates, technical writers, startup
       operators, and many more exciting opportunities across PLN teams, OSS
       projects, and companies.&#x20;
+
+
+
+      Fill out an application to the open roles below for the opportunity to
+      become a resident in the Launchpad program:
     buttons:
       - label: 'Engineer, Full Stack'
         link: 'https://grnh.se/dac902a24us'
