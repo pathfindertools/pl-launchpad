@@ -326,10 +326,10 @@ blocks:
         headline: Collaborate
         subhead: ''
         text: >
-          One of the best parts of the Launchpad Residency is the collaboration
-          across the PLN and the web3 community. Previous projects have had
-          members from many different teams and backgrounds working together to
-          improve our network.
+          One of the best parts of the Launchpad residency is the opportunity
+          for collaboration across PLN and the web3 community. Projects provide
+          an opportunity members from many different teams and backgrounds to
+          work together to improve our network.
     _template: photoCards
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
