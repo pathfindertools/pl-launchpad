@@ -157,11 +157,9 @@ blocks:
     subhead: ''
     body: >
       Apply to launchpad to become a part of the Protocol Labs Network as an
-      [engineer](https://boards.greenhouse.io/protocollabs/jobs/4366933004) or
-      [startup
-      operator.](https://boards.greenhouse.io/protocollabs/jobs/4305898004)
-      Managers in teams that are PLN members can fill out a registration form
-      for new hires
+      [engineer](https://grnh.se/dac902a24us "") or a technical [startup
+      operator.](https://grnh.se/74966adf4us "") Managers in teams that are PLN
+      members can fill out a registration form for new hires
     _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
@@ -308,18 +306,20 @@ blocks:
         headline: Debug
         subhead: ''
         text: >
-          Being open source is at the center of our ecosystem. With fresh eyes
-          and previous high technical impact, we love to see residents debug as
-          their project.
+          Open source software is at the center of our ecosystem. We connect
+          Launchpad residents with the OSS projects, teams, and tools and help
+          them start debugging open issues and bugs.&#x20;
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653324189/pl-launchpad/build_sw74uf.jpg
         headline: Build
         subhead: ''
         text: >
-          This website is a Launchpad project! So is a new tool created to
-          measure Distributed Hash Tables. We encourage our residents to pick a
-          project that they are excited about.
+          At the end of the Launchpad program, participants will [present a
+          capstone project](https://www.youtube.com/watch?v=JgDttbuPmiM "Show Me
+          What You Got demo") highlighting how the contributed to PLN.  We
+          encourage our residents to pick a project that they are excited about
+          that utilizes and expands upon their area of expertise.
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
@@ -329,7 +329,7 @@ blocks:
           One of the best parts of the Launchpad Residency is the collaboration
           across the PLN and the web3 community. Previous projects have had
           members from many different teams and backgrounds working together to
-          improve our Network.
+          improve our network.
     _template: photoCards
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
@@ -352,17 +352,17 @@ blocks:
     headline: Apply to the Residency Program
     subhead: ''
     body: >
-      We believe people do best when they’re working on projects they're excited
-      about. With [30+ teams ](https://protocol.ai/work/)within Protocol Labs
-      and [450+ companies](https://jobs.protocol.ai/companies) in the Protocol
-      Labs Network (PLN) now is a great time for people coming both inside and
-      outside the web3 space to ramp up their knowledge and contribute to these
-      cutting-edge technologies directly.
+      We believe people grow the most when they’re working on projects they're
+      excited about. With [30+ teams ](https://protocol.ai/work/)within Protocol
+      Labs and [450+ companies](https://jobs.protocol.ai/companies) in the
+      Protocol Labs Network (PLN), now is a great time for people coming from
+      both inside and outside the web3 space to ramp up their knowledge and
+      contribute directly to these cutting-edge technologies.
 
 
       This program gives unmatched residents the opportunity to explore & embed
-      with different teams across the PLN to find the project & team that they
-      mesh with best. Open roles include core distributed systems engineers,
+      with different teams across the PLN to find the projects and teams that
+      they mesh with best. Open roles include distributed systems engineers,
       network researchers, developer advocates, technical writers, startup
       operators, and many more exciting opportunities across PLN teams, OSS
       projects, and companies.&#x20;
@@ -408,10 +408,10 @@ blocks:
     subhead: ''
     body: >
       *   Those who have extensive engineering experience in web2 or have
-      invested in the web3 community&#x20;
+      invested theimselves within the web3 community&#x20;
 
       *   Those who see themselves as a technical fit across more than one of
-      our open engineering roles&#x20;
+      our open engineering  or technical roles&#x20;
 
       *   Individuals who have worked in roles that have had a high impact,
       whether at a large company or a startup
@@ -606,8 +606,7 @@ blocks:
 
 
           [Launchpad
-          Applications](https://boards.greenhouse.io/protocollabs?t=feb6172d4us
-          "")
+          Applications](https://boards.greenhouse.io/protocollabs?t=feb6172d4us)
       - headline: ''
         subhead: ''
         text: |
