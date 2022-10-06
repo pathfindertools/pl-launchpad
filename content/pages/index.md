@@ -328,8 +328,8 @@ blocks:
         text: >
           One of the best parts of the Launchpad residency is the opportunity
           for collaboration across PLN and the web3 community. Projects provide
-          an opportunity members from many different teams and backgrounds to
-          work together to improve our network.
+          an opportunity for members from many different teams and backgrounds
+          to work together to improve our network.
     _template: photoCards
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
@@ -446,6 +446,7 @@ blocks:
     headline: Testimonials
     subhead: ''
     body: ''
+    navigationLabel: Testimonials
     _template: feature
   - style:
       minHeight: min-h-0
@@ -541,7 +542,7 @@ blocks:
           program was so well designed and I walked out with 10x more
           confidence, knowledge & sense of purpose to go into my role in the
           network.
-    navigationLabel: Testimonials
+    navigationLabel: ''
     _template: photoCards
   - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
