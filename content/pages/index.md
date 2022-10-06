@@ -441,6 +441,7 @@ blocks:
     headline: Testimonials
     subhead: ''
     body: ''
+    navigationLabel: Testimonials
     _template: feature
   - style:
       minHeight: min-h-0
