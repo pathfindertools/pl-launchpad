@@ -537,7 +537,7 @@ blocks:
           program was so well designed and I walked out with 10x more
           confidence, knowledge & sense of purpose to go into my role in the
           network.
-    navigationLabel: Testimonials
+    navigationLabel: ''
     _template: photoCards
   - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
