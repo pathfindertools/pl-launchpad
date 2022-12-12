@@ -62,8 +62,9 @@ blocks:
       to train and team-match talent with Web3 opportunities across the Protocol
       Labs Network.
     buttons:
-      - label: Apply Here
-        link: 'https://pl-launchpad.io/#apply'
+      - label: Register Here
+        link: >-
+          https://www.notion.so/pl-strflt/Launchpad-Dates-Registration-fb297b9636334b19bd02976b0c922ffd
         type: secondary
       - label: Cohort Dates
         link: >-
@@ -141,33 +142,6 @@ blocks:
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     navigationLabel: ''
     _template: embed
-  - style:
-      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
-      featureContent: 'w-2/3 min-h-120 '
-      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      featureImage: object-right-top object-cover to-edge
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: 'text-black font-1 text-base mb-0 '
-      headlineStyles: >-
-        text-accent1 font-1 text-3xl mb-5  sm:text-accent1 sm:font-1 sm:text-2xl
-        sm:mb-3 
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: >-
-        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
-        sm:mb-0 
-      contentOrder: labelHeadingsContent
-    image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1654052834/DSCF8567_iwtuxl.jpg
-    label: ''
-    headline: Apply
-    subhead: ''
-    body: >
-      Apply to launchpad to become a part of the Protocol Labs Network as an
-      [engineer](https://grnh.se/dac902a24us) or a technical [startup
-      operator.](https://grnh.se/74966adf4us) Managers in teams that are PLN
-      members can fill out a registration form for new hires.
-    _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
