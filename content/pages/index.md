@@ -284,7 +284,8 @@ blocks:
         text: >
           Open source software is at the center of our ecosystem. We connect
           Launchpad residents with the OSS projects, teams, and tools and help
-          them start debugging open issues and bugs.&#x20;
+          them start debugging open issues and bugs, and getting to know the
+          core contributors of the PL OSS projects.
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653324189/pl-launchpad/build_sw74uf.jpg
