@@ -58,9 +58,9 @@ blocks:
       technical growth in the Web3 space.
     body: >
       Launchpad aims to hire exceptional talent from diverse engineering and
-      tech operations backgrounds into a six-week, full-time residency designed
-      to train, develop, and team-match talent with Web3 opportunities across
-      the Protocol Labs Network.
+      tech operations backgrounds into a four-week, full-time residency designed
+      to train and team-match talent with Web3 opportunities across the Protocol
+      Labs Network.
     buttons:
       - label: Apply Here
         link: 'https://pl-launchpad.io/#apply'
