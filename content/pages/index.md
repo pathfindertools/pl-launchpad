@@ -333,23 +333,14 @@ blocks:
     image:
       src: ''
     label: ''
-    headline: Apply to the Residency Program
+    headline: Join Protocol Labs Network
     subhead: ''
     body: >
       We believe people grow the most when they’re working on projects they're
-      excited about. With [30+ teams ](https://protocol.ai/work/)within Protocol
-      Labs and [450+ companies](https://jobs.protocol.ai/companies) in the
-      Protocol Labs Network (PLN), now is a great time for people coming from
-      both inside and outside the web3 space to ramp up their knowledge and
-      contribute directly to these cutting-edge technologies.
-
-
-      This program gives unmatched residents the opportunity to explore & embed
-      with different teams across the PLN to find the projects and teams that
-      they mesh with best. Open roles include distributed systems engineers,
-      network researchers, developer advocates, technical writers, startup
-      operators, and many more exciting opportunities across PLN teams, OSS
-      projects, and companies.&#x20;
+      excited about. With [h](https://jobs.protocol.ai/companies)undreds of
+      teams in the Protocol Labs Network (PLN), now is a great time for people
+      coming from both inside and outside the web3 space to ramp up their
+      knowledge and contribute directly to these cutting-edge technologies.
     buttons:
       - label: 'Engineer, Full Stack'
         link: 'https://grnh.se/dac902a24us'
@@ -363,7 +354,7 @@ blocks:
       - label: All Roles
         link: 'https://protocol.getro.com/companies?page=2'
         type: primary
-    navigationLabel: Apply
+    navigationLabel: Join PLN
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
