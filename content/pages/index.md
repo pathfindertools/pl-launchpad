@@ -54,12 +54,12 @@ blocks:
     label: ''
     headline: ''
     subhead: >-
-      Launchpad is a hiring & onboarding program designed for accelerating
-      technical growth in the Web3 space.
+      Launchpad Accelerates Technical Contributors into the Protocol Labs
+      Network
     body: >
       Launchpad aims to onboard and enable exceptional talent from diverse
       engineering and tech operations backgrounds with a four-week residency
-      designed to train and team-match talent with Web3 opportunities across the
+      designed to train and match talent with Web3 opportunities across the
       Protocol Labs Network.
     buttons:
       - label: Register Here
