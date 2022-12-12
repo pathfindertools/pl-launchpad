@@ -274,7 +274,7 @@ blocks:
     body: >
       A key aspect of the Launchpad Residency is empowering new labbers to make
       an impact. During the Launchpad program every resident completes a
-      personal project related to their new role or area of interest.
+      personal project related to their new role.
     items:
       - image:
           src: >-
@@ -292,10 +292,10 @@ blocks:
         subhead: ''
         text: >
           At the end of the Launchpad program, participants will [present a
-          capstone project](https://www.youtube.com/watch?v=JgDttbuPmiM)
-          highlighting their contributions to PLN.  We encourage our residents
-          to pick a project that they are excited about that utilizes and
-          expands upon their area of expertise.
+          d](https://www.youtube.com/watch?v=JgDttbuPmiM)emo highlighting their
+          contributions to PLN over Launchpad.  We encourage our residents to
+          pick a project that they are excited about and highlights the
+          additions they made to their new team.
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
