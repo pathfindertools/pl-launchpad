@@ -300,14 +300,18 @@ blocks:
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
-        headline: Collaborate
+        headline: Deomnstrate
         subhead: ''
-        text: >
-          One of the best parts of the Launchpad residency is the opportunity
-          for collaboration across PLN and the web3 community. Project Demos
-          provide an opportunity for members from many different teams and
-          backgrounds to come together to demonstrate and gather feedback on a
-          proof of concept.&#x20;
+        text: >+
+          The Launchpad experience culminates in a demo session, where you have
+          a chance to share a proof of concept that highlights your growth and
+          contribution contribution to the PLN, while gathering feedback and
+          raising awareness of the work you are doing.
+
+
+
+
+        link: 'https://www.youtube.com/watch?v=JgDttbuPmiM'
     _template: photoCards
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
