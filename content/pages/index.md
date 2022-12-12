@@ -307,8 +307,8 @@ blocks:
           The Launchpad experience culminates in a [demo
           session](https://www.youtube.com/watch?v=JgDttbuPmiM), where you have
           a chance to share a proof of concept that highlights your growth and
-          contribution contribution to the PLN, while gathering feedback and
-          raising awareness of the work you are doing.
+          contribution to the PLN, while gathering feedback and raising
+          awareness of the work you are doing.
 
 
 
