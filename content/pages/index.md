@@ -300,7 +300,7 @@ blocks:
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
-        headline: Deomnstrate
+        headline: Demonstrate
         subhead: ''
         text: >+
           The Launchpad experience culminates in a [demo
@@ -313,6 +313,7 @@ blocks:
 
 
         link: 'https://www.youtube.com/watch?v=JgDttbuPmiM'
+        buttonLabel: Demo Session
     _template: photoCards
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
