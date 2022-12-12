@@ -344,51 +344,6 @@ blocks:
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
-      featureContent: 'w-2/3 min-h-0 '
-      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-5 sm:pl-5'
-      featureImage: object-top object-cover to-edge
-      imagePadding: 'pt-20 pb-20 pr-20 pl-10 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: >-
-        text-gray-light font-1 text-3xl mb-10  sm:text-gray-light sm:font-1
-        sm:text-2xl sm:mb-5 
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: >-
-        text-white font-1 text-lg mb-9  sm:text-white sm:font-1 sm:text-lg
-        sm:mb-5 
-      contentOrder: labelHeadingsContent
-    background:
-      fillStyles: from-accent2 to-primary bg-gradient-to-br
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1664486816/LIBP2P_Launchpad_Title_Card_krmmi4.png
-    image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1654056645/DSCF8814_e2rpjf.jpg
-    label: ''
-    headline: Who Should Apply?
-    subhead: ''
-    body: >
-      *   Those who have extensive engineering experience in web2 or have
-      invested theimselves within the web3 community&#x20;
-
-      *   Those who see themselves as a technical fit across more than one of
-      our open engineering  or technical roles&#x20;
-
-      *   Individuals who have worked in roles that have had a high impact,
-      whether at a large company or a startup
-
-      *   Those who have experience programming in Golang, Rust, or other higly
-      utilized blockchain languages and frameworks
-
-      *   Individuals with experience with smart contracts, EVM, WASM, or
-      similar technologies
-
-      *   Humans with a passion for open source code, solving complex problems,
-      and the web3 space.
-    navigationLabel: ''
-    _template: feature
-  - style:
-      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-1/2 min-h-0 '
       padding: pt-20 pb-20 pr-10 pl-20
       featureImage: 'object-center object-scale-down '
