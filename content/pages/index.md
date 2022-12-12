@@ -279,13 +279,13 @@ blocks:
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653323802/pl-launchpad/debug_ru5ul1.jpg
-        headline: Debug
+        headline: Explore
         subhead: ''
         text: >
           Open source software is at the center of our ecosystem. We connect
           Launchpad residents with the OSS projects, teams, and tools and help
-          them start debugging open issues and bugs, and getting to know the
-          core contributors of the PL OSS projects.
+          them start debugging open issues and bugs, and connect them with core
+          contributors of the PL OSS projects.
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653324189/pl-launchpad/build_sw74uf.jpg
