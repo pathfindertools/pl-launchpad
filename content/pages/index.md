@@ -346,19 +346,10 @@ blocks:
 
 
 
-      With the&#x20;
+      Protocol Labs provides a wide range of&#x20;
     buttons:
-      - label: Learn about PLN
-        link: Learn about the PLN
-        type: primary
-      - label: 'Engineer, Distributed Systems'
-        link: 'https://grnh.se/f87d27f84us'
-        type: primary
-      - label: Startup Operator
-        link: 'https://grnh.se/74966adf4us'
-        type: primary
-      - label: All Roles
-        link: 'https://protocol.getro.com/companies?page=2'
+      - label: Protocol Labs Jobs
+        link: 'https://www.getro.org/companies/protocol-labs'
         type: primary
     navigationLabel: Join PLN
     _template: feature
