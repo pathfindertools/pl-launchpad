@@ -289,14 +289,14 @@ blocks:
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653324189/pl-launchpad/build_sw74uf.jpg
-        headline: Build
+        headline: Collaborate
         subhead: ''
         text: >
-          At the end of the Launchpad program, participants will [present a
-          d](https://www.youtube.com/watch?v=JgDttbuPmiM)emo highlighting their
-          contributions to PLN over Launchpad.  We encourage our residents to
-          pick a project that they are excited about and highlights the
-          additions they made to their new team.
+          One of the best parts of the Launchpad residency is the opportunity
+          for collaboration across the PLN web3 community. Our program provides
+          an opportunity for members from many different teams and backgrounds
+          to come together to learn about the ecosystem, and make connections
+          across those teams.
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
