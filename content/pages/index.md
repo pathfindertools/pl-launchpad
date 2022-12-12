@@ -104,6 +104,37 @@ blocks:
       connected members of the PLN community.
     _template: feature
   - style:
+      alignment: 'flex-col text-left items-center items-start-vertical '
+      featureContent: 'w-full min-h-0 '
+      padding: pt-0 pb-20 pr-10 pl-20
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-0 pb-20 pr-20 pl-10
+      labelStyles: 'text-gray-light font-2 text-sm mb-0 '
+      headlineStyles: 'text-gray-light font-2 text-3xl mb-0 '
+      subheadStyles: 'text-gray font-2 text-base mb-0 '
+      textStyles: 'text-gray-light font-2 text-xl mb-0 '
+      contentOrder: labelHeadingsContent
+    background:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1654021826/pl-launchpad/Filecoin_Launchpad_Closing_Card_q0dbeu.png
+      position: object-center
+    label: ''
+    headline: Hire with PLN
+    subhead: For PL Network Partners
+    body: >
+      Launchpad is a unique opportunity for Network partners to access
+      high-quality talent that is trained and connected into the PL web3
+      ecosystem. As Launchpad residents go through the program, we work to
+      connect them with the network teams resources, and growth opportunities
+      that enable them to be effective.
+
+
+      To learn more about hiring talent from the program, email
+      [launchpad-team@protocol.ai ](mailto:webdesign@example.com)and get
+      connected with unmatched launchpad residents.
+    navigationLabel: 'Hire '
+    _template: feature
+  - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-1/2 min-h-0 '
       padding: pt-20 pb-20 pr-10 pl-20
@@ -124,8 +155,6 @@ blocks:
       minHeight: min-h-0
       fullWidth: false
       padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
-    background:
-      fillStyles: bg-gray-light
     markup: >-
       <h1 class="order-2 text-accent1 font-2 text-3xl mb-9  sm:text-accent1
       sm:font-2 sm:text-2xl sm:mb-3 ">Colocation Week</h1>
@@ -457,37 +486,6 @@ blocks:
           network.
     navigationLabel: ''
     _template: photoCards
-  - style:
-      alignment: 'flex-col text-left items-center items-start-vertical '
-      featureContent: 'w-full min-h-0 '
-      padding: pt-0 pb-20 pr-10 pl-20
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-0 pb-20 pr-20 pl-10
-      labelStyles: 'text-gray-light font-2 text-sm mb-0 '
-      headlineStyles: 'text-gray-light font-2 text-3xl mb-0 '
-      subheadStyles: 'text-gray font-2 text-base mb-0 '
-      textStyles: 'text-gray-light font-2 text-xl mb-0 '
-      contentOrder: labelHeadingsContent
-    background:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1654021826/pl-launchpad/Filecoin_Launchpad_Closing_Card_q0dbeu.png
-      position: object-center
-    label: ''
-    headline: Hire with PLN
-    subhead: For PL Network Partners
-    body: >
-      Launchpad is a unique opportunity for Network partners to access
-      high-quality talent that is trained and connected into the PL web3
-      ecosystem. As Launchpad residents go through the program, we work to
-      connect them with the network teams resources, and growth opportunities
-      that enable them to be effective.
-
-
-      To learn more about hiring talent from the program, email
-      [launchpad-team@protocol.ai ](mailto:webdesign@example.com)and get
-      connected with unmatched launchpad residents.
-    navigationLabel: 'Hire '
-    _template: feature
   - style:
       textAlignment: text-left
       minHeight: min-h-0
