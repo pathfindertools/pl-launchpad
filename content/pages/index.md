@@ -473,14 +473,14 @@ blocks:
         https://res.cloudinary.com/protocolai/image/upload/v1654021826/pl-launchpad/Filecoin_Launchpad_Closing_Card_q0dbeu.png
       position: object-center
     label: ''
-    headline: Hire Unmatched Residents
+    headline: Hire with PLN
     subhead: For PL Network Partners
     body: >
-      Launchpad also provides opportunities for Network partners to access
-      high-quality talent that has been trained and onboarded into the PL web3
-      ecosystem. When unmatched Launchpad residents complete the program, we
-      work to connect them with the network teams that are looking for talent
-      primed to make the biggest contribution possible.
+      Launchpad is a unique opportunity for Network partners to access
+      high-quality talent that is trained and connected into the PL web3
+      ecosystem. As Launchpad residents go through the program, we work to
+      connect them with the network teams resources, and growth opportunities
+      that enable them to be effective.
 
 
       To learn more about hiring talent from the program, email
