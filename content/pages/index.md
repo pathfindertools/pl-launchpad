@@ -54,21 +54,18 @@ blocks:
     label: ''
     headline: ''
     subhead: >-
-      Launchpad is a hiring & onboarding program designed for accelerating
-      technical growth in the Web3 space.
+      Launchpad Accelerates Technical Contributors into the Protocol Labs
+      Network
     body: >
-      Launchpad aims to hire exceptional talent from diverse engineering and
-      tech operations backgrounds into a six-week, full-time residency designed
-      to train, develop, and team-match talent with Web3 opportunities across
-      the Protocol Labs Network.
+      Launchpad aims to onboard and enable exceptional talent from diverse
+      engineering and tech operations backgrounds with a four-week residency
+      designed to train and match talent with Web3 opportunities across the
+      Protocol Labs Network.
     buttons:
-      - label: Apply Here
-        link: 'https://pl-launchpad.io/#apply'
-        type: secondary
-      - label: Cohort Dates
+      - label: Register Here
         link: >-
-          https://www.notion.so/pl-strflt/Launchpad-Dates-Sign-Up-fb297b9636334b19bd02976b0c922ffd/
-        type: minor
+          https://www.notion.so/pl-strflt/Launchpad-Dates-Registration-fb297b9636334b19bd02976b0c922ffd
+        type: secondary
     navigationLabel: ''
     _template: banner
   - style:
@@ -94,10 +91,48 @@ blocks:
     headline: An Onboarding & Hiring Program
     subhead: ''
     body: >
-      The Launchpad Program is a 6-week onboarding program for new hires to the
-      Protocol Labs Network (PLN), as well as a contract-to-learn opportunity to
-      bring new technical talent into the PLN network as unmatched Launchpad
-      residents.
+      The Launchpad Program is a four-week onboarding program for new hires to
+      the Protocol Labs Network (PLN). This is a program designed as an
+      opportunity to bring those newly matched in the PLN network to the
+      projects, teams, and resources they will need to ramp up quickly in their
+      domain.
+
+
+      The program consists of three weeks of async learning, with a one week
+      in-person colocation with interactive sessions on the culture, tooling,
+      and technology, in an experience designed to make participants effective,
+      connected members of the PLN community.
+    _template: feature
+  - style:
+      alignment: 'flex-col text-left items-center items-start-vertical '
+      featureContent: 'w-full min-h-0 '
+      padding: pt-0 pb-20 pr-10 pl-20
+      featureImage: 'object-center object-scale-down '
+      imagePadding: pt-0 pb-20 pr-20 pl-10
+      labelStyles: 'text-gray-light font-2 text-sm mb-0 '
+      headlineStyles: 'text-gray-light font-2 text-3xl mb-0 '
+      subheadStyles: 'text-gray font-2 text-base mb-0 '
+      textStyles: 'text-gray-light font-2 text-xl mb-0 '
+      contentOrder: labelHeadingsContent
+    background:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1654021826/pl-launchpad/Filecoin_Launchpad_Closing_Card_q0dbeu.png
+      position: object-center
+    label: ''
+    headline: Hire with PLN
+    subhead: For PL Network Partners
+    body: >
+      Launchpad is a unique opportunity for Network partners to access
+      high-quality talent that is trained and connected into the PL web3
+      ecosystem. As Launchpad residents go through the program, we work to
+      connect them with the network teams resources, and growth opportunities
+      that enable them to be effective.
+
+
+      To learn more about hiring talent from the program, email
+      [launchpad-team@protocol.ai ](mailto:webdesign@example.com)and get
+      connected with unmatched launchpad residents.
+    navigationLabel: 'Hire '
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
@@ -120,8 +155,6 @@ blocks:
       minHeight: min-h-0
       fullWidth: false
       padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
-    background:
-      fillStyles: bg-gray-light
     markup: >-
       <h1 class="order-2 text-accent1 font-2 text-3xl mb-9  sm:text-accent1
       sm:font-2 sm:text-2xl sm:mb-3 ">Colocation Week</h1>
@@ -134,33 +167,6 @@ blocks:
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     navigationLabel: ''
     _template: embed
-  - style:
-      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
-      featureContent: 'w-2/3 min-h-120 '
-      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      featureImage: object-right-top object-cover to-edge
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: 'text-black font-1 text-base mb-0 '
-      headlineStyles: >-
-        text-accent1 font-1 text-3xl mb-5  sm:text-accent1 sm:font-1 sm:text-2xl
-        sm:mb-3 
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: >-
-        text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
-        sm:mb-0 
-      contentOrder: labelHeadingsContent
-    image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1654052834/DSCF8567_iwtuxl.jpg
-    label: ''
-    headline: Apply
-    subhead: ''
-    body: >
-      Apply to launchpad to become a part of the Protocol Labs Network as an
-      [engineer](https://grnh.se/dac902a24us) or a technical [startup
-      operator.](https://grnh.se/74966adf4us) Managers in teams that are PLN
-      members can fill out a registration form for new hires.
-    _template: feature
   - style:
       alignment: 'flex-row text-left items-center items-start-vertical '
       featureContent: 'w-2/3 min-h-120 '
@@ -239,12 +245,11 @@ blocks:
     headline: Build & Collaborate
     subhead: ''
     body: >
-      The  goal of the 6 week launchpad residency is  to give you a chance to
-      work closely with PLN teams and build a project related to your area of
-      expertise, while introducing you to web3 technologies, tooling, and
-      companies. Work on a project related to your role, or match with a team
-      and hack. At the end, you have a project to share that highlights your
-      growth and contribution contribution to the PLN&#x20;
+      The  goal of the four week launchpad residency is  to give you a chance to
+      work closely with other teams, then plan, present, and collaborate on a
+      proof of concept, getting feedback from a cohort of your peers. During
+      this process, you will also be introduced to the web3 technologies,
+      tooling, and companies in the PLN.&#x20;
     _template: feature
   - tailwind:
       section: ''
@@ -298,38 +303,47 @@ blocks:
     body: >
       A key aspect of the Launchpad Residency is empowering new labbers to make
       an impact. During the Launchpad program every resident completes a
-      personal project related to their new role or area of interest.
+      personal project related to their new role.
     items:
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653323802/pl-launchpad/debug_ru5ul1.jpg
-        headline: Debug
+        headline: Explore
         subhead: ''
         text: >
           Open source software is at the center of our ecosystem. We connect
-          Launchpad residents with the OSS projects, teams, and tools and help
-          them start debugging open issues and bugs.&#x20;
+          Launchpad residents with OSS projects, PLN teams, and software tools
+          to help them start debugging and contributing to the ecosystem. The
+          program also connects residents with core contributors of the PL OSS
+          projects in workshops and live Q\&A sessions.&#x20;
       - image:
           src: >-
             https://res.cloudinary.com/protocolai/image/upload/v1653324189/pl-launchpad/build_sw74uf.jpg
-        headline: Build
-        subhead: ''
-        text: >
-          At the end of the Launchpad program, participants will [present a
-          capstone project](https://www.youtube.com/watch?v=JgDttbuPmiM)
-          highlighting their contributions to PLN.  We encourage our residents
-          to pick a project that they are excited about that utilizes and
-          expands upon their area of expertise.
-      - image:
-          src: >-
-            https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
         headline: Collaborate
         subhead: ''
         text: >
           One of the best parts of the Launchpad residency is the opportunity
-          for collaboration across PLN and the web3 community. Projects provide
+          for collaboration across the PLN web3 community. Our program provides
           an opportunity for members from many different teams and backgrounds
-          to work together to improve our network.
+          to come together to learn about the ecosystem, and make connections
+          across those teams.
+      - image:
+          src: >-
+            https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
+        headline: Demonstrate
+        subhead: ''
+        text: >+
+          The Launchpad experience culminates in a [demo
+          session](https://www.youtube.com/watch?v=JgDttbuPmiM), where you have
+          a chance to share a proof of concept that highlights your growth and
+          contribution to the PLN, while gathering feedback and raising
+          awareness of the work you are doing.
+
+
+
+
+        link: 'https://www.youtube.com/watch?v=JgDttbuPmiM'
+        buttonLabel: Demo Session
     _template: photoCards
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
@@ -349,87 +363,14 @@ blocks:
     image:
       src: ''
     label: ''
-    headline: Apply to the Residency Program
+    headline: Join Protocol Labs Network
     subhead: ''
-    body: >
-      We believe people grow the most when they’re working on projects they're
-      excited about. With [30+ teams ](https://protocol.ai/work/)within Protocol
-      Labs and [450+ companies](https://jobs.protocol.ai/companies) in the
-      Protocol Labs Network (PLN), now is a great time for people coming from
-      both inside and outside the web3 space to ramp up their knowledge and
-      contribute directly to these cutting-edge technologies.
-
-
-      This program gives unmatched residents the opportunity to explore & embed
-      with different teams across the PLN to find the projects and teams that
-      they mesh with best. Open roles include distributed systems engineers,
-      network researchers, developer advocates, technical writers, startup
-      operators, and many more exciting opportunities across PLN teams, OSS
-      projects, and companies.&#x20;
-
-
-
-      Fill out an application to the open roles below for the opportunity to
-      become a resident in the Launchpad program:
+    body: "We believe people grow the most when they’re working on projects they're excited about. With [h](https://jobs.protocol.ai/companies)undreds of teams in the Protocol Labs Network (PLN), now is a great time for people coming from both inside and outside the web3 space to ramp up their knowledge and contribute directly to these cutting-edge technologies.\n\n\n\n\nProtocol Labs provides a wide range of opportunities [join in](https://protocol.ai/join/) the\_collection of open source R\\&D roles, and web3 companies that are building on the foundation of Protocol Labs technologies. Explore the [companies that are hiring](https://www.getro.org/companies/protocol-labs) in the Protocol Labs space.\n"
     buttons:
-      - label: 'Engineer, Full Stack'
-        link: 'https://grnh.se/dac902a24us'
+      - label: Protocol Labs Jobs
+        link: 'https://jobs.protocol.ai/jobs'
         type: primary
-      - label: 'Engineer, Distributed Systems'
-        link: 'https://grnh.se/f87d27f84us'
-        type: primary
-      - label: Startup Operator
-        link: 'https://grnh.se/74966adf4us'
-        type: primary
-      - label: All Roles
-        link: 'https://protocol.getro.com/companies?page=2'
-        type: primary
-    navigationLabel: Apply
-    _template: feature
-  - style:
-      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
-      featureContent: 'w-2/3 min-h-0 '
-      padding: 'pt-20 pb-20 pr-20 pl-20 sm:pt-10 sm:pb-10 sm:pr-5 sm:pl-5'
-      featureImage: object-top object-cover to-edge
-      imagePadding: 'pt-20 pb-20 pr-20 pl-10 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
-      labelStyles: 'text-black font-1 text-sm mb-0 '
-      headlineStyles: >-
-        text-gray-light font-1 text-3xl mb-10  sm:text-gray-light sm:font-1
-        sm:text-2xl sm:mb-5 
-      subheadStyles: 'text-black font-1 text-3xl mb-0 '
-      textStyles: >-
-        text-white font-1 text-lg mb-9  sm:text-white sm:font-1 sm:text-lg
-        sm:mb-5 
-      contentOrder: labelHeadingsContent
-    background:
-      fillStyles: from-accent2 to-primary bg-gradient-to-br
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1664486816/LIBP2P_Launchpad_Title_Card_krmmi4.png
-    image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1654056645/DSCF8814_e2rpjf.jpg
-    label: ''
-    headline: Who Should Apply?
-    subhead: ''
-    body: >
-      *   Those who have extensive engineering experience in web2 or have
-      invested theimselves within the web3 community&#x20;
-
-      *   Those who see themselves as a technical fit across more than one of
-      our open engineering  or technical roles&#x20;
-
-      *   Individuals who have worked in roles that have had a high impact,
-      whether at a large company or a startup
-
-      *   Those who have experience programming in Golang, Rust, or other higly
-      utilized blockchain languages and frameworks
-
-      *   Individuals with experience with smart contracts, EVM, WASM, or
-      similar technologies
-
-      *   Humans with a passion for open source code, solving complex problems,
-      and the web3 space.
-    navigationLabel: ''
+    navigationLabel: Join PLN
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
@@ -453,6 +394,7 @@ blocks:
       fullWidth: false
       padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
     background:
+      fillStyles: bg-gray-light
       position: object-center
     markup: >
 
@@ -544,37 +486,6 @@ blocks:
           network.
     navigationLabel: ''
     _template: photoCards
-  - style:
-      alignment: 'flex-col text-left items-center items-start-vertical '
-      featureContent: 'w-full min-h-0 '
-      padding: pt-0 pb-20 pr-10 pl-20
-      featureImage: 'object-center object-scale-down '
-      imagePadding: pt-0 pb-20 pr-20 pl-10
-      labelStyles: 'text-gray-light font-2 text-sm mb-0 '
-      headlineStyles: 'text-gray-light font-2 text-3xl mb-0 '
-      subheadStyles: 'text-gray font-2 text-base mb-0 '
-      textStyles: 'text-gray-light font-2 text-xl mb-0 '
-      contentOrder: labelHeadingsContent
-    background:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1654021826/pl-launchpad/Filecoin_Launchpad_Closing_Card_q0dbeu.png
-      position: object-center
-    label: ''
-    headline: Hire Unmatched Residents
-    subhead: For PL Network Partners
-    body: >
-      Launchpad also provides opportunities for Network partners to access
-      high-quality talent that has been trained and onboarded into the PL web3
-      ecosystem. When unmatched Launchpad residents complete the program, we
-      work to connect them with the network teams that are looking for talent
-      primed to make the biggest contribution possible.
-
-
-      To learn more about hiring talent from the program, email
-      [launchpad-team@protocol.ai ](mailto:webdesign@example.com)and get
-      connected with unmatched launchpad residents.
-    navigationLabel: 'Hire '
-    _template: feature
   - style:
       textAlignment: text-left
       minHeight: min-h-0
