@@ -335,18 +335,7 @@ blocks:
     label: ''
     headline: Join Protocol Labs Network
     subhead: ''
-    body: >
-      We believe people grow the most when they’re working on projects they're
-      excited about. With [h](https://jobs.protocol.ai/companies)undreds of
-      teams in the Protocol Labs Network (PLN), now is a great time for people
-      coming from both inside and outside the web3 space to ramp up their
-      knowledge and contribute directly to these cutting-edge technologies.
-
-
-
-
-
-      Protocol Labs provides a wide range of&#x20;
+    body: "We believe people grow the most when they’re working on projects they're excited about. With [h](https://jobs.protocol.ai/companies)undreds of teams in the Protocol Labs Network (PLN), now is a great time for people coming from both inside and outside the web3 space to ramp up their knowledge and contribute directly to these cutting-edge technologies.\n\n\n\n\nProtocol Labs provides a wide range of opportunities [join in](https://protocol.ai/join/) the\_collection of open source R\\&D roles, and web3 companies that are building on the foundation of Protocol Labs technologies.\n"
     buttons:
       - label: Protocol Labs Jobs
         link: 'https://www.getro.org/companies/protocol-labs'
