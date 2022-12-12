@@ -341,9 +341,15 @@ blocks:
       teams in the Protocol Labs Network (PLN), now is a great time for people
       coming from both inside and outside the web3 space to ramp up their
       knowledge and contribute directly to these cutting-edge technologies.
+
+
+
+
+
+      With the&#x20;
     buttons:
-      - label: 'Engineer, Full Stack'
-        link: 'https://grnh.se/dac902a24us'
+      - label: Learn about PLN
+        link: Learn about the PLN
         type: primary
       - label: 'Engineer, Distributed Systems'
         link: 'https://grnh.se/f87d27f84us'
