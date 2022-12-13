@@ -150,7 +150,7 @@ blocks:
         https://res.cloudinary.com/protocolai/image/upload/v1661796180/Paris-Social-adjusted-lrg_ya8crp.png
       alt: Launchpad Hiring and Onboarding
     label: ''
-    headline: An Onboarding & Hiring Program
+    headline: A Protocol Labs Web3 Learning Experience
     subhead: ''
     body: >
       The Launchpad Program is a four-week onboarding program for new hires to
