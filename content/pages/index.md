@@ -116,9 +116,10 @@ blocks:
     headline: Accelerate New Hires
     subhead: For PL Network Partners
     body: >
-      Launchpad helps PL Network partners train and connect their new hires into
-      the PL web3 ecosystem, with many learning and growth opportunities to
-      become more effective in web3. Launchpad also partners closely with PL
+      Launchpad helps PL Network partners train and connect their new hires in
+      the PLN web3 ecosystem, providing a program with learning and growth
+      opportunities to enable residents to accelerate into effective
+      contribution inour ecosystem. Launchpad also partners closely with PL
       Network Recruiting to source and recruit amazing new talent to any team
       across the PL Network. Contact us to add your open roles to the PLN Job
       Board and partner with PL Recruiting to fill your open roles today!
