@@ -64,9 +64,6 @@ blocks:
         link: >-
           https://www.notion.so/pl-strflt/Launchpad-Dates-Registration-fb297b9636334b19bd02976b0c922ffd
         type: secondary
-      - label: Curriculum
-        link: '/https://curriculum.pl-launchpad.io/'
-        type: primary
     navigationLabel: ''
     _template: banner
   - style:
