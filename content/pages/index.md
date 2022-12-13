@@ -220,7 +220,7 @@ blocks:
     headline: Flexible Learning
     subhead: ''
     body: >
-      5 out of 6 weeks are an online + async experience with a
+      Three out of Four weeks are an online + async experience with a
       choose-your-own-adventure style curriculum and one daily virtual session.
       Learn our stack and gain exposure to the 30 teams and 450+ web3 projects
       in the Protocol Labs Network in an online environment.
