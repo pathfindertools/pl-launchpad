@@ -522,10 +522,6 @@ blocks:
 
 
           [PL Network Jobs](https://protocol.getro.com/companies?page=2)
-
-
-          [Launchpad
-          Applications](https://boards.greenhouse.io/protocollabs?t=feb6172d4us)
       - headline: ''
         subhead: ''
         text: |
