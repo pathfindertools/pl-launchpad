@@ -383,6 +383,8 @@ blocks:
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-gray-light
     label: ''
     headline: Testimonials
     subhead: ''
