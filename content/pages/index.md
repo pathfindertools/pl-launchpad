@@ -130,7 +130,7 @@ blocks:
       - label: Protocol Labs Jobs
         link: 'https://jobs.protocol.ai/jobs'
         type: primary
-    navigationLabel: Join PLN
+    navigationLabel: Apply
     _template: feature
   - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
