@@ -26,10 +26,6 @@ blocks:
     subhead: 'Protocol Labs Network Launchpad                                        '
     body: |
       ![](<> "")
-    buttons:
-      - label: Curriculum
-        link: 'https://curriculum.pl-launchpad.io/?utm_source=landingsite'
-        type: secondary
     navigationLabel: ''
     _template: banner
   - style:
@@ -57,11 +53,13 @@ blocks:
       Launchpad Accelerates Technical Contributors into the Protocol Labs
       Network
     body: >
-      Launchpad aims to onboard and enable exceptional talent from diverse
-      engineering and tech operations backgrounds with a four-week residency
-      designed to train and match talent with Web3 opportunities across the
-      Protocol Labs Network.
+      Launchpad enables exceptional talent with a four-week residency designed
+      to train and match talent with Web3 opportunities across the Protocol Labs
+      Network.
     buttons:
+      - label: Apply
+        link: 'https://jobs.protocol.ai/jobs'
+        type: secondary
       - label: Register Here
         link: >-
           https://www.notion.so/pl-strflt/Launchpad-Dates-Registration-fb297b9636334b19bd02976b0c922ffd
@@ -88,7 +86,7 @@ blocks:
         https://res.cloudinary.com/protocolai/image/upload/v1661796180/Paris-Social-adjusted-lrg_ya8crp.png
       alt: Launchpad Hiring and Onboarding
     label: ''
-    headline: An Onboarding & Hiring Program
+    headline: A Protocol Labs Web3 Learning Experience
     subhead: ''
     body: >
       The Launchpad Program is a four-week onboarding program for new hires to
@@ -102,6 +100,37 @@ blocks:
       in-person colocation with interactive sessions on the culture, tooling,
       and technology, in an experience designed to make participants effective,
       connected members of the PLN community.
+    buttons:
+      - label: Curriculum
+        link: '/https://curriculum.pl-launchpad.io/'
+        type: primary
+    _template: feature
+  - style:
+      alignment: 'flex-col text-left items-center items-center-vertical '
+      featureContent: 'w-2/3 min-h-0 '
+      padding: 'pt-32 pb-40 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
+      featureImage: 'object-left object-contain '
+      imagePadding: pt-0 pb-0 pr-20 pl-0
+      labelStyles: 'text-gray-dark font-1 text-sm mb-0 '
+      headlineStyles: >-
+        text-accent1 font-2 text-3xl mb-4  sm:text-accent1 sm:font-2 sm:text-2xl
+        sm:mb-2.5 
+      subheadStyles: 'text-gray-dark font-1 text-3xl mb-0 '
+      textStyles: 'text-accent1 font-1 text-lg mb-8 '
+      contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-white
+    image:
+      src: ''
+    label: ''
+    headline: Join Protocol Labs Network
+    subhead: ''
+    body: "We believe people grow the most when they’re working on projects they're excited about. With hundreds of teams in the Protocol Labs Network (PLN), now is a great time for people coming from both inside and outside the web3 space to ramp up their knowledge and contribute directly to these cutting-edge technologies.\n\nProtocol Labs provides a wide range of opportunities [join in](https://protocol.ai/join/) the\_collection of open source R\\&D roles, and web3 companies that are building on the foundation of Protocol Labs technologies. Explore the [companies that are hiring](https://www.getro.org/companies/protocol-labs) in the Protocol Labs space.\n"
+    buttons:
+      - label: Protocol Labs Jobs
+        link: 'https://jobs.protocol.ai/jobs'
+        type: primary
+    navigationLabel: Apply
     _template: feature
   - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
@@ -119,14 +148,16 @@ blocks:
         https://res.cloudinary.com/protocolai/image/upload/v1654021826/pl-launchpad/Filecoin_Launchpad_Closing_Card_q0dbeu.png
       position: object-center
     label: ''
-    headline: Hire with PLN
+    headline: Accelerate New Hires
     subhead: For PL Network Partners
     body: >
-      Launchpad is a unique opportunity for Network partners to access
-      high-quality talent that is trained and connected into the PL web3
-      ecosystem. As Launchpad residents go through the program, we work to
-      connect them with the network teams resources, and growth opportunities
-      that enable them to be effective.
+      Launchpad helps PL Network partners train and connect their new hires in
+      the PLN web3 ecosystem, providing a program with learning and growth
+      opportunities to enable residents to accelerate into effective
+      contribution inour ecosystem. Launchpad also partners closely with PL
+      Network Recruiting to source and recruit amazing new talent to any team
+      across the PL Network. Contact us to add your open roles to the PLN Job
+      Board and partner with PL Recruiting to fill your open roles today!
 
 
       To learn more about hiring talent from the program, email
@@ -162,7 +193,7 @@ blocks:
       <br>
 
       <iframe width="100%" height="410"
-      src="https://www.youtube.com/embed/pBh1hpS89Y4" title="YouTube video
+      src="https://www.youtube.com/embed/MYTMlVZ6HVk" title="YouTube video
       player" frameborder="20" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     navigationLabel: ''
@@ -189,7 +220,7 @@ blocks:
     headline: Flexible Learning
     subhead: ''
     body: >
-      5 out of 6 weeks are an online + async experience with a
+      Three out of Four weeks are an online + async experience with a
       choose-your-own-adventure style curriculum and one daily virtual session.
       Learn our stack and gain exposure to the 30 teams and 450+ web3 projects
       in the Protocol Labs Network in an online environment.
@@ -332,46 +363,15 @@ blocks:
             https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
         headline: Demonstrate
         subhead: ''
-        text: >+
+        text: >
           The Launchpad experience culminates in a [demo
           session](https://www.youtube.com/watch?v=JgDttbuPmiM), where you have
           a chance to share a proof of concept that highlights your growth and
           contribution to the PLN, while gathering feedback and raising
           awareness of the work you are doing.
-
-
-
-
         link: 'https://www.youtube.com/watch?v=JgDttbuPmiM'
         buttonLabel: Demo Session
     _template: photoCards
-  - style:
-      alignment: 'flex-col text-left items-center items-center-vertical '
-      featureContent: 'w-2/3 min-h-0 '
-      padding: 'pt-32 pb-40 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      featureImage: 'object-left object-contain '
-      imagePadding: pt-0 pb-0 pr-20 pl-0
-      labelStyles: 'text-gray-dark font-1 text-sm mb-0 '
-      headlineStyles: >-
-        text-accent1 font-2 text-3xl mb-4  sm:text-accent1 sm:font-2 sm:text-2xl
-        sm:mb-2.5 
-      subheadStyles: 'text-gray-dark font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-1 text-lg mb-8 '
-      contentOrder: labelHeadingsContent
-    background:
-      fillStyles: bg-white
-    image:
-      src: ''
-    label: ''
-    headline: Join Protocol Labs Network
-    subhead: ''
-    body: "We believe people grow the most when they’re working on projects they're excited about. With [h](https://jobs.protocol.ai/companies)undreds of teams in the Protocol Labs Network (PLN), now is a great time for people coming from both inside and outside the web3 space to ramp up their knowledge and contribute directly to these cutting-edge technologies.\n\n\n\n\nProtocol Labs provides a wide range of opportunities [join in](https://protocol.ai/join/) the\_collection of open source R\\&D roles, and web3 companies that are building on the foundation of Protocol Labs technologies. Explore the [companies that are hiring](https://www.getro.org/companies/protocol-labs) in the Protocol Labs space.\n"
-    buttons:
-      - label: Protocol Labs Jobs
-        link: 'https://jobs.protocol.ai/jobs'
-        type: primary
-    navigationLabel: Join PLN
-    _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-1/2 min-h-0 '
@@ -383,6 +383,8 @@ blocks:
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-gray-light
     label: ''
     headline: Testimonials
     subhead: ''
@@ -520,10 +522,6 @@ blocks:
 
 
           [PL Network Jobs](https://protocol.getro.com/companies?page=2)
-
-
-          [Launchpad
-          Applications](https://boards.greenhouse.io/protocollabs?t=feb6172d4us)
       - headline: ''
         subhead: ''
         text: |
