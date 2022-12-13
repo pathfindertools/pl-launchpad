@@ -164,6 +164,10 @@ blocks:
       in-person colocation with interactive sessions on the culture, tooling,
       and technology, in an experience designed to make participants effective,
       connected members of the PLN community.
+    buttons:
+      - label: Curriculum
+        link: '/https://curriculum.pl-launchpad.io/'
+        type: primary
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
