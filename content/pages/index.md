@@ -122,11 +122,12 @@ blocks:
     headline: Hire with PLN
     subhead: For PL Network Partners
     body: >
-      Launchpad is a unique opportunity for Network partners to access
-      high-quality talent that is trained and connected into the PL web3
-      ecosystem. As Launchpad residents go through the program, we work to
-      connect them with the network teams resources, and growth opportunities
-      that enable them to be effective.
+      Launchpad helps PL Network partners train and connect their new hires into
+      the PL web3 ecosystem, with many learning and growth opportunities to
+      become more effective in web3. Launchpad also partners closely with PL
+      Network Recruiting to source and recruit amazing new talent to any team
+      across the PL Network. Join the \<PL Job Board>(link) and partner with PL
+      Recruiting to fill your open roles today!
 
 
       To learn more about hiring talent from the program, email
@@ -332,16 +333,12 @@ blocks:
             https://res.cloudinary.com/protocolai/image/upload/v1653323798/pl-launchpad/collaborate_r2ujsn.jpg
         headline: Demonstrate
         subhead: ''
-        text: >+
+        text: >
           The Launchpad experience culminates in a [demo
           session](https://www.youtube.com/watch?v=JgDttbuPmiM), where you have
           a chance to share a proof of concept that highlights your growth and
           contribution to the PLN, while gathering feedback and raising
           awareness of the work you are doing.
-
-
-
-
         link: 'https://www.youtube.com/watch?v=JgDttbuPmiM'
         buttonLabel: Demo Session
     _template: photoCards
@@ -365,7 +362,7 @@ blocks:
     label: ''
     headline: Join Protocol Labs Network
     subhead: ''
-    body: "We believe people grow the most when they’re working on projects they're excited about. With [h](https://jobs.protocol.ai/companies)undreds of teams in the Protocol Labs Network (PLN), now is a great time for people coming from both inside and outside the web3 space to ramp up their knowledge and contribute directly to these cutting-edge technologies.\n\n\n\n\nProtocol Labs provides a wide range of opportunities [join in](https://protocol.ai/join/) the\_collection of open source R\\&D roles, and web3 companies that are building on the foundation of Protocol Labs technologies. Explore the [companies that are hiring](https://www.getro.org/companies/protocol-labs) in the Protocol Labs space.\n"
+    body: "We believe people grow the most when they’re working on projects they're excited about. With [h](https://jobs.protocol.ai/companies)undreds of teams in the Protocol Labs Network (PLN), now is a great time for people coming from both inside and outside the web3 space to ramp up their knowledge and contribute directly to these cutting-edge technologies.\n\nProtocol Labs provides a wide range of opportunities [join in](https://protocol.ai/join/) the\_collection of open source R\\&D roles, and web3 companies that are building on the foundation of Protocol Labs technologies. Explore the [companies that are hiring](https://www.getro.org/companies/protocol-labs) in the Protocol Labs space.\n"
     buttons:
       - label: Protocol Labs Jobs
         link: 'https://jobs.protocol.ai/jobs'
