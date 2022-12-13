@@ -26,10 +26,6 @@ blocks:
     subhead: 'Protocol Labs Network Launchpad                                        '
     body: |
       ![](<> "")
-    buttons:
-      - label: Curriculum
-        link: 'https://curriculum.pl-launchpad.io/?utm_source=landingsite'
-        type: secondary
     navigationLabel: ''
     _template: banner
   - style:
