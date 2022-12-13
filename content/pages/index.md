@@ -53,10 +53,9 @@ blocks:
       Launchpad Accelerates Technical Contributors into the Protocol Labs
       Network
     body: >
-      Launchpad aims to onboard and enable exceptional talent from diverse
-      engineering and tech operations backgrounds with a four-week residency
-      designed to train and match talent with Web3 opportunities across the
-      Protocol Labs Network.
+      Launchpad enables exceptional talent with a four-week residency designed
+      to train and match talent with Web3 opportunities across the Protocol Labs
+      Network.
     buttons:
       - label: Apply
         link: 'https://jobs.protocol.ai/jobs'
@@ -70,6 +69,45 @@ blocks:
         type: primary
     navigationLabel: ''
     _template: banner
+  - style:
+      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
+      featureContent: w-2/3 min-h-100 to-edge
+      padding: 'pt-60 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
+      featureImage: object-center object-contain to-edge
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      labelStyles: 'text-accent1 font-1 text-sm mb-0 '
+      headlineStyles: >-
+        text-accent1 font-2 text-3xl mb-12  sm:text-accent1 sm:font-2
+        sm:text-2xl sm:mb-3 
+      subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
+      textStyles: >-
+        text-accent1 font-2 text-xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
+        sm:mb-0 
+      contentOrder: labelHeadingsContent
+    image:
+      src: >-
+        https://res.cloudinary.com/protocolai/image/upload/v1661796180/Paris-Social-adjusted-lrg_ya8crp.png
+      alt: Launchpad Hiring and Onboarding
+    label: ''
+    headline: A Protocol Labs Web3 Learning Experience
+    subhead: ''
+    body: >
+      The Launchpad Program is a four-week onboarding program for new hires to
+      the Protocol Labs Network (PLN). This is a program designed as an
+      opportunity to bring those newly matched in the PLN network to the
+      projects, teams, and resources they will need to ramp up quickly in their
+      domain.
+
+
+      The program consists of three weeks of async learning, with a one week
+      in-person colocation with interactive sessions on the culture, tooling,
+      and technology, in an experience designed to make participants effective,
+      connected members of the PLN community.
+    buttons:
+      - label: Curriculum
+        link: '/https://curriculum.pl-launchpad.io/'
+        type: primary
+    _template: feature
   - style:
       alignment: 'flex-col text-left items-center items-center-vertical '
       featureContent: 'w-2/3 min-h-0 '
@@ -129,45 +167,6 @@ blocks:
       [launchpad-team@protocol.ai ](mailto:webdesign@example.com)and get
       connected with unmatched launchpad residents.
     navigationLabel: 'Hire '
-    _template: feature
-  - style:
-      alignment: 'flex-row-reverse text-left items-center items-start-vertical '
-      featureContent: w-2/3 min-h-100 to-edge
-      padding: 'pt-60 pb-20 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      featureImage: object-center object-contain to-edge
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      labelStyles: 'text-accent1 font-1 text-sm mb-0 '
-      headlineStyles: >-
-        text-accent1 font-2 text-3xl mb-12  sm:text-accent1 sm:font-2
-        sm:text-2xl sm:mb-3 
-      subheadStyles: 'text-accent1 font-1 text-3xl mb-0 '
-      textStyles: >-
-        text-accent1 font-2 text-xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
-        sm:mb-0 
-      contentOrder: labelHeadingsContent
-    image:
-      src: >-
-        https://res.cloudinary.com/protocolai/image/upload/v1661796180/Paris-Social-adjusted-lrg_ya8crp.png
-      alt: Launchpad Hiring and Onboarding
-    label: ''
-    headline: A Protocol Labs Web3 Learning Experience
-    subhead: ''
-    body: >
-      The Launchpad Program is a four-week onboarding program for new hires to
-      the Protocol Labs Network (PLN). This is a program designed as an
-      opportunity to bring those newly matched in the PLN network to the
-      projects, teams, and resources they will need to ramp up quickly in their
-      domain.
-
-
-      The program consists of three weeks of async learning, with a one week
-      in-person colocation with interactive sessions on the culture, tooling,
-      and technology, in an experience designed to make participants effective,
-      connected members of the PLN community.
-    buttons:
-      - label: Curriculum
-        link: '/https://curriculum.pl-launchpad.io/'
-        type: primary
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
