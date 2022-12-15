@@ -102,7 +102,7 @@ blocks:
       connected members of the PLN community.
     buttons:
       - label: Curriculum
-        link: '/https://curriculum.pl-launchpad.io/'
+        link: 'https://curriculum.pl-launchpad.io/'
         type: primary
     _template: feature
   - style:
