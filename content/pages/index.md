@@ -106,33 +106,6 @@ blocks:
         type: primary
     _template: feature
   - style:
-      alignment: 'flex-col text-left items-center items-center-vertical '
-      featureContent: 'w-2/3 min-h-0 '
-      padding: 'pt-32 pb-40 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
-      featureImage: 'object-left object-contain '
-      imagePadding: pt-0 pb-0 pr-20 pl-0
-      labelStyles: 'text-gray-dark font-1 text-sm mb-0 '
-      headlineStyles: >-
-        text-accent1 font-2 text-3xl mb-4  sm:text-accent1 sm:font-2 sm:text-2xl
-        sm:mb-2.5 
-      subheadStyles: 'text-gray-dark font-1 text-3xl mb-0 '
-      textStyles: 'text-accent1 font-1 text-lg mb-8 '
-      contentOrder: labelHeadingsContent
-    background:
-      fillStyles: bg-white
-    image:
-      src: ''
-    label: ''
-    headline: Join Protocol Labs Network
-    subhead: ''
-    body: "We believe people grow the most when they’re working on projects they're excited about. With hundreds of teams in the Protocol Labs Network (PLN), now is a great time for people coming from both inside and outside the web3 space to ramp up their knowledge and contribute directly to these cutting-edge technologies.\n\nProtocol Labs provides a wide range of opportunities [join in](https://protocol.ai/join/) the\_collection of open source R\\&D roles, and web3 companies that are building on the foundation of Protocol Labs technologies. Explore the [companies that are hiring](https://www.getro.org/companies/protocol-labs) in the Protocol Labs space.\n"
-    buttons:
-      - label: Protocol Labs Jobs
-        link: 'https://jobs.protocol.ai/jobs'
-        type: primary
-    navigationLabel: Apply
-    _template: feature
-  - style:
       alignment: 'flex-col text-left items-center items-start-vertical '
       featureContent: 'w-full min-h-0 '
       padding: pt-0 pb-20 pr-10 pl-20
@@ -164,6 +137,33 @@ blocks:
       [launchpad-team@protocol.ai ](mailto:webdesign@example.com)and get
       connected with unmatched launchpad residents.
     navigationLabel: 'Hire '
+    _template: feature
+  - style:
+      alignment: 'flex-col text-left items-center items-center-vertical '
+      featureContent: 'w-2/3 min-h-0 '
+      padding: 'pt-32 pb-40 pr-20 pl-20 sm:pt-6 sm:pb-6 sm:pr-6 sm:pl-6'
+      featureImage: 'object-left object-contain '
+      imagePadding: pt-0 pb-0 pr-20 pl-0
+      labelStyles: 'text-gray-dark font-1 text-sm mb-0 '
+      headlineStyles: >-
+        text-accent1 font-2 text-3xl mb-4  sm:text-accent1 sm:font-2 sm:text-2xl
+        sm:mb-2.5 
+      subheadStyles: 'text-gray-dark font-1 text-3xl mb-0 '
+      textStyles: 'text-accent1 font-1 text-lg mb-8 '
+      contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-white
+    image:
+      src: ''
+    label: ''
+    headline: Join Protocol Labs Network
+    subhead: ''
+    body: "We believe people grow the most when they’re working on projects they're excited about. With hundreds of teams in the Protocol Labs Network (PLN), now is a great time for people coming from both inside and outside the web3 space to ramp up their knowledge and contribute directly to these cutting-edge technologies.\n\nProtocol Labs provides a wide range of opportunities [join in](https://protocol.ai/join/) the\_collection of open source R\\&D roles, and web3 companies that are building on the foundation of Protocol Labs technologies. Explore the [companies that are hiring](https://www.getro.org/companies/protocol-labs) in the Protocol Labs space.\n"
+    buttons:
+      - label: Protocol Labs Jobs
+        link: 'https://jobs.protocol.ai/jobs'
+        type: primary
+    navigationLabel: Apply
     _template: feature
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
