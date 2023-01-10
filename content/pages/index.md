@@ -186,6 +186,8 @@ blocks:
       minHeight: min-h-0
       fullWidth: false
       padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
+    background:
+      fillStyles: bg-gray-light
     markup: >-
       <h1 class="order-2 text-accent1 font-2 text-3xl mb-9  sm:text-accent1
       sm:font-2 sm:text-2xl sm:mb-3 ">Colocation Week</h1>
