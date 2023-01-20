@@ -54,8 +54,9 @@ blocks:
       Network
     body: >
       Launchpad enables exceptional talent with a four-week residency designed
-      to train and match talent with Web3 opportunities across the Protocol Labs
-      Network.
+      to train Protocol Labs Network talent on the diverse technologies, tools,
+      and resources to make new and existing member more effective, connected,
+      and knowledgeable.
     buttons:
       - label: Apply
         link: 'https://jobs.protocol.ai/jobs'
@@ -64,6 +65,9 @@ blocks:
         link: >-
           https://www.notion.so/pl-strflt/Launchpad-Dates-Registration-fb297b9636334b19bd02976b0c922ffd
         type: secondary
+      - label: Curriculum
+        link: 'https://curriculum.pl-launchpad.io/'
+        type: minor
     navigationLabel: ''
     _template: banner
   - style:
