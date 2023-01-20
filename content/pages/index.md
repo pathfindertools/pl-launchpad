@@ -250,6 +250,8 @@ blocks:
         text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
         sm:mb-0 
       contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-gray-light
     image:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1652061174/Engage_Launchpad_Photo_ajgttc.jpg
