@@ -172,7 +172,7 @@ blocks:
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-1/2 min-h-0 '
-      padding: pt-20 pb-20 pr-10 pl-20
+      padding: pt-8 pb-0 pr-10 pl-20
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-20 pb-20 pr-20 pl-10
       labelStyles: 'text-black font-2 text-sm mb-0 '
