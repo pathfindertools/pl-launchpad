@@ -54,8 +54,9 @@ blocks:
       Network
     body: >
       Launchpad enables exceptional talent with a four-week residency designed
-      to train and match talent with Web3 opportunities across the Protocol Labs
-      Network.
+      to train Protocol Labs Network talent on the diverse technologies, tools,
+      and resources to make new and existing teams more effective, connected,
+      and knowledgeable.
     buttons:
       - label: Apply
         link: 'https://jobs.protocol.ai/jobs'
@@ -64,6 +65,9 @@ blocks:
         link: >-
           https://www.notion.so/pl-strflt/Launchpad-Dates-Registration-fb297b9636334b19bd02976b0c922ffd
         type: secondary
+      - label: Curriculum
+        link: 'https://curriculum.pl-launchpad.io/'
+        type: minor
     navigationLabel: ''
     _template: banner
   - style:
@@ -168,7 +172,7 @@ blocks:
   - style:
       alignment: 'flex-row-reverse text-left items-center items-start-vertical '
       featureContent: 'w-1/2 min-h-0 '
-      padding: pt-20 pb-20 pr-10 pl-20
+      padding: pt-8 pb-0 pr-10 pl-20
       featureImage: 'object-center object-scale-down '
       imagePadding: pt-20 pb-20 pr-20 pl-10
       labelStyles: 'text-black font-2 text-sm mb-0 '
@@ -176,6 +180,8 @@ blocks:
       subheadStyles: 'text-black font-1 text-3xl mb-0 '
       textStyles: 'text-black font-1 undefined mb-0 '
       contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-gray-light
     label: ''
     headline: Program
     subhead: ''
@@ -186,6 +192,8 @@ blocks:
       minHeight: min-h-0
       fullWidth: false
       padding: 'pt-20 pb-20 pr-40 pl-40 sm:pt-5 sm:pb-5 sm:pr-5 sm:pl-5'
+    background:
+      fillStyles: bg-gray-light
     markup: >-
       <h1 class="order-2 text-accent1 font-2 text-3xl mb-9  sm:text-accent1
       sm:font-2 sm:text-2xl sm:mb-3 ">Colocation Week</h1>
@@ -213,6 +221,8 @@ blocks:
         text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
         sm:mb-0 
       contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-gray-light
     image:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1651780106/pl-launchpad/Sticky-Stock-Photo-1-p-1600_yxp5ts.jpg
@@ -240,6 +250,8 @@ blocks:
         text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
         sm:mb-0 
       contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-gray-light
     image:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1652061174/Engage_Launchpad_Photo_ajgttc.jpg
@@ -269,6 +281,8 @@ blocks:
         text-accent1 font-2 text-2xl mb-0  sm:text-accent1 sm:font-2 sm:text-lg
         sm:mb-0 
       contentOrder: labelHeadingsContent
+    background:
+      fillStyles: bg-gray-light
     image:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1652061490/Team-Match-p-500_bmljm6.jpg
