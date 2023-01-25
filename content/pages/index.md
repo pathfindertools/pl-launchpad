@@ -53,10 +53,10 @@ blocks:
       Launchpad Accelerates Technical Contributors into the Protocol Labs
       Network
     body: >
-      Launchpad enables exceptional talent with a four-week residency designed
-      to train Protocol Labs Network talent on the diverse technologies, tools,
-      and resources to make new and existing teams more effective, connected,
-      and knowledgeable.
+      Launchpad enables exceptional PLN talent with a four-week residency
+      designed to train Protocol Labs Network talent on the diverse
+      technologies, tools, and resources to make new and existing teams more
+      effective, connected, and knowledgeable.
     buttons:
       - label: Apply
         link: 'https://jobs.protocol.ai/jobs'
@@ -93,11 +93,10 @@ blocks:
     headline: A Protocol Labs Web3 Learning Experience
     subhead: ''
     body: >
-      The Launchpad Program is a four-week onboarding program for new hires to
-      the Protocol Labs Network (PLN). This is a program designed as an
-      opportunity to bring those newly matched in the PLN network to the
-      projects, teams, and resources they will need to ramp up quickly in their
-      domain.
+      The Launchpad Program is a four-week onboarding program for the Protocol
+      Labs Network (PLN). This program is designed as an opportunity to bring
+      those in the PLN network closer to the projects, teams, and resources they
+      will need to ramp up quickly in their domain.
 
 
       The program consists of three weeks of async learning, with a one week
@@ -105,8 +104,9 @@ blocks:
       and technology, in an experience designed to make participants effective,
       connected members of the PLN community.
     buttons:
-      - label: Curriculum
-        link: 'https://curriculum.pl-launchpad.io/'
+      - label: Launchpad for PLN Teams
+        link: >-
+          https://ecosystem-wg.notion.site/Launchpad-for-the-Protocol-Lab-Teams-WIP-104d374ab3c9464f8c8a3f6eaae8185e
         type: primary
     _template: feature
   - style:
@@ -125,21 +125,22 @@ blocks:
         https://res.cloudinary.com/protocolai/image/upload/v1654021826/pl-launchpad/Filecoin_Launchpad_Closing_Card_q0dbeu.png
       position: object-center
     label: ''
-    headline: Accelerate New Hires
-    subhead: For PL Network Partners
+    headline: Launchpad for Accelerator Teams
+    subhead: Embed In Our Network & Build on the PLN Stack
     body: >
-      Launchpad helps PL Network partners train and connect their new hires in
-      the PLN web3 ecosystem, providing a program with learning and growth
-      opportunities to enable residents to accelerate into effective
-      contribution inour ecosystem. Launchpad also partners closely with PL
-      Network Recruiting to source and recruit amazing new talent to any team
-      across the PL Network. Contact us to add your open roles to the PLN Job
-      Board and partner with PL Recruiting to fill your open roles today!
+      The PLN is made up of 200+ member organisations and over 800+ individuals.
+      Get connected with them by becoming a Launchpad resident!&#x20;
 
 
-      To learn more about hiring talent from the program, email
-      [launchpad-team@protocol.ai ](mailto:webdesign@example.com)and get
-      connected with unmatched launchpad residents.
+
+      You will gain access to expert teachers and mentors who can give you
+      strategic, customised guidance on where to take your project, expert
+      technical support, and support in implement.
+
+
+      To learn more about the program we offer to late stage builder teams
+      graduating from accelerators, email
+      [launchpad-team@protocol.ai](mailto:webdesign@example.com).
     navigationLabel: 'Hire '
     _template: feature
   - style:
@@ -160,9 +161,21 @@ blocks:
     image:
       src: ''
     label: ''
-    headline: Join Protocol Labs Network
+    headline: Apply to the Protocol Labs Network
     subhead: ''
-    body: "We believe people grow the most when they’re working on projects they're excited about. With hundreds of teams in the Protocol Labs Network (PLN), now is a great time for people coming from both inside and outside the web3 space to ramp up their knowledge and contribute directly to these cutting-edge technologies.\n\nProtocol Labs provides a wide range of opportunities [join in](https://protocol.ai/join/) the\_collection of open source R\\&D roles, and web3 companies that are building on the foundation of Protocol Labs technologies. Explore the [companies that are hiring](https://www.getro.org/companies/protocol-labs) in the Protocol Labs space.\n"
+    body: >
+      We believe people grow the most when they’re working on projects they're
+      excited about. With hundreds of teams in the Protocol Labs Network (PLN),
+      now is a great time for people coming from both inside and outside the
+      web3 space to ramp up their knowledge and contribute directly to these
+      cutting-edge technologies.
+
+
+      Protocol Labs has openings in a wide range of roles and web3 companies
+      that are building on the foundation of Protocol Labs technologies. Explore
+      the [companies that are
+      hiring](https://www.getro.org/companies/protocol-labs) in the Protocol
+      Labs space.
     buttons:
       - label: Protocol Labs Jobs
         link: 'https://jobs.protocol.ai/jobs'
