@@ -53,10 +53,10 @@ blocks:
       Launchpad Accelerates Technical Contributors into the Protocol Labs
       Network
     body: >
-      Launchpad enables exceptional talent with a four-week residency designed
-      to train Protocol Labs Network talent on the diverse technologies, tools,
-      and resources to make new and existing teams more effective, connected,
-      and knowledgeable.
+      Launchpad enables exceptional PLN talent with a four-week residency
+      designed to train Protocol Labs Network talent on the diverse
+      technologies, tools, and resources to make new and existing teams more
+      effective, connected, and knowledgeable.
     buttons:
       - label: Apply
         link: 'https://jobs.protocol.ai/jobs'
