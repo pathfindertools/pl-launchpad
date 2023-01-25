@@ -125,16 +125,20 @@ blocks:
         https://res.cloudinary.com/protocolai/image/upload/v1654021826/pl-launchpad/Filecoin_Launchpad_Closing_Card_q0dbeu.png
       position: object-center
     label: ''
-    headline: Accelerate New Hires
+    headline: Launchpad for Accelerator Teams
     subhead: For PL Network Partners
     body: >
       Launchpad helps PL Network partners train and connect their new hires in
       the PLN web3 ecosystem, providing a program with learning and growth
       opportunities to enable residents to accelerate into effective
-      contribution inour ecosystem. Launchpad also partners closely with PL
+      contribution in the ecosystem. Launchpad also partners closely with PL
       Network Recruiting to source and recruit amazing new talent to any team
-      across the PL Network. Contact us to add your open roles to the PLN Job
-      Board and partner with PL Recruiting to fill your open roles today!
+      across the PL Network.&#x20;
+
+
+      Contact us to add your open roles to the PLN Job Board and partner with PL
+      Recruiting to find high quality today!
+
 
 
       To learn more about hiring talent from the program, email
