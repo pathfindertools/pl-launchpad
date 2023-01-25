@@ -93,11 +93,10 @@ blocks:
     headline: A Protocol Labs Web3 Learning Experience
     subhead: ''
     body: >
-      The Launchpad Program is a four-week onboarding program for new hires to
-      the Protocol Labs Network (PLN). This is a program designed as an
-      opportunity to bring those newly matched in the PLN network to the
-      projects, teams, and resources they will need to ramp up quickly in their
-      domain.
+      The Launchpad Program is a four-week onboarding program for the Protocol
+      Labs Network (PLN). This program is designed as an opportunity to bring
+      those newly matched in the PLN network to the projects, teams, and
+      resources they will need to ramp up quickly in their domain.
 
 
       The program consists of three weeks of async learning, with a one week
@@ -105,8 +104,9 @@ blocks:
       and technology, in an experience designed to make participants effective,
       connected members of the PLN community.
     buttons:
-      - label: Curriculum
-        link: 'https://curriculum.pl-launchpad.io/'
+      - label: Launchpad for PLN Teams
+        link: >-
+          https://ecosystem-wg.notion.site/Launchpad-for-the-Protocol-Lab-Teams-WIP-104d374ab3c9464f8c8a3f6eaae8185e
         type: primary
     _template: feature
   - style:
