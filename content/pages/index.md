@@ -126,24 +126,21 @@ blocks:
       position: object-center
     label: ''
     headline: Launchpad for Accelerator Teams
-    subhead: For PL Network Partners
+    subhead: Embed In Our Network & Build on the PLN Stack
     body: >
-      Launchpad helps PL Network partners train and connect their new hires in
-      the PLN web3 ecosystem, providing a program with learning and growth
-      opportunities to enable residents to accelerate into effective
-      contribution in the ecosystem. Launchpad also partners closely with PL
-      Network Recruiting to source and recruit amazing new talent to any team
-      across the PL Network.&#x20;
-
-
-      Contact us to add your open roles to the PLN Job Board and partner with PL
-      Recruiting to find high quality today!
+      The PLN is made up of 200+ member organisations and over 800+ individuals.
+      Get connected with them by becoming a Launchpad resident!&#x20;
 
 
 
-      To learn more about hiring talent from the program, email
-      [launchpad-team@protocol.ai ](mailto:webdesign@example.com)and get
-      connected with unmatched launchpad residents.
+      You will gain access to expert teachers and mentors who can give you
+      strategic, customised guidance on where to take your project, expert
+      technical support, and support in implement.
+
+
+      To learn more about the program we offer to late stage builder teams
+      graduating from accelerators, email
+      [launchpad-team@protocol.ai](mailto:webdesign@example.com).
     navigationLabel: 'Hire '
     _template: feature
   - style:
