@@ -155,11 +155,11 @@ export const tinaConfig = defineConfig({
 
     return cms;
   },
-  formifyCallback: ({ formConfig, createForm, createGlobalForm }) => {
-    if (formConfig.id === "getGlobalDocument") {
-      return createGlobalForm(formConfig, { layout: 'fullscreen' });
-    }
+  // formifyCallback: ({ formConfig, createForm, createGlobalForm }) => {
+  //   if (formConfig.id === "getGlobalDocument") {
+  //     return createGlobalForm(formConfig, { layout: 'fullscreen' });
+  //   }
 
-    return createForm(formConfig);
-  },
+  //   return createForm(formConfig);
+  // },
 });
