@@ -1,5 +1,7 @@
 # Launchpad Website
 
+This repo is archived as the site is now being served from [https://github.com/protocol/launchpad](https://github.com/protocol/launchpad).
+
 This repository contains code and content for the Launchpad Residency + Program Website a a hiring and onboarding program for the Protocol Labs Network. 
 
 Contributions are more than welcome!
